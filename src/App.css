@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Klavika Medium';
+  src: url(./assets/klavika-medium.otf);
+}
+
+body {
+  font-family: 'Klavika Medium';
+}

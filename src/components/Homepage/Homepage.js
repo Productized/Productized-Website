@@ -1,7 +1,13 @@
 import React from 'react';
+import HomepageCarousel from './Carousel/HomepageCarousel';
 
 function Homepage() {
-  return <h1>Homepage</h1>;
+  return (
+    <>
+      <HomepageCarousel />
+      <h1>Homepage</h1>
+    </>
+  );
 }
 
 export default Homepage;
