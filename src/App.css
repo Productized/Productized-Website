@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Klavika Light';
+  src: url(./assets/klavika-light.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Medium';
+  src: url(./assets/klavika-medium.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Bold';
+  src: url(./assets/klavika-bold.otf);
+}
+
+body {
+  font-family: 'Klavika Light';
+}
