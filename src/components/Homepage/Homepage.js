@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import HomepageCarousel from './Carousel/HomepageCarousel';
 import CurrentEvent from './CurrentEvent/CurrentEvent';
+import NavBar from '../Shared/NavBar';
+import '../../i18n';
 
 class Homepage extends React.Component {
   constructor(props) {
@@ -11,8 +13,11 @@ class Homepage extends React.Component {
   render() {
     return (
       <>
-        <HomepageCarousel />
-        <CurrentEvent />
+        <Suspense fallback={null}>
+          <NavBar />
+          <HomepageCarousel />
+          <CurrentEvent />
+        </Suspense>
         <h1>Homepage</h1>
       </>
     );

@@ -1,8 +1,10 @@
 import React from 'react';
 import './CurrentEvent.css';
 import logoConf from '../../../assets/logo-conf.png';
+import { useTranslation } from 'react-i18next';
 
 function CurrentEvent() {
+  const { t } = useTranslation();
   return (
     <>
       <div className="current-event-div">
@@ -13,8 +15,9 @@ function CurrentEvent() {
             alt="conference logo"
           />
           <p className="current-event-p">
-            If you are looking for PRODUCTIZED <span>CONFERENCE</span>, checkout
-            our conference website
+            {t('current-event1.label')}
+            <span> {t('conference.label')} </span>
+            {t('current-event2.label')}
           </p>
           <a
             className="current-event-button-link"
@@ -22,7 +25,9 @@ function CurrentEvent() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button className="current-event-button">CHECK NOW</button>
+            <button className="current-event-button">
+              {t('current-button.label')}
+            </button>
           </a>
         </div>
       </div>
