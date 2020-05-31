@@ -1,0 +1,56 @@
+.partners-container {
+  margin-top: 3.5em;
+  
+}
+
+.logo-container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-evenly;
+}
+
+.title-content {
+  text-align: center;
+  margin: 0;
+}
+.partners {
+  color: #464646;
+  margin: 0;
+}
+
+.our-clients {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.fb {
+  height: 40px;
+  width: 200px;
+}
+
+.gog {
+  height: 100px;
+  width: 200px;
+}
+
+.sap {
+  height: 90px;
+  width: 200px;
+}
+
+.olx {
+  height: 80px;
+  width: 200px;
+}
+
+.zal {
+  height: 90px;
+  width: 200px;
+}
+
+.nt {
+  height: 60px;
+  width: 200px;
+}
