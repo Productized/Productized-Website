@@ -17,12 +17,6 @@ class Homepage extends React.Component {
   render() {
     return (
       <>
-        <Suspense fallback={null}>
-          <NavBar />
-          <HomepageCarousel />
-          <CurrentEvent />
-        </Suspense>
-        <h1>Homepage</h1>
       <Suspense fallback={null}>
         <NavBar />
         <HomepageCarousel />
