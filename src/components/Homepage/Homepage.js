@@ -3,6 +3,10 @@ import HomepageCarousel from './Carousel/HomepageCarousel';
 import CurrentEvent from './CurrentEvent/CurrentEvent';
 import NavBar from '../Shared/NavBar';
 import '../../i18n';
+//import CalenderCard from './Calendar/CalendarCard';
+import Footer from './../Shared/Footer';
+import OurTeam from './OurTeam/OurTeam';
+import Partners from './Partners/Partner';
 
 class Homepage extends React.Component {
   constructor(props) {
@@ -19,6 +23,15 @@ class Homepage extends React.Component {
           <CurrentEvent />
         </Suspense>
         <h1>Homepage</h1>
+      <Suspense fallback={null}>
+        <NavBar />
+        <HomepageCarousel />
+        <CurrentEvent />
+        {/* <CalenderCard /> */}
+        <OurTeam />
+        <Partners />
+        <Footer />
+      </Suspense>
       </>
     );
   }
