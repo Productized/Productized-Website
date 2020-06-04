@@ -1,0 +1,19 @@
+.yearcard-img {
+  width: 300px;
+  height: 90px;
+}
+
+.yearcard {
+  position: relative;
+  margin: 30px 40px;
+}
+
+.yearcard-year {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3em;
+  font-family: Klavika Bold;
+  color: white;
+}
