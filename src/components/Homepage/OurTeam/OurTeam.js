@@ -8,7 +8,7 @@ class OurTeam extends React.Component {
     super(props);
     this.state = {
       teamCards: [
-        { id: 1, image: "https://i.imgur.com/AMP0su6.jpg", description: "I am a text" },
+        { id: 1, image: pippin, description: "I am a text" },
 
         { id: 2, image: pippin, description: "I am a text" },
 
@@ -18,20 +18,17 @@ class OurTeam extends React.Component {
   }
 
   render() {
-    console.log(this.state);
+    const teamCards = this.state.teamCards;
     return (
       <div>
         <div className="title-content">
           <p className="dedicated">DEDICATED</p>
-          <p className="our-team"> OUR TEAM </p>
+          <h2 className="our-team"> OUR TEAM </h2>
         </div>
-
         <div className="cards-container">
-          {this.state.teamCards.map((teamCard) => (
+          {teamCards.map((teamCard) => (
             <OurTeamCard
-              id={teamCard.id}
-              image={teamCard.image}
-              description={teamCard.description}
+            {...teamCard}
             />
           ))}
         </div>
