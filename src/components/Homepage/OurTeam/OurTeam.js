@@ -1,33 +1,43 @@
 import React from "react";
 import "./OurTeam.css";
+import OurTeamCard from "./OurTeamCard";
 import pippin from "../../../assets/pippin.jpg";
-import pippin2 from "../../../assets/pippin2.jpg"
 
-export default function OurTeam() {
-  return (
- <div>
-    <div className="title-content">
-    <p className="dedicated">DEDICATED</p>
-    <p className="our-team"> OUR TEAM </p>
-    </div>
+class OurTeam extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      teamCards: [
+        { id: 1, image: "https://i.imgur.com/AMP0su6.jpg", description: "I am a text" },
 
-    <div className="cards-container">
-    <div className="cards">
-      <img className="card-image" src={pippin} alt="pippin" />
-      <img className="card-image image2" src={pippin2} alt="pippin" />
-    </div>
+        { id: 2, image: pippin, description: "I am a text" },
 
-    <div className="cards">
-      <img className="card-image" src={pippin} alt="pippin" />
-      <img className="card-image image2" src={pippin2} alt="pippin" />
-    </div>
+        { id: 3, image: pippin, description: "I am a text" },
+      ],
+    };
+  }
 
-    <div className="cards">
-     <img className="card-image image2" src={pippin2} alt="pippin" />
-      <img className="card-image" src={pippin} alt="pippin" />
-    </div>
-</div>
-  </div>
-  );
+  render() {
+    console.log(this.state);
+    return (
+      <div>
+        <div className="title-content">
+          <p className="dedicated">DEDICATED</p>
+          <p className="our-team"> OUR TEAM </p>
+        </div>
+
+        <div className="cards-container">
+          {this.state.teamCards.map((teamCard) => (
+            <OurTeamCard
+              id={teamCard.id}
+              image={teamCard.image}
+              description={teamCard.description}
+            />
+          ))}
+        </div>
+      </div>
+    );
+  }
 }
 
+export default OurTeam;

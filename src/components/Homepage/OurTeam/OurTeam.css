@@ -1,66 +1,50 @@
+.title-content {
+  text-align: center;
+}
 
-    .title-content{
-      text-align: center;
-       }
+.dedicated {
+  color: #464646;
+  margin: 0;
+}
 
-     .dedicated {
-       color:#464646;
-       margin: 0;
-     }
-     
-     .our-team {
-       font-size:2.5rem;
-       font-weight: bold;
-     }
-     
-     .cards-container{
-       display: flex;
-       flex-wrap: wrap;
-       min-height: 400px;
-       align-items: center;
-       justify-content: space-around;
-       padding: 0px;               
-     }
+.our-team {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
 
-     .cards .image2{
-      display: none;
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: 99;
-     }
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 400px;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0px;
+}
 
-     .cards:hover .image2 {
-      display: block;
-      width: 300px;
-      height: 400px;
-  }
-     
-     .cards{
-      position: relative;
-       margin-top: 2rem;
-       width: 300px;
-       display: flex;
-       flex-direction: column;
-       align-items: center;
-       justify-content: space-evenly;
-       box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
-       
-     }
+.cards {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
 
-     .image2 {
-      display:none;
-      position: absolute;
-      width: 300px;
-      height: 400px;
-    }
+.cards {
+  position: relative;
+  margin-top: 2rem;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
+}
 
-     .card-image{
-       height: 100%;
-       width: 100%;
-       }
+.card-image {
+  height: 100%;
+  width: 100%;
+}
 
-    .card-image:hover{
-      background-image: "pippin2.jpg" no-repeat;
-    }
-    
+.card-image:hover {
+  filter: sepia(100%);
+}
