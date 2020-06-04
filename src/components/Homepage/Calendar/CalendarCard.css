@@ -1,0 +1,55 @@
+.calender-background {
+  width: 700px;
+  height: 100px;
+  opacity: 70%;
+  filter: brightness(50%);
+}
+
+.layer {
+  background-color: blue;
+  z-index: 85;
+}
+
+.calendarcard-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.event-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+  font-family: Klavika Bold;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.date {
+  width: 100px;
+  height: 100px;
+  background-color: #91d3f0;
+  color: white;
+  font-family: Klavika Bold;
+  text-align: center;
+  text-shadow: 1px 1px 1px #464646;
+}
+
+.day {
+  margin: -15px 0px -15px 0px;
+  font-size: 40px;
+}
+
+.month {
+  margin: 10px 0px -15px 0px;
+}
+
+.page-title {
+  font-family: Klavika Bold;
+  text-align: center;
+  margin: 20px 0;
+}
