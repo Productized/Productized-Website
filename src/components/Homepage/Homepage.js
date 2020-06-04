@@ -1,6 +1,7 @@
 import React from 'react';
 import HomepageCarousel from './Carousel/HomepageCarousel';
 import CurrentEvent from './CurrentEvent/CurrentEvent';
+import Calendar from './Calendar/Calendar';
 
 class Homepage extends React.Component {
   constructor(props) {
@@ -13,7 +14,7 @@ class Homepage extends React.Component {
       <>
         <HomepageCarousel />
         <CurrentEvent />
-        <h1>Homepage</h1>
+        <Calendar />
       </>
     );
   }
