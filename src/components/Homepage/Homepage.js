@@ -1,8 +1,8 @@
 import React from 'react';
 import HomepageCarousel from './Carousel/HomepageCarousel';
 import CurrentEvent from './CurrentEvent/CurrentEvent';
+import Calendar from './Calendar/Calendar';
 import NavBar from '../Shared/NavBar';
-//import CalenderCard from './Calendar/CalendarCard';
 import Footer from './../Shared/Footer';
 import OurTeam from './OurTeam/OurTeam';
 import Partners from './Partners/Partner';
@@ -21,7 +21,7 @@ class Homepage extends React.Component {
         <HomepageCarousel />
         <CurrentEvent />
         <WhatWeDo />
-        {/* <CalenderCard /> */}
+        <Calendar />
         <OurTeam />
         <Partners />
         <Footer />

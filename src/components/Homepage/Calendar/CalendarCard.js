@@ -1,17 +1,25 @@
 import React from 'react';
-import './CalenderCard.css';
+import './CalendarCard.css';
 
-class CalenderCard extends React.Component {
-  render() {
-    return (
-      <div className="card-bg-img">
-        <div className="card-title">
-          <h1>Calender</h1>
-          <p>No events announced</p>
-        </div>
+function CalendarCard(props) {
+  console.log(props);
+  return (
+    <div className="calendarcard-div">
+      <div className="date">
+        <p className="month">{props.month}</p>
+        <p className="day">{props.day}</p>
+        <p className="weekday">{props.weekday}</p>
       </div>
-    );
-  }
+      <div className="layer">
+        <img
+          className="calender-background"
+          src={props.image}
+          alt={props.event}
+        />
+        <p className="event-text">{props.event}</p>
+      </div>
+    </div>
+  );
 }
 
-export default CalenderCard;
+export default CalendarCard;
