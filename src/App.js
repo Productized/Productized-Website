@@ -12,13 +12,11 @@ import GirlsWhoProduct from './components/GirlsWhoProduct/GirlsWhoProduct';
 import Courses from './components/Courses/Courses';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import NavBar from './components/Shared/NavBar';
 
 function App() {
   return (
     <div>
       <Router>
-        <NavBar />
         <Switch>
           <Route exact path="/">
             <Homepage />

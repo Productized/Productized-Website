@@ -11,7 +11,11 @@ function CalendarCard(props) {
         <p className="weekday">{props.weekday}</p>
       </div>
       <div className="layer">
-        <img className="calender-background" src={props.image} />
+        <img
+          className="calender-background"
+          src={props.image}
+          alt={props.event}
+        />
         <p className="event-text">{props.event}</p>
       </div>
     </div>
