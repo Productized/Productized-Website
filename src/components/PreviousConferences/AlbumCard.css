@@ -1,0 +1,17 @@
+.albumcard-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.albumcard {
+  margin-bottom: 30px;
+}
+
+.album-section-title {
+  font-family: Klavika Bold;
+  text-align: center;
+  margin: 30px 0 50px 0;
+}

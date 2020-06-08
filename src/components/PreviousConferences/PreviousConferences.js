@@ -42,6 +42,7 @@ class PreviousConferences extends React.Component {
       ],
     };
   }
+
   render() {
     const confYears = this.state.confYears;
     return (
