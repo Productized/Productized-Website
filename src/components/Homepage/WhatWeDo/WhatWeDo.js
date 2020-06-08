@@ -12,7 +12,7 @@ class WhatWeDo extends React.Component {
           image: 'https://via.placeholder.com/300',
           title: 'COURSES',
           description:
-            'Maecenas ut justo vel ligula imperdiet dignissim. Orci varius natoque penatibus et magnis dis parturient montes.',
+            'Getting into Product Management Online. Learn through high-quality videos, engaging lessons, hands-on activities, and sharing insights.',
           button: 'CHECK AVAILABLE COURSES',
           backgroundColor: 'background-red',
         },
@@ -21,7 +21,7 @@ class WhatWeDo extends React.Component {
           image: 'https://via.placeholder.com/300',
           title: 'MEETUPS',
           description:
-            'Donec dapibus et felis condimentum elementum. Morbi non egestas metus. Mauris et malesuada ex, vitae pharetra.',
+            'Get inspired! Series of events with top speakers and experts to answer the question "how to create well-designed products?"',
           button: 'CHECK OUR MEETUPS',
           backgroundColor: 'background-yellow',
         },
@@ -30,7 +30,7 @@ class WhatWeDo extends React.Component {
           image: 'https://via.placeholder.com/300',
           title: 'CONFERENCE',
           description:
-            'Ut auctor metus vel nulla dapibus, ut semper urna pulvinar. Donec congue faucibus varius. Fusce tellus est.',
+            'During 3 full days of workshops and talks, product related professionals discuss and share insights on how to build great products together.',
           button: 'CHECK PREVIOUS EDITIONS',
           backgroundColor: 'background-blue',
         },
@@ -49,7 +49,7 @@ class WhatWeDo extends React.Component {
             boost the product community around the world. It was created by
             professionals from the engineering and design space, with a history
             of co-founding several pioneering projects in Portugal such as TEDx,
-            Beta-i, Startup Weekend and Sillicon Valley comes to Lisbon.
+            Beta-i, Startup Weekend and Silicon Valley comes to Lisbon.
           </p>
         </div>
         <div className="whatwedocard-div">

@@ -30,6 +30,9 @@ function AlbumCard(props) {
               src="//embedr.flickr.com/assets/client-code.js"
               charset="utf-8"
             ></script>
+            <div className="albumcard-title">
+              <p>{album.title}</p>
+            </div>
           </a>
         ))}
       </div>

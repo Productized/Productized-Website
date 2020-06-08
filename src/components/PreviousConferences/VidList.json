@@ -5,7 +5,7 @@
     "title": "Netflix's Customer Obsession",
     "speaker": "Gibson Biddle",
     "link": "https://www.youtube.com/embed/kzc-lcURwBo",
-    "isRecap": true
+    "isRecap": false
   },
   {
     "id": 2,
@@ -128,6 +128,14 @@
     "isRecap": false
   },
   {
+    "id": 70,
+    "year": "2019",
+    "title": "Productized Conference 2019 Trailer",
+    "speaker": "",
+    "link": "https://player.vimeo.com/video/375896255",
+    "isRecap": true
+  },
+  {
     "id": 17,
     "year": "2018",
     "title": "EMPOWERED - Achieving Extraordinary Results with Ordinary People",
@@ -146,9 +154,9 @@
   {
     "id": 19,
     "year": "2018",
-    "title": "Productized Conference 2018 | In 60 seconds",
+    "title": "Productized Conference 2018 Recap",
     "speaker": "",
-    "link": "https://www.youtube.com/embed/2ozf1VmqlZ0",
+    "link": "https://www.youtube.com/embed/xIs04PfhtVM",
     "isRecap": true
   },
   {
@@ -333,7 +341,7 @@
     "title": "PRODUCTIZED CONFERENCE 2016",
     "speaker": "",
     "link": "https://www.youtube.com/embed/fHC9nEOl3a0",
-    "isRecap": true
+    "isRecap": false
   },
   {
     "id": 43,
@@ -549,6 +557,6 @@
     "title": "Productized Teaser Video",
     "speaker": "",
     "link": "https://www.youtube.com/embed/OyJzajzv7SE",
-    "isRecap": true
+    "isRecap": false
   }
 ]

@@ -1,18 +1,43 @@
 @font-face {
   font-family: 'Klavika Light';
-  src: url(./assets/klavika-light.otf);
+  src: url(./assets/Klavika-Light.otf);
 }
 
 @font-face {
   font-family: 'Klavika Medium';
-  src: url(./assets/klavika-medium.otf);
+  src: url(./assets/Klavika-Medium.otf);
 }
 
 @font-face {
   font-family: 'Klavika Bold';
-  src: url(./assets/klavika-bold.otf);
+  src: url(./assets/Klavika-Bold.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Regular';
+  src: url(./assets/Klavika-Regular.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Medium Italic';
+  src: url(./assets/Klavika-MediumItalic.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Light Italic';
+  src: url(./assets/Klavika-LightItalic.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Bold Italic';
+  src: url(./assets/Klavika-BoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'Klavika Regular Italic';
+  src: url(./assets/Klavika-RegularItalic.otf);
 }
 
 body {
-  font-family: 'Klavika Light';
+  font-family: 'Klavika Regular';
 }

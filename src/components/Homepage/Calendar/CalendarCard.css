@@ -1,4 +1,4 @@
-.calender-background {
+.calendar-background {
   width: 700px;
   height: 100px;
   opacity: 70%;
@@ -7,7 +7,7 @@
 
 .layer {
   background-color: blue;
-  z-index: 85;
+  z-index: 2;
 }
 
 .calendarcard-div {
@@ -48,8 +48,18 @@
   margin: 10px 0px -15px 0px;
 }
 
-.page-title {
+.calendar-title {
   font-family: Klavika Bold;
   text-align: center;
-  margin: 20px 0;
+  margin: 0 0 30px 0;
+}
+
+.calendar-subtitle {
+  text-align: center;
+  color: #464646;
+  margin: 0px;
+}
+
+.calendar-div {
+  margin: 60px 0;
 }

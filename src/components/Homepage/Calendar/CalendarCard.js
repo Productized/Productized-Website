@@ -12,7 +12,7 @@ function CalendarCard(props) {
       </div>
       <div className="layer">
         <img
-          className="calender-background"
+          className="calendar-background"
           src={props.image}
           alt={props.event}
         />
