@@ -71,3 +71,12 @@
   margin: 5px;
   width: 30px;
 }
+
+.contact a {
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+.contact a:hover {
+  transform: translateY(-2px);
+}
