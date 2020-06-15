@@ -12,7 +12,9 @@ function VidCard(props) {
         src={video.link}
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
+        allowFullScreen
+        webkitallowfullscreen
+        mozallowfullscreen
       />
     </div>
   );
