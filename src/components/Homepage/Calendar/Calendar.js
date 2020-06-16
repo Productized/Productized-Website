@@ -32,8 +32,9 @@ class Calendar extends React.Component {
   render() {
     const events = this.state.events;
     return (
-      <div>
-        <h2 className="page-title"> CALENDER </h2>
+      <div className="calendar-div">
+        <p className="calendar-subtitle">OUR EVENTS</p>
+        <h2 className="calendar-title"> CALENDAR </h2>
         {events.map((event) => (
           <CalendarCard {...event} />
         ))}
