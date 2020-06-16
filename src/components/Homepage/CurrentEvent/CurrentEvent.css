@@ -16,7 +16,7 @@
 }
 
 .current-event-img {
-  width: 50px;
+  width: 40px;
   text-align: right;
   margin-left: 10px;
 }
@@ -98,7 +98,7 @@
   }
 
   .current-event-img {
-    width: 70px;
+    width: 45px;
   }
 
   .current-event-p {
@@ -151,7 +151,7 @@
 
 @media (min-width: 768px) {
   .current-event-img {
-    width: 90px;
+    width: 50px;
   }
 
   .current-event-p {
@@ -166,7 +166,7 @@
   }
 
   .current-event-img {
-    width: 100px;
+    width: 60px;
   }
 
   .current-event-p {
@@ -222,7 +222,7 @@
   }
 
   .current-event-img {
-    width: 140px;
+    width: 70px;
   }
 
   @keyframes mymove {

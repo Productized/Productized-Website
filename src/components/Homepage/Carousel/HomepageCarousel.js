@@ -1,8 +1,8 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import CarouselImg1 from '../../../assets/carousel1.png';
-import CarouselImg2 from '../../../assets/carousel2.png';
-import CarouselImg3 from '../../../assets/carousel3.png';
+import CarouselImg1 from '../../../assets/conference_gradient_peq.jpg';
+import CarouselImg2 from '../../../assets/meetups_gradient_peq.jpg';
+import CarouselImg3 from '../../../assets/courses_gradient._2jpg_peq.jpg';
 import './HomepageCarousel.css';
 
 function HomepageCarousel() {

@@ -1,7 +1,8 @@
 import React from 'react';
 import './OurTeam.css';
 import OurTeamCard from './OurTeamCard';
-import pippin from '../../../assets/pippin.jpg';
+import AndreMarquet from '../../../assets/Andre_Marquet_editado.jpg';
+import JoaoBernardino from '../../../assets/Joao_Bernardino_edited.jpg';
 
 class OurTeam extends React.Component {
   constructor(props) {
@@ -10,7 +11,7 @@ class OurTeam extends React.Component {
       teamCards: [
         {
           id: 1,
-          image: pippin,
+          image: AndreMarquet,
           name: 'André Marquet',
           description:
             'Product, entrepreneur and inventor. Co-founder at Beta-i and Productized. Back from the future to shake the present.',
@@ -21,7 +22,7 @@ class OurTeam extends React.Component {
 
         {
           id: 2,
-          image: pippin,
+          image: AndreMarquet,
           name: 'Daniel Zacarias',
           description:
             'Product Management consultant, fascinated by the fact that making software products is all about working with (and for) other people.',
@@ -32,7 +33,7 @@ class OurTeam extends React.Component {
 
         {
           id: 3,
-          image: pippin,
+          image: JoaoBernardino,
           name: 'João Bernardino',
           description:
             'Product Management, Innovation, Mobility, Policy, Startup Founder.',
