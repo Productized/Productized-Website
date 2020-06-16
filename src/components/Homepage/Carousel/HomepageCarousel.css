@@ -2,10 +2,15 @@
   font-weight: bold;
   text-align: left;
   color: white;
-  font-size: 0.8em;
-  margin-bottom: 0vh;
+  font-size: 1.4em;
+  margin-bottom: 150px;
 }
 
+.carousel-img {
+  height: 430px;
+  object-fit: cover;
+  overflow: hidden;
+}
 .carousel-indicators li {
   width: 4px !important;
   height: 4px !important;
@@ -25,8 +30,8 @@ ul {
 
 @media (min-width: 576px) {
   .carousel-caption h5 {
-    font-size: 1em;
-    margin-bottom: 5vh;
+    font-size: 1.5em;
+    margin-bottom: 150px;
   }
 
   .carousel-indicators li {
@@ -37,8 +42,8 @@ ul {
 
 @media (min-width: 768px) {
   .carousel-caption h5 {
-    font-size: 1.2em;
-    margin-bottom: 10vh;
+    font-size: 1.7em;
+    margin-bottom: 150px;
   }
 
   .carousel-indicators li {
@@ -61,8 +66,8 @@ ul {
 
 @media (min-width: 992px) {
   .carousel-caption h5 {
-    font-size: 1.4em;
-    margin-bottom: 15vh;
+    font-size: 2.1em;
+    margin-bottom: 140px;
   }
 
   .carousel-indicators li {
@@ -84,8 +89,8 @@ ul {
 }
 @media (min-width: 1200px) {
   .carousel-caption h5 {
-    font-size: 2.5em;
-    margin-bottom: 230px;
+    font-size: 2.3em;
+    margin-bottom: 140px;
     text-shadow: 1px 1px 1px black;
   }
 

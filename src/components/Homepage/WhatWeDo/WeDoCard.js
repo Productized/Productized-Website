@@ -7,11 +7,13 @@ function WeDoCard(props) {
     <div className={`wedocard ${card.backgroundColor}`}>
       <img className="wedocard-img" src={card.image} alt={card.title} />
       <div className="wedocard-body">
-        <h3>{card.title}</h3>
+        <h4>{card.title}</h4>
         <p>{card.description}</p>
-        <button className={`wedocard-button ${card.backgroundColor}`}>
-          {card.button}
-        </button>
+        <a href={card.buttonLink}>
+          <button className={`wedocard-button ${card.backgroundColor}`}>
+            {card.button}
+          </button>
+        </a>
       </div>
     </div>
   );
