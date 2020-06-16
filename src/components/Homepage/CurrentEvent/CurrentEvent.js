@@ -1,6 +1,6 @@
 import React from 'react';
 import './CurrentEvent.css';
-import logoConf from '../../../assets/conference2-white.png';
+import logoConf from '../../../assets/conference_blue_white-03.png';
 
 function CurrentEvent() {
   return (

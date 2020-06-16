@@ -84,8 +84,9 @@ ul {
 }
 @media (min-width: 1200px) {
   .carousel-caption h5 {
-    font-size: 1.6em;
-    margin-bottom: 20vh;
+    font-size: 2.5em;
+    margin-bottom: 230px;
+    text-shadow: 1px 1px 1px black;
   }
 
   .carousel-indicators li {
@@ -95,8 +96,8 @@ ul {
 
   .carousel-control-next-icon,
   .carousel-control-prev-icon {
-    width: 20px !important;
-    height: 20px !important;
+    width: 25px !important;
+    height: 25px !important;
   }
 
   dl,
