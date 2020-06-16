@@ -1,0 +1,82 @@
+.our-team-subtitle {
+  text-align: center;
+  color: #464646;
+  margin: 0;
+}
+
+.our-team-title {
+  font-family: Klavika Bold;
+  margin: 0 0 30px 0;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards {
+  position: relative;
+  width: 250px;
+  margin: 0px 40px 40px 40px;
+  box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
+}
+
+.team-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 1s ease;
+  background-color: rgba(165, 42, 42, 0.37);
+}
+
+.cards:hover .text-overlay {
+  opacity: 1;
+}
+
+.team-text {
+  width: 220px;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.team-text-name {
+  font-family: Klavika Bold;
+  font-size: 1.2em;
+}
+
+.team-text-description {
+  font-size: 1em;
+}
+
+.contact img {
+  margin: 5px;
+  width: 30px;
+}
+
+.contact a {
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+.contact a:hover {
+  transform: translateY(-2px);
+}

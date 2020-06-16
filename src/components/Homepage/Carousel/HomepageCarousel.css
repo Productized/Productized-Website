@@ -1,0 +1,108 @@
+.carousel-caption h5 {
+  font-weight: bold;
+  text-align: left;
+  color: white;
+  font-size: 0.8em;
+  margin-bottom: 0vh;
+}
+
+.carousel-indicators li {
+  width: 4px !important;
+  height: 4px !important;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 10px !important;
+  height: 10px !important;
+}
+
+dl,
+ol,
+ul {
+  margin-bottom: 0 !important;
+}
+
+@media (min-width: 576px) {
+  .carousel-caption h5 {
+    font-size: 1em;
+    margin-bottom: 5vh;
+  }
+
+  .carousel-indicators li {
+    width: 10px !important;
+    height: 3px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .carousel-caption h5 {
+    font-size: 1.2em;
+    margin-bottom: 10vh;
+  }
+
+  .carousel-indicators li {
+    width: 15px !important;
+    height: 3px !important;
+  }
+
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    width: 15px !important;
+    height: 15px !important;
+  }
+
+  dl,
+  ol,
+  ul {
+    margin-bottom: 0.5em !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .carousel-caption h5 {
+    font-size: 1.4em;
+    margin-bottom: 15vh;
+  }
+
+  .carousel-indicators li {
+    width: 25px !important;
+    height: 3px !important;
+  }
+
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    width: 15px !important;
+    height: 15px !important;
+  }
+
+  dl,
+  ol,
+  ul {
+    margin-bottom: 0.5em !important;
+  }
+}
+@media (min-width: 1200px) {
+  .carousel-caption h5 {
+    font-size: 2.5em;
+    margin-bottom: 230px;
+    text-shadow: 1px 1px 1px black;
+  }
+
+  .carousel-indicators li {
+    width: 30px !important;
+    height: 3px !important;
+  }
+
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  dl,
+  ol,
+  ul {
+    margin-bottom: 1em !important;
+  }
+}

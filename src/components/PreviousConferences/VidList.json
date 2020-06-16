@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "year": "2019",
+    "title": "Netflix's Customer Obsession",
+    "speaker": "Gibson Biddle",
+    "link": "https://www.youtube.com/embed/kzc-lcURwBo",
+    "isRecap": false
+  },
+  {
+    "id": 2,
+    "year": "2019",
+    "title": "Moving Into Management Leadership",
+    "speaker": "Vidya Dinamani & Heather Samarin",
+    "link": "https://www.youtube.com/embed/WnU0eRDChU4",
+    "isRecap": false
+  },
+  {
+    "id": 3,
+    "year": "2019",
+    "title": "Best Practices for Product Roadmaps",
+    "speaker": "Jeff Lash",
+    "link": "https://www.youtube.com/embed/AZdCZacl_04",
+    "isRecap": false
+  },
+  {
+    "id": 4,
+    "year": "2019",
+    "title": "Overcome Your Innovation Biases",
+    "speaker": "Alan Klement",
+    "link": "https://www.youtube.com/embed/1Fxss7BhMBk",
+    "isRecap": false
+  },
+  {
+    "id": 5,
+    "year": "2019",
+    "title": "Winning Product Ideas, Strategy over Beauty",
+    "speaker": "André Gouveia",
+    "link": "https://www.youtube.com/embed/W6_CthfCPeg",
+    "isRecap": false
+  },
+  {
+    "id": 6,
+    "year": "2019",
+    "title": "Product Culture Eats Execution Culture",
+    "speaker": "Bruce McCarthy",
+    "link": "https://www.youtube.com/embed/6Z4nXdwNsdU",
+    "isRecap": false
+  },
+  {
+    "id": 7,
+    "year": "2019",
+    "title": "Radical Transparency: How to Build Trust with Customers",
+    "speaker": "Elize Bosker",
+    "link": "https://www.youtube.com/embed/mAERlle28Qg",
+    "isRecap": false
+  },
+  {
+    "id": 8,
+    "year": "2019",
+    "title": "Conflict Resolution for People Who Hate Conflict",
+    "speaker": "Joshua Mauldin",
+    "link": "https://www.youtube.com/embed/suA7WL6l3pA",
+    "isRecap": false
+  },
+  {
+    "id": 9,
+    "year": "2019",
+    "title": "In Praise of My Friend, the Engineering Lead",
+    "speaker": "Lilly Dobreva",
+    "link": "https://www.youtube.com/embed/19ITsOhIEv8",
+    "isRecap": false
+  },
+  {
+    "id": 10,
+    "year": "2019",
+    "title": "Product 1.5: Iterating Toward a Better Product Culture",
+    "speaker": "Regan Davis",
+    "link": "https://www.youtube.com/embed/goPFnbRz-Lo",
+    "isRecap": false
+  },
+  {
+    "id": 11,
+    "year": "2019",
+    "title": "Great User Research for Non-Researchers",
+    "speaker": "Steve Portigal",
+    "link": "https://www.youtube.com/embed/CTlO_kWV-zA",
+    "isRecap": false
+  },
+  {
+    "id": 12,
+    "year": "2019",
+    "title": "Best Practices for Product Roadmap",
+    "speaker": "Jeff Lash",
+    "link": "https://www.youtube.com/embed/J5N56ALJiGQ",
+    "isRecap": false
+  },
+  {
+    "id": 13,
+    "year": "2019",
+    "title": "Great Users Research for Non Researchers",
+    "speaker": "Steve Portigal",
+    "link": "https://www.youtube.com/embed/SghWUjS_gGQ",
+    "isRecap": false
+  },
+  {
+    "id": 14,
+    "year": "2019",
+    "title": "Moving into Management Leadership",
+    "speaker": "Vidya Dinamani & Heather Samarin",
+    "link": "https://www.youtube.com/embed/KQwGxENEpqM",
+    "isRecap": false
+  },
+  {
+    "id": 15,
+    "year": "2019",
+    "title": "Anticipatory Design & The Future Of Experience",
+    "speaker": "Sarah Doody",
+    "link": "https://www.youtube.com/embed/1tv1Ek5G2Y4",
+    "isRecap": false
+  },
+  {
+    "id": 16,
+    "year": "2019",
+    "title": "Product 1.5: Iterating Toward a Better Product Culture",
+    "speaker": "Regan Davis",
+    "link": "https://www.youtube.com/embed/Q0kxdbiUrfI",
+    "isRecap": false
+  },
+  {
+    "id": 70,
+    "year": "2019",
+    "title": "Productized Conference 2019 Trailer",
+    "speaker": "",
+    "link": "https://player.vimeo.com/video/375896255",
+    "isRecap": true
+  },
+  {
+    "id": 17,
+    "year": "2018",
+    "title": "EMPOWERED - Achieving Extraordinary Results with Ordinary People",
+    "speaker": "Marty Cagan",
+    "link": "https://www.youtube.com/embed/bsA8Gw_1KAg",
+    "isRecap": false
+  },
+  {
+    "id": 18,
+    "year": "2018",
+    "title": "Improving the Process of Product Decisions Making",
+    "speaker": "Tanya Aulachynskaya",
+    "link": "https://www.youtube.com/embed/b0_jMv5KPoU",
+    "isRecap": false
+  },
+  {
+    "id": 19,
+    "year": "2018",
+    "title": "Productized Conference 2018 Recap",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/xIs04PfhtVM",
+    "isRecap": true
+  },
+  {
+    "id": 20,
+    "year": "2018",
+    "title": "Success Requires Making Tough Decisions",
+    "speaker": "Maayan Gottlieb & Edik Mitelman",
+    "link": "https://www.youtube.com/embed/cd86WcqTqX0",
+    "isRecap": false
+  },
+  {
+    "id": 21,
+    "year": "2018",
+    "title": "Shipping Product at Scale",
+    "speaker": "Aislinn Treacy",
+    "link": "https://www.youtube.com/embed/CsxOGIfdb6k",
+    "isRecap": false
+  },
+  {
+    "id": 22,
+    "year": "2018",
+    "title": "Using Data to Set Product Strategy",
+    "speaker": "Justin Bauer",
+    "link": "https://www.youtube.com/embed/S8tuwvIi518",
+    "isRecap": false
+  },
+  {
+    "id": 23,
+    "year": "2018",
+    "title": "User Value Creation Organization",
+    "speaker": "Michael Rutledge",
+    "link": "https://www.youtube.com/embed/sdJlXJROmVU",
+    "isRecap": false
+  },
+  {
+    "id": 24,
+    "year": "2018",
+    "title": "Escaping the Build Trap",
+    "speaker": "Melissa Perri",
+    "link": "https://www.youtube.com/embed/DmJXpI7OJuY",
+    "isRecap": false
+  },
+  {
+    "id": 25,
+    "year": "2018",
+    "title": "Ten Things to Remember While A/B Testing",
+    "speaker": "Amber Van Hecke",
+    "link": "https://www.youtube.com/embed/eaG9KeLz8Lk",
+    "isRecap": false
+  },
+  {
+    "id": 26,
+    "year": "2018",
+    "title": "Hacking your Tractor with Black Market Code",
+    "speaker": "Jeff Gothelf",
+    "link": "https://www.youtube.com/embed/CgaHSMCDAYw",
+    "isRecap": false
+  },
+  {
+    "id": 27,
+    "year": "2017",
+    "title": "Productized Conference, Lisbon 2017 | Recap",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/aMPZPqC00tM",
+    "isRecap": true
+  },
+  {
+    "id": 28,
+    "year": "2017",
+    "title": "Agile for the Masses: Bringing Agile to Your Extended Teams",
+    "speaker": "Dragana Boras and Claire Drumond",
+    "link": "https://www.youtube.com/embed/WOKgbz2RTHQ",
+    "isRecap": false
+  },
+  {
+    "id": 29,
+    "year": "2017",
+    "title": "How Waste Less Validation Generates Lean Insights",
+    "speaker": "Tim Herbig",
+    "link": "https://www.youtube.com/embed/9FdnEwSa30M",
+    "isRecap": false
+  },
+  {
+    "id": 30,
+    "year": "2017",
+    "title": "Product Culture in a Growing Organisation",
+    "speaker": "Christina Schreck and Arne Kittler",
+    "link": "https://www.youtube.com/embed/QIM1vOWd_Uw",
+    "isRecap": false
+  },
+  {
+    "id": 31,
+    "year": "2017",
+    "title": "No Obstacles: Building Your Product Centered Delivery Culture",
+    "speaker": "Jordan Brown",
+    "link": "https://www.youtube.com/embed/--eWSlfx-dA",
+    "isRecap": false
+  },
+  {
+    "id": 32,
+    "year": "2017",
+    "title": "The 3 Rules Behind The Most Successful Products",
+    "speaker": "SC Moatti",
+    "link": "https://www.youtube.com/embed/QX0c3sMRjTk",
+    "isRecap": false
+  },
+  {
+    "id": 33,
+    "year": "2017",
+    "title": "A Playbook for Achieving Product Market Fit",
+    "speaker": "Dan Olsen",
+    "link": "https://www.youtube.com/embed/p3Bl4XWIBcw",
+    "isRecap": false
+  },
+  {
+    "id": 34,
+    "year": "2017",
+    "title": "Build Successful Products by Prioritizing Team Happiness",
+    "speaker": "Rian Merwe",
+    "link": "https://www.youtube.com/embed/6xpJiLWMP3k",
+    "isRecap": false
+  },
+  {
+    "id": 35,
+    "year": "2017",
+    "title": "Implants and Body Hacking: A Look at the Future",
+    "speaker": "Tony Fernandes",
+    "link": "https://www.youtube.com/embed/CWKiIkwibWk",
+    "isRecap": false
+  },
+  {
+    "id": 36,
+    "year": "2017",
+    "title": "A Product Lifecycle Philosophy: Creation, Maintenance & Destruction",
+    "speaker": "Rushil Dave",
+    "link": "https://www.youtube.com/embed/MXXnJz0O5Rs",
+    "isRecap": false
+  },
+  {
+    "id": 37,
+    "year": "2017",
+    "title": "Innovation Strategies from Hardware and Software Development",
+    "speaker": "Emily Batt",
+    "link": "https://www.youtube.com/embed/_DmoTft2GIQ",
+    "isRecap": false
+  },
+  {
+    "id": 38,
+    "year": "2017",
+    "title": "The 5 Product Management Personas and How to Hire Them",
+    "speaker": "Jason Shen",
+    "link": "https://www.youtube.com/embed/rRi3j2r-Ejc",
+    "isRecap": false
+  },
+  {
+    "id": 39,
+    "year": "2017",
+    "title": "Everything is a Product",
+    "speaker": "Mike Belsito",
+    "link": "https://www.youtube.com/embed/uC00b81lBxE",
+    "isRecap": false
+  },
+  {
+    "id": 40,
+    "year": "2017",
+    "title": "Lean Product in a Huge Company: How to Stay Daring",
+    "speaker": "Adam Piel",
+    "link": "https://www.youtube.com/embed/vqxs0a9NWSQ",
+    "isRecap": false
+  },
+  {
+    "id": 41,
+    "year": "2016",
+    "title": "Introduction to Modern Product Discovery",
+    "speaker": "Teresa Torres",
+    "link": "https://www.youtube.com/embed/l7-5x0ra2tc",
+    "isRecap": false
+  },
+  {
+    "id": 42,
+    "year": "2016",
+    "title": "PRODUCTIZED CONFERENCE 2016",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/fHC9nEOl3a0",
+    "isRecap": false
+  },
+  {
+    "id": 43,
+    "year": "2016",
+    "title": "Productized Conference 2016",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/KMBaCTCvRn8",
+    "isRecap": true
+  },
+  {
+    "id": 44,
+    "year": "2016",
+    "title": "INTRO - Andre Marquet | Productized Conference 2016",
+    "speaker": "Andre Marquet",
+    "link": "https://www.youtube.com/embed/GMw6TO9YtLo",
+    "isRecap": false
+  },
+  {
+    "id": 45,
+    "year": "2016",
+    "title": "Insights: 25 Years Productizing",
+    "speaker": "Kai Halsinger",
+    "link": "https://www.youtube.com/embed/pwuupfQj6y0",
+    "isRecap": false
+  },
+  {
+    "id": 46,
+    "year": "2016",
+    "title": "Discussion Panel: Productization Mindset",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/QX9i9djoyLQ",
+    "isRecap": false
+  },
+  {
+    "id": 47,
+    "year": "2016",
+    "title": "Different Ways to Manage Global Design Teams",
+    "speaker": "Pierre Yves Panis",
+    "link": "https://www.youtube.com/embed/DsFD5icAHQ4",
+    "isRecap": false
+  },
+  {
+    "id": 48,
+    "year": "2016",
+    "title": "Harnessing the Power to Create, Connect and Inspire",
+    "speaker": "Bruce Nussbaum",
+    "link": "https://www.youtube.com/embed/gAeEVBInNd4",
+    "isRecap": false
+  },
+  {
+    "id": 49,
+    "year": "2016",
+    "title": "So You Want to be a Service Designer",
+    "speaker": "Jamin Hegeman",
+    "link": "https://www.youtube.com/embed/bA_gnQqjmz4",
+    "isRecap": false
+  },
+  {
+    "id": 50,
+    "year": "2016",
+    "title": "Ideas Don’t Sell Themselves",
+    "speaker": "Michael Margolis",
+    "link": "https://www.youtube.com/embed/W51NMtx5364",
+    "isRecap": false
+  },
+  {
+    "id": 51,
+    "year": "2016",
+    "title": "Make it clear",
+    "speaker": "Sandra Fischer Martins",
+    "link": "https://www.youtube.com/embed/6BGHv6GvsDg",
+    "isRecap": false
+  },
+  {
+    "id": 52,
+    "year": "2016",
+    "title": "Tools for Better Products",
+    "speaker": "Alex Crowfoot",
+    "link": "https://www.youtube.com/embed/VcraazhARHk",
+    "isRecap": false
+  },
+  {
+    "id": 53,
+    "year": "2016",
+    "title": "The Product Development Journey",
+    "speaker": "Alex Mitchell",
+    "link": "https://www.youtube.com/embed/zdzUqrFoq3o",
+    "isRecap": false
+  },
+  {
+    "id": 54,
+    "year": "2016",
+    "title": "Building Insanely Great Products",
+    "speaker": "David Fradin",
+    "link": "https://www.youtube.com/embed/2k0R2I3CRYI",
+    "isRecap": false
+  },
+  {
+    "id": 55,
+    "year": "2015",
+    "title": "Digital & Physical Product Startups",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/c_ctEn6sE2E",
+    "isRecap": false
+  },
+  {
+    "id": 56,
+    "year": "2015",
+    "title": "10 Challenges of Creating a Hardware Product Startup",
+    "speaker": "João Carreiro",
+    "link": "https://www.youtube.com/embed/fR5rREdB3eQ",
+    "isRecap": false
+  },
+  {
+    "id": 57,
+    "year": "2015",
+    "title": "The Design Story of Smart Food Nutrition Scale SITU",
+    "speaker": "Michael Grothaus",
+    "link": "https://www.youtube.com/embed/XgjgNi91HlY",
+    "isRecap": false
+  },
+  {
+    "id": 58,
+    "year": "2015",
+    "title": "From Story to Product in 180 days",
+    "speaker": "Diogo Teles",
+    "link": "https://www.youtube.com/embed/CJ9FpaBR-Xg",
+    "isRecap": false
+  },
+  {
+    "id": 59,
+    "year": "2015",
+    "title": "Lean UX: Five Lessons From The Battlefield",
+    "speaker": "Colman Walsh",
+    "link": "https://www.youtube.com/embed/0bI7aXCBBdY",
+    "isRecap": false
+  },
+  {
+    "id": 60,
+    "year": "2015",
+    "title": "A Product Manager Should Own A “Job”, Not Set Features",
+    "speaker": "Brian Donhue",
+    "link": "https://www.youtube.com/embed/F8GAkgtavxM",
+    "isRecap": false
+  },
+  {
+    "id": 61,
+    "year": "2015",
+    "title": "Designing for Tomorrow’s Smart Systems",
+    "speaker": "Vijay Kumar",
+    "link": "https://www.youtube.com/embed/2gC8uw7AdGM",
+    "isRecap": false
+  },
+  {
+    "id": 62,
+    "year": "2015",
+    "title": "Anatomy Of Product Development or How to Find Your True North",
+    "speaker": "Lars Rosengren",
+    "link": "https://www.youtube.com/embed/9FM8z5EM5UM",
+    "isRecap": false
+  },
+  {
+    "id": 63,
+    "year": "2015",
+    "title": "Product Strategy And Product Success",
+    "speaker": "Roman Pichler",
+    "link": "https://www.youtube.com/embed/0OOTO3qnZpo",
+    "isRecap": false
+  },
+  {
+    "id": 64,
+    "year": "2015",
+    "title": "From Strategy To Subscription: Design For Enterprise Processes",
+    "speaker": "Miguel Lopes",
+    "link": "https://www.youtube.com/embed/p2GZaqbbeA4",
+    "isRecap": false
+  },
+  {
+    "id": 65,
+    "year": "2015",
+    "title": "Origins Of The Product Manager vs Product Owner Dilemma",
+    "speaker": "Gabriel Steinhardt",
+    "link": "https://www.youtube.com/embed/cTBiBNDOvkU",
+    "isRecap": false
+  },
+  {
+    "id": 66,
+    "year": "2015",
+    "title": "Productized Conference | Teaser",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/4FwNqeIUUVY",
+    "isRecap": true
+  },
+  {
+    "id": 67,
+    "year": "2015",
+    "title": "My Personal Design Experience",
+    "speaker": "Philip Thomson",
+    "link": "https://www.youtube.com/embed/BctvRdWDqbU",
+    "isRecap": false
+  },
+  {
+    "id": 68,
+    "year": "2015",
+    "title": "Creating Meaning",
+    "speaker": "Luis Dejo",
+    "link": "https://www.youtube.com/embed/rchhcsij--c",
+    "isRecap": false
+  },
+  {
+    "id": 69,
+    "year": "2015",
+    "title": "Productized Teaser Video",
+    "speaker": "",
+    "link": "https://www.youtube.com/embed/OyJzajzv7SE",
+    "isRecap": false
+  }
+]
