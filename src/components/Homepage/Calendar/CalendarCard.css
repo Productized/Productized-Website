@@ -1,7 +1,7 @@
 .calendar-background {
   width: 700px;
   height: 100px;
-  opacity: 60%;
+  opacity: 0.7;
   filter: brightness(50%);
   object-fit: cover;
   overflow: hidden;
@@ -47,7 +47,12 @@
 }
 
 .month {
-  margin: 10px 0px -15px 0px;
+  margin: 5px 0px -15px 0px;
+  font-size: 20px;
+}
+
+.weekday {
+  font-size: 20px;
 }
 
 .calendar-title {
@@ -64,4 +69,82 @@
 
 .calendar-div {
   margin: 60px 0;
+}
+
+@media (max-width: 870px) {
+  .date {
+    width: 70px;
+    height: 70px;
+    background-color: #91d3f0;
+  }
+  .day {
+    margin: -15px 0px -15px 0px;
+    font-size: 30px;
+  }
+
+  .month {
+    margin: 5px 0px -15px 0px;
+    font-size: 15px;
+  }
+
+  .weekday {
+    font-size: 15px;
+  }
+
+  .calender-background {
+    width: 490px;
+    height: 70px;
+    opacity: 70%;
+    filter: brightness(50%);
+  }
+
+  .event-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: Klavika Bold;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+  }
+}
+
+@media (max-width: 595px) {
+  .date {
+    width: 40px;
+    height: 40px;
+    background-color: #91d3f0;
+  }
+  .day {
+    margin: 0px 0px -10px 0px;
+    font-size: 20px;
+  }
+
+  .month {
+    margin: 0px 0px -10px 0px;
+    font-size: 10px;
+  }
+
+  .weekday {
+    font-size: 10px;
+  }
+
+  .calender-background {
+    width: 300px;
+    height: 40px;
+    opacity: 70%;
+    filter: brightness(50%);
+  }
+
+  .event-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Klavika Bold;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+  }
 }
