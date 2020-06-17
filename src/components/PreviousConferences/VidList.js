@@ -29,34 +29,36 @@ function VidList(props) {
   return (
     <div>
       <NavBar />
-      <h2 className="vidlist-title">{`PRODUCTIZED CONFERENCE ${year}`}</h2>
-      <div className="vidlist-belowtitle-div">
-        <div className="vidlist-text-pics">
-          <p className="vidlist-text">{confText}</p>
-          <a href={`/previousconferences/${year}/albums`}>
-            <button className="pics-button">
-              Check out pictures from the event
-            </button>
-          </a>
+      <div className="vidlist-body">
+        <h2 className="vidlist-title">{`PRODUCTIZED CONFERENCE ${year}`}</h2>
+        <div className="vidlist-belowtitle-div">
+          <div className="vidlist-text-pics">
+            <p className="vidlist-text">{confText}</p>
+            <a href={`/previousconferences/${year}/albums`}>
+              <button className="pics-button">
+                Check out pictures from the event
+              </button>
+            </a>
+          </div>
+          <div className="recap-video">
+            <iframe
+              width="356"
+              height="200"
+              title={recapVideo.title}
+              src={recapVideo.link}
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              webkitallowfullscreen
+              mozallowfullscreen
+            />
+          </div>
         </div>
-        <div className="recap-video">
-          <iframe
-            width="356"
-            height="200"
-            title={recapVideo.title}
-            src={recapVideo.link}
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            webkitallowfullscreen
-            mozallowfullscreen
-          />
+        <div className="videos-div">
+          {chosenVideos.map((video) => (
+            <VidCard {...video} key={video.id} />
+          ))}
         </div>
-      </div>
-      <div className="videos-div">
-        {chosenVideos.map((video) => (
-          <VidCard {...video} key={video.id} />
-        ))}
       </div>
       <Footer />
     </div>
