@@ -2,6 +2,7 @@ import React from 'react';
 import NavBar from '../Shared/NavBar';
 import Footer from '../Shared/Footer';
 import VidCard from './VidCard';
+import RecapCard from './RecapCard';
 import AllVideos from './VidList.json';
 import VidListPage from './VidListPage.json';
 import './VidList.css';
@@ -41,17 +42,7 @@ function VidList(props) {
             </a>
           </div>
           <div className="recap-video">
-            <iframe
-              width="356"
-              height="200"
-              title={recapVideo.title}
-              src={recapVideo.link}
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              webkitallowfullscreen
-              mozallowfullscreen
-            />
+            <RecapCard recapVideo={recapVideo} />
           </div>
         </div>
         <div className="videos-div">
