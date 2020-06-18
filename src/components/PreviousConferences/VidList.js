@@ -14,6 +14,7 @@ function VidList(props) {
     (video) => video.year === year && video.isRecap === true,
   );
 
+  console.log(recapVideo);
   let confText = [];
   if (year === '2019') {
     confText = VidListPage.Conference2019.text;
