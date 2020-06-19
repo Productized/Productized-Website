@@ -1,7 +1,14 @@
 .wedocard {
   box-sizing: border-box;
-  width: 300px;
+  width: 350px;
   padding-bottom: 20px;
+}
+
+.wedocard-img {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  overflow: hidden;
 }
 
 .wedocard-body {
@@ -10,8 +17,12 @@
   padding: 20px 10px;
 }
 
-.wedocard-body h3 {
+.wedocard-body h4 {
   font-family: 'Klavika Bold';
+}
+
+.wedocard-body p {
+  font-size: 1em;
 }
 
 .wedocard-button {

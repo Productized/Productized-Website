@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
 import './VidCard.css';
 
-function VidCard(props) {
+function RecapCard(props) {
   const [isImageDisplayed, setImageVisibility] = useState('block');
   const [IsIframeDisplayed, setIframeVisibility] = useState('none');
   const [autoplayOn, setAutoplayOn] = useState('0');
-  const video = props;
-  //console.log(props);
+  const { recapVideo } = props;
 
   return (
     <div className="videocard-div">
@@ -14,8 +13,8 @@ function VidCard(props) {
         style={{ display: IsIframeDisplayed }}
         width="356"
         height="200"
-        title={video.title}
-        src={`${video.link}?autoplay=${autoplayOn}`}
+        title={recapVideo.title}
+        src={`${recapVideo.link}?autoplay=${autoplayOn}`}
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
@@ -31,8 +30,8 @@ function VidCard(props) {
         style={{ display: isImageDisplayed }}
         width="356"
         height="200"
-        src={video.image}
-        alt={video.title}
+        src={recapVideo.image}
+        alt={recapVideo.title}
         onMouseEnter={() => {
           setIframeVisibility('block');
           setAutoplayOn('1');
@@ -43,4 +42,4 @@ function VidCard(props) {
   );
 }
 
-export default VidCard;
+export default RecapCard;
