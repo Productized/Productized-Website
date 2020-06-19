@@ -1,83 +1,21 @@
-.girl-main-container {
-  margin-top:3rem;
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-around;
-      flex-direction: column;
-}
-
-.girl-card-text {
-margin: 20px auto;
-  width: 80%;
+.girl-title-content {
   text-align: center;
-  
- 
 }
-
-  .girl-title-content{
-    text-align: center;
-  }
-    
-    .podcast {
-      color: #464646;
-      margin: 0;
-    }
-    
-    .girls-product {
-      font-family: Klavika Bold;
-    }
-    
-    .girl-cards-container {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-around;
-      padding: 0px;
-      
-    }
-    .girl-name-div {
-    width:500px;
-    }
-
-.zal-girl {
- height:56px;
- width:127px;
-margin-left: 37%;}
-
-.girl-button {
-  color: #E83F36;
-  background-color: white;
-  border: solid #E83F36 ;
-  padding: 0 25px;
-  margin-top: 1.5rem;
+.girls-product {
   font-family: Klavika Bold;
-  line-height: 1.5em; 
 }
-    .girl-name {
-          color: #E83F36;
-          font-size: 3rem;
-       font-family: Klavika Bold;
-       display: flex;
-       justify-content: center;
-       margin:0px;
-       line-height: 1;
-    }
-    
-    .girl-card-image {
-      height: 15rem;
-      width: 11rem; 
-    }
 
-    .girl-small-title {
-      font-size:1rem;
-      line-height:2rem;
-      font-family: 'Klavika Light';}
+.girl-main-container {
+  margin-top: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.girl-card-text {
+  margin: 20px auto;
+  width: 55%;
+  text-align: center;
+}
 
-    .girl-cards {
-      position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: space-around;
-    }
-    
