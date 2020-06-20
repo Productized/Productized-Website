@@ -3,6 +3,7 @@ import { Tabs, Tab } from 'react-bootstrap';
 import NavBar from '../Shared/NavBar';
 import Footer from '../Shared/Footer';
 import './MeetUpsList.css';
+import MeetUpCard from './MeetUpCard';
 
 class MeetUps extends React.Component {
   constructor(props) {
@@ -18,6 +19,7 @@ class MeetUps extends React.Component {
         <Tabs defaultActiveKey="2020" id="uncontrolled-tab-example">
           <Tab eventKey="2020" title="2020" className="tab-div">
             Cards with Videos and Images links
+            <MeetUpCard />
           </Tab>
           <Tab eventKey="2019" title="2019" className="tab-div">
             Cards with Videos and Images links
