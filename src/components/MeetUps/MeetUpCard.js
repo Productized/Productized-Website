@@ -1,14 +1,24 @@
 import React from 'react';
+import './MeetUps.css';
 
-function MeetUpCard() {
+function MeetUpCard(props) {
   return (
-    <img
-      src="https://drive.google.com/uc?export=view&id=1Oyo1V81vPRmPDJiQoxLrv1XH5Hl86GMz"
-      width="640"
-      height="480"
-    />
+    <div className="meetupcard-div">
+      <div className="meetup-img">
+        <img
+          className="meetup-cardimg"
+          src={props.cardImage}
+          alt={props.albumTitle}
+        />
+        <a href={props.videoURL} target="_blank" rel="noopener noreferrer">
+          <p className="youtube">YOUTUBE</p>
+        </a>
+        <a href={props.albumURL} target="_blank" rel="noopener noreferrer">
+          <p className="flickr">FLICKR</p>
+        </a>
+      </div>
+    </div>
   );
 }
-//https://drive.google.com/file/d/1-vw_LzwVgpsqHqGlviPSDOW5XMdvUC6a/preview
 
 export default MeetUpCard;
