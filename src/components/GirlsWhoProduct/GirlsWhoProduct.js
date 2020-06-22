@@ -1,7 +1,7 @@
 import React from 'react';
 import './GirlsWhoProduct.css';
 import GirlsWhoProductCard from './GirlsWhoProductCard';
-import {GirlsWhoProductData} from './GirlsWhoProducData;'
+import GirlsWhoProductData from './GirlsWhoProductData.json';
 
 class GirlsWhoProduct extends React.Component {
   constructor(props) {
@@ -24,11 +24,11 @@ class GirlsWhoProduct extends React.Component {
           mission is to inspire, connect and empower more women to get into
           product roles and help them consider ‘product’ as a venue of personal
           and professional growth.
-        </p>
+        </p>https://medium.com/@Productized/girlswhoproduct-inbal-arieli-58500139893f
       </div>  
       
             
-        <div className="cards-container">
+        <div className="girls-cards-container">
           {GirlsWhoProductCards.map((girlCard) => (
             <GirlsWhoProductCard {...girlCard} />
           ))}

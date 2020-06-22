@@ -4,6 +4,7 @@ import OurTeamCard from './OurTeamCard';
 import AndreMarquet from '../../../assets/Andre_Marquet_editado.jpg';
 import JoaoBernardino from '../../../assets/Joao_Bernardino_edited.jpg';
 
+
 class OurTeam extends React.Component {
   constructor(props) {
     super(props);
@@ -53,7 +54,7 @@ class OurTeam extends React.Component {
           <p className="our-team-subtitle">DEDICATED</p>
           <h2 className="our-team-title"> OUR TEAM </h2>
         </div>
-        <div className="cards-container">
+        <div className="team-cards-container">
           {teamCards.map((teamCard) => (
             <OurTeamCard {...teamCard} />
           ))}
