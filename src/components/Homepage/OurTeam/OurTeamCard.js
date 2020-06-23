@@ -9,23 +9,31 @@ export default function OurTeamCard(props) {
   return (
     <div className="cards">
       <img className="team-image" src={props.image} alt={props.name} />
-      <div className="text-overlay">
+      <div className="text-team-overlay">
         <div className="team-text">
           <p className="team-text-name">{props.name}</p>
           <p className="team-text-description">{props.description}</p>
           <div className="contact">
             <a href={props.linkedin} target="_blank" rel="noopener noreferrer">
-              <img className="linkedin-icon" src={linkedin} alt="linkedin" />
+              <img
+                className="whatwedo-linkedin-icon"
+                src={linkedin}
+                alt="linkedin"
+              />
             </a>
             <a href={props.twitter} target="_blank" rel="noopener noreferrer">
-              <img className="twitter-icon" src={twitter} alt="twitter" />
+              <img
+                className="whatwedo-twitter-icon"
+                src={twitter}
+                alt="twitter"
+              />
             </a>
             <a
               href={`mailto: ${props.email}`}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img className="email-icon" src={email} alt="email" />
+              <img className="whatwedo-email-icon" src={email} alt="email" />
             </a>
           </div>
         </div>
