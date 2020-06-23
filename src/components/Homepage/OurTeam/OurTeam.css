@@ -18,7 +18,7 @@
 
 .team-cards {
   position: relative;
-  width: 250px;
+  width: 300px;
   margin: 0px 40px 40px 40px;
   box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
 }
@@ -27,6 +27,8 @@
   display: block;
   width: 100%;
   height: auto;
+  object-fit: cover;
+  overflow: hidden;
 }
 
 .text-overlay {
@@ -47,7 +49,8 @@
 }
 
 .team-text {
-  width: 220px;
+  width: 300px;
+  padding: 15px;
   color: white;
   position: absolute;
   top: 50%;
@@ -60,7 +63,7 @@
 
 .team-text-name {
   font-family: Klavika Bold;
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 .team-text-description {

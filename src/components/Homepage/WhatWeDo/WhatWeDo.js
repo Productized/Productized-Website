@@ -1,5 +1,8 @@
 import React from 'react';
 import WeDoCard from './WeDoCard';
+import WhatWeDoConference from '../../../assets/whatwedo/WhatWeDo_Conference_peq.jpg';
+import WhatWeDoCourses from '../../../assets/whatwedo/WhatWeDo_Courses_peq.jpg';
+import WhatWeDoMeetups from '../../../assets/whatwedo/WhatWeDo_Meetups_peq.jpg';
 import './WhatWeDo.css';
 
 class WhatWeDo extends React.Component {
@@ -9,29 +12,32 @@ class WhatWeDo extends React.Component {
       weDoCards: [
         {
           id: 1,
-          image: 'https://via.placeholder.com/300',
+          image: WhatWeDoCourses,
           title: 'COURSES',
           description:
             'Getting into Product Management Online. Learn through high-quality videos, engaging lessons, hands-on activities, and sharing insights.',
           button: 'CHECK AVAILABLE COURSES',
+          buttonLink: '/courses',
           backgroundColor: 'background-red',
         },
         {
           id: 2,
-          image: 'https://via.placeholder.com/300',
+          image: WhatWeDoMeetups,
           title: 'MEETUPS',
           description:
             'Get inspired! Series of events with top speakers and experts to answer the question "how to create well-designed products?"',
           button: 'CHECK OUR MEETUPS',
+          buttonLink: '/meetups',
           backgroundColor: 'background-yellow',
         },
         {
           id: 3,
-          image: 'https://via.placeholder.com/300',
+          image: WhatWeDoConference,
           title: 'CONFERENCE',
           description:
             'During 3 full days of workshops and talks, product related professionals discuss and share insights on how to build great products together.',
           button: 'CHECK PREVIOUS EDITIONS',
+          buttonLink: '/previousconferences',
           backgroundColor: 'background-blue',
         },
       ],
