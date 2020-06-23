@@ -1,8 +1,10 @@
 import React from 'react';
 import './OurTeam.css';
 import OurTeamCard from './OurTeamCard';
-import AndreMarquet from '../../../assets/Andre_Marquet_editado.jpg';
-import JoaoBernardino from '../../../assets/Joao_Bernardino_edited.jpg';
+import AndreMarquet from '../../../assets/team/Andre_Marquet_editado.jpg';
+import DanielZacarias from '../../../assets/team/Daniel_Zacarias_editado.jpg';
+import JoaoBernardino from '../../../assets/team/Joao_Bernardino_edited.jpg';
+
 
 class OurTeam extends React.Component {
   constructor(props) {
@@ -22,7 +24,7 @@ class OurTeam extends React.Component {
 
         {
           id: 2,
-          image: AndreMarquet,
+          image: DanielZacarias,
           name: 'Daniel Zacarias',
           description:
             'Product Management consultant, fascinated by the fact that making software products is all about working with (and for) other people.',
@@ -53,7 +55,7 @@ class OurTeam extends React.Component {
           <p className="our-team-subtitle">DEDICATED</p>
           <h2 className="our-team-title"> OUR TEAM </h2>
         </div>
-        <div className="cards-container">
+        <div className="team-cards-container">
           {teamCards.map((teamCard) => (
             <OurTeamCard {...teamCard} />
           ))}
