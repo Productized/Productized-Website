@@ -2,32 +2,54 @@ import React from 'react';
 import { Tabs, Tab } from 'react-bootstrap';
 import NavBar from '../Shared/NavBar';
 import Footer from '../Shared/Footer';
-import './MeetUpsList.css';
+import MeetUpsDatabase from './MeetUpsDatabase.json';
+import './MeetUps.css';
+import MeetUpCard from './MeetUpCard';
 
 class MeetUps extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = { chosenMeetUps: [], key: '', years: [2020, 2019, 2018] };
+  }
+  componentDidMount() {
+    let chosenMeetUps = MeetUpsDatabase.filter(
+      (meetup) => meetup.year === '2020',
+    );
+    this.setState({ chosenMeetUps, key: '2020' });
+  }
+
+  handleChoice(eventKey) {
+    let key = eventKey;
+    let chosenMeetUps = MeetUpsDatabase.filter(
+      (meetup) => meetup.year === eventKey,
+    );
+    this.setState({ chosenMeetUps, key });
+    console.log(this.state.chosenMeetUps);
   }
 
   render() {
+    const { chosenMeetUps, years } = this.state;
     return (
-      <>
+      <div>
         <NavBar />
-        <h1>MeetUps</h1>
-        <Tabs defaultActiveKey="2020" id="uncontrolled-tab-example">
-          <Tab eventKey="2020" title="2020" className="tab-div">
-            Cards with Videos and Images links
-          </Tab>
-          <Tab eventKey="2019" title="2019" className="tab-div">
-            Cards with Videos and Images links
-          </Tab>
-          <Tab eventKey="2018" title="2018" className="tab-div">
-            Cards with Videos and Images links
-          </Tab>
+        <h1 className="meetup-title">MeetUps</h1>
+        <Tabs
+          id="controlled-tab-example"
+          activeKey={this.state.key}
+          onSelect={(eventKey) => this.handleChoice(eventKey)}
+        >
+          {years.map((year) => (
+            <Tab eventKey={year} title={year}>
+              <div className="tab-div">
+                {chosenMeetUps.map((meetup) => (
+                  <MeetUpCard {...meetup} />
+                ))}
+              </div>
+            </Tab>
+          ))}
         </Tabs>
         <Footer />
-      </>
+      </div>
     );
   }
 }

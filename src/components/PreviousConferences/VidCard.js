@@ -6,7 +6,7 @@ function VidCard(props) {
   const [IsIframeDisplayed, setIframeVisibility] = useState('none');
   const [autoplayOn, setAutoplayOn] = useState('0');
   const video = props;
-  //console.log(props);
+  //console.log(video);
 
   return (
     <div className="videocard-div">
