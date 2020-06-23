@@ -31,7 +31,7 @@
   overflow: hidden;
 }
 
-.text-overlay {
+.text-team-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -44,7 +44,7 @@
   background-color: rgba(165, 42, 42, 0.37);
 }
 
-.team-cards:hover .text-overlay {
+.team-cards:hover .text-team-overlay {
   opacity: 1;
 }
 
@@ -70,9 +70,15 @@
   font-size: 1em;
 }
 
-.contact img {
+.whatwedo-twitter-icon,
+.whatwedo-linkedin-icon {
   margin: 5px;
   width: 30px;
+}
+
+.whatwedo-email-icon {
+  margin: 5px;
+  width: 33px;
 }
 
 .contact a {
