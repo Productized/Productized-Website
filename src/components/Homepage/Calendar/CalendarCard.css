@@ -94,7 +94,7 @@
   .calendar-background {
     width: 490px;
     height: 70px;
-    opacity: 70%;
+    opacity: 0.7;
     filter: brightness(50%);
   }
 
@@ -133,7 +133,7 @@
   .calendar-background {
     width: 300px;
     height: 40px;
-    opacity: 70%;
+    opacity: 0.7;
     filter: brightness(50%);
   }
 
