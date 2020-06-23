@@ -21,7 +21,7 @@ export default function GirlsHomepage() {
           <img src={lilly} alt="lilly beyond" />
         </div>
       </div>
-      <button className="girl-button"> READ THE LATEST INTERVIEW </button>
+      <button onclick="https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidence-coach-strategy-consultant-beyond-consulting" className="girl-button"> READ THE LATEST INTERVIEW </button>
     </div>
   );
 }
