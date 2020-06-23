@@ -2,15 +2,18 @@ import React from 'react';
 import './WeDoCard.css';
 
 function WeDoCard(props) {
+  const card = props;
   return (
-    <div className={`wedocard ${props.backgroundColor}`}>
-      <img className="wedocard-img" src={props.image} alt={props.title} />
+    <div className={`wedocard ${card.backgroundColor}`}>
+      <img className="wedocard-img" src={card.image} alt={card.title} />
       <div className="wedocard-body">
-        <h3>{props.title}</h3>
-        <p>{props.description}</p>
-        <button className={`wedocard-button ${props.backgroundColor}`}>
-          {props.button}
-        </button>
+        <h4>{card.title}</h4>
+        <p>{card.description}</p>
+        <a href={card.buttonLink}>
+          <button className={`wedocard-button ${card.backgroundColor}`}>
+            {card.button}
+          </button>
+        </a>
       </div>
     </div>
   );

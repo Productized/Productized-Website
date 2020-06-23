@@ -8,6 +8,10 @@
   margin: 30px 40px;
 }
 
+.yearcard:hover {
+  cursor: pointer;
+}
+
 .yearcard-year {
   position: absolute;
   top: 50%;

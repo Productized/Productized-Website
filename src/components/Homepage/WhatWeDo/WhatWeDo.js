@@ -1,5 +1,8 @@
 import React from 'react';
 import WeDoCard from './WeDoCard';
+import WhatWeDoConference from '../../../assets/whatwedo/WhatWeDo_Conference_peq.jpg';
+import WhatWeDoCourses from '../../../assets/whatwedo/WhatWeDo_Courses_peq.jpg';
+import WhatWeDoMeetups from '../../../assets/whatwedo/WhatWeDo_Meetups_peq.jpg';
 import './WhatWeDo.css';
 
 class WhatWeDo extends React.Component {
@@ -9,29 +12,32 @@ class WhatWeDo extends React.Component {
       weDoCards: [
         {
           id: 1,
-          image: 'https://via.placeholder.com/300',
+          image: WhatWeDoCourses,
           title: 'COURSES',
           description:
-            'Maecenas ut justo vel ligula imperdiet dignissim. Orci varius natoque penatibus et magnis dis parturient montes.',
+            'Getting into Product Management Online. Learn through high-quality videos, engaging lessons, hands-on activities, and sharing insights.',
           button: 'CHECK AVAILABLE COURSES',
+          buttonLink: '/courses',
           backgroundColor: 'background-red',
         },
         {
           id: 2,
-          image: 'https://via.placeholder.com/300',
+          image: WhatWeDoMeetups,
           title: 'MEETUPS',
           description:
-            'Donec dapibus et felis condimentum elementum. Morbi non egestas metus. Mauris et malesuada ex, vitae pharetra.',
+            'Get inspired! Series of events with top speakers and experts to answer the question "how to create well-designed products?"',
           button: 'CHECK OUR MEETUPS',
+          buttonLink: '/meetups',
           backgroundColor: 'background-yellow',
         },
         {
           id: 3,
-          image: 'https://via.placeholder.com/300',
+          image: WhatWeDoConference,
           title: 'CONFERENCE',
           description:
-            'Ut auctor metus vel nulla dapibus, ut semper urna pulvinar. Donec congue faucibus varius. Fusce tellus est.',
+            'During 3 full days of workshops and talks, product related professionals discuss and share insights on how to build great products together.',
           button: 'CHECK PREVIOUS EDITIONS',
+          buttonLink: '/previousconferences',
           backgroundColor: 'background-blue',
         },
       ],
@@ -49,7 +55,7 @@ class WhatWeDo extends React.Component {
             boost the product community around the world. It was created by
             professionals from the engineering and design space, with a history
             of co-founding several pioneering projects in Portugal such as TEDx,
-            Beta-i, Startup Weekend and Sillicon Valley comes to Lisbon.
+            Beta-i, Startup Weekend and Silicon Valley comes to Lisbon.
           </p>
         </div>
         <div className="whatwedocard-div">
