@@ -44,7 +44,7 @@
   background-color: rgba(165, 42, 42, 0.37);
 }
 
-.cards:hover .text-team-overlay {
+.team-cards:hover .text-team-overlay {
   opacity: 1;
 }
 
