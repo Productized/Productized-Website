@@ -9,7 +9,7 @@ import MeetUpCard from './MeetUpCard';
 class MeetUps extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { chosenMeetUps: [], key: '' };
+    this.state = { chosenMeetUps: [], key: '', years: [2020, 2019, 2018] };
   }
   componentDidMount() {
     let chosenMeetUps = MeetUpsDatabase.filter(
@@ -28,7 +28,7 @@ class MeetUps extends React.Component {
   }
 
   render() {
-    const { chosenMeetUps } = this.state;
+    const { chosenMeetUps, years } = this.state;
     return (
       <div>
         <NavBar />
@@ -38,27 +38,15 @@ class MeetUps extends React.Component {
           activeKey={this.state.key}
           onSelect={(eventKey) => this.handleChoice(eventKey)}
         >
-          <Tab eventKey="2020" title="2020">
-            <div className="tab-div">
-              {chosenMeetUps.map((meetup) => (
-                <MeetUpCard {...meetup} />
-              ))}
-            </div>
-          </Tab>
-          <Tab eventKey="2019" title="2019">
-            <div className="tab-div">
-              {chosenMeetUps.map((meetup) => (
-                <MeetUpCard {...meetup} />
-              ))}
-            </div>
-          </Tab>
-          <Tab eventKey="2018" title="2018">
-            <div className="tab-div">
-              {chosenMeetUps.map((meetup) => (
-                <MeetUpCard {...meetup} />
-              ))}
-            </div>
-          </Tab>
+          {years.map((year) => (
+            <Tab eventKey={year} title={year}>
+              <div className="tab-div">
+                {chosenMeetUps.map((meetup) => (
+                  <MeetUpCard {...meetup} />
+                ))}
+              </div>
+            </Tab>
+          ))}
         </Tabs>
         <Footer />
       </div>
