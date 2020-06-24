@@ -2,12 +2,13 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: flex-start;
+  margin: 0px 40px 20px 40px;
 }
 
 .page-title {
   font-family: Klavika Regular;
   text-align: left;
-  margin-left: 50px;
+  margin-left: 40px;
   font-size: xx-large;
 }
