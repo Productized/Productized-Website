@@ -6,8 +6,9 @@
     "speaker": "Gibson Biddle",
     "link": "https://www.youtube.com/embed/kzc-lcURwBo",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "",
     "isRecap": false,
-    "isShown": true
+    "isShown": false
   },
   {
     "id": 2,
@@ -16,6 +17,7 @@
     "speaker": "Vidya Dinamani & Heather Samarin",
     "link": "https://www.youtube.com/embed/KQwGxENEpqM",
     "image": "https://drive.google.com/uc?export=view&id=10z3ZYscKAH-mXYnVEpBOy2NyibToIIls",
+    "imageLocal": "2019_conf_Moving_into_Management_Leadership.png",
     "isRecap": false,
     "isShown": true
   },
@@ -26,6 +28,7 @@
     "speaker": "Jeff Lash",
     "link": "https://www.youtube.com/embed/J5N56ALJiGQ",
     "image": "https://drive.google.com/uc?export=view&id=1lw-oMoiyAVE48cmQspkRABLIx7i5hk-4",
+    "imageLocal": "2019_conf_Best_Practices_for_Product_Roadmaps.png",
     "isRecap": false,
     "isShown": true
   },
@@ -36,6 +39,7 @@
     "speaker": "Alan Klement",
     "link": "https://www.youtube.com/embed/1Fxss7BhMBk",
     "image": "https://drive.google.com/uc?export=view&id=1EgzzFxPudTX48NJsMtf18u3nFRJT3Pjv",
+    "imageLocal": "2019_conf_Overcome_your_Innovation_Biases.png",
     "isRecap": false,
     "isShown": true
   },
@@ -46,6 +50,7 @@
     "speaker": "André Gouveia",
     "link": "https://www.youtube.com/embed/W6_CthfCPeg",
     "image": "https://drive.google.com/uc?export=view&id=1u1o-bTLpGo8PP3vxYxB2FsnJP4NXvwsc",
+    "imageLocal": "2019_conf_Winning_Product_Ideas_Strategy_over_Beauty.png",
     "isRecap": false,
     "isShown": true
   },
@@ -56,6 +61,7 @@
     "speaker": "Bruce McCarthy",
     "link": "https://www.youtube.com/embed/6Z4nXdwNsdU",
     "image": "https://drive.google.com/uc?export=view&id=1ZgqvcKI_VgECVjBOGtwCtJ_uKkuA1T1a",
+    "imageLocal": "2019_conf_Product_Culture_Eats_Execution_Culture.png",
     "isRecap": false,
     "isShown": true
   },
@@ -66,6 +72,7 @@
     "speaker": "Elize Bosker",
     "link": "https://www.youtube.com/embed/mAERlle28Qg",
     "image": "https://drive.google.com/uc?export=view&id=1ILdmmd-1dbDLyVtFcysBjf6kwlePmbZC",
+    "imageLocal": "2019_conf_How_to_Build_Trust _with_Customers.png",
     "isRecap": false,
     "isShown": true
   },
@@ -76,6 +83,7 @@
     "speaker": "Joshua Mauldin",
     "link": "https://www.youtube.com/embed/suA7WL6l3pA",
     "image": "https://drive.google.com/uc?export=view&id=1kkKq8TkXTjhHvgqvCSy0zcQFMq88fJXg",
+    "imageLocal": "2019_conf_Conflict_Resolution_for_People_Who_Hate_Conflict.png",
     "isRecap": false,
     "isShown": true
   },
@@ -86,6 +94,7 @@
     "speaker": "Lilly Dobreva",
     "link": "https://www.youtube.com/embed/19ITsOhIEv8",
     "image": "https://drive.google.com/uc?export=view&id=1oJgzHOuEjjJcXwD6ge3L7b6raBrk4t5l",
+    "imageLocal": "2019_conf_The_Engineering_Lead.png",
     "isRecap": false,
     "isShown": true
   },
@@ -96,6 +105,7 @@
     "speaker": "Regan Davis",
     "link": "https://www.youtube.com/embed/Q0kxdbiUrfI",
     "image": "https://drive.google.com/uc?export=view&id=1b8xDjUPp7t4dW25X9ZToJs_K8wEUl7Ci",
+    "imageLocal": "2019_conf _Iterating_Toward_a_Better_Product_Culture.png",
     "isRecap": false,
     "isShown": true
   },
@@ -106,6 +116,7 @@
     "speaker": "Steve Portigal",
     "link": "https://www.youtube.com/embed/SghWUjS_gGQ",
     "image": "https://drive.google.com/uc?export=view&id=1DWCsbFxnlGhzlb_pjA0m1df-DBtUVGtO",
+    "imageLocal": "2019_conf_Great_User_Research_for_Non-Researchers.png",
     "isRecap": false,
     "isShown": true
   },
@@ -116,6 +127,7 @@
     "speaker": "Sarah Doody",
     "link": "https://www.youtube.com/embed/1tv1Ek5G2Y4",
     "image": "https://drive.google.com/uc?export=view&id=1jRltHD68Kr1-6_Mw4Hue0nWHS9IRSHj2",
+    "imageLocal": "2019_conf_Anticipatory_Design_Future_Experience.png",
     "isRecap": false,
     "isShown": true
   },
@@ -126,6 +138,7 @@
     "speaker": "",
     "link": "https://player.vimeo.com/video/375896255",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2019.jpg",
     "isRecap": true,
     "isShown": false
   },
@@ -136,6 +149,7 @@
     "speaker": "Marty Cagan",
     "link": "https://www.youtube.com/embed/bsA8Gw_1KAg",
     "image": "https://drive.google.com/uc?export=view&id=19DBJGEH0EGY1OvzpoSSVEfzGDECrxFv3",
+    "imageLocal": "2018_conf_Extraordinary_Results_with_Ordinary_People.png",
     "isRecap": false,
     "isShown": true
   },
@@ -146,6 +160,7 @@
     "speaker": "Tanya Aulachynskaya",
     "link": "https://www.youtube.com/embed/b0_jMv5KPoU",
     "image": "https://drive.google.com/uc?export=view&id=1g61GomDaLCa0Bv-2aQJtGy31I3SlrgVs",
+    "imageLocal": "2018_conf_Improving_the_Process_of_Product_Decisions_Making.png",
     "isRecap": false,
     "isShown": true
   },
@@ -156,6 +171,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/xIs04PfhtVM",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2018.jpg",
     "isRecap": true,
     "isShown": false
   },
@@ -166,6 +182,7 @@
     "speaker": "Maayan Gottlieb & Edik Mitelman",
     "link": "https://www.youtube.com/embed/cd86WcqTqX0",
     "image": "https://drive.google.com/uc?export=view&id=1gizctFu_iuhk7lkrK66jtONlSM5FXrKN",
+    "imageLocal": "2018_conf _Success_Requires_Making_Tough_Decisions.png",
     "isRecap": false,
     "isShown": true
   },
@@ -176,6 +193,7 @@
     "speaker": "Aislinn Treacy",
     "link": "https://www.youtube.com/embed/CsxOGIfdb6k",
     "image": "https://drive.google.com/uc?export=view&id=1HUBeB17ZfFc4dO95NASdO9MoVbWHuy1Y",
+    "imageLocal": "2018_conf_Shipping_Product_at_Scale.png",
     "isRecap": false,
     "isShown": true
   },
@@ -186,6 +204,7 @@
     "speaker": "Justin Bauer",
     "link": "https://www.youtube.com/embed/S8tuwvIi518",
     "image": "https://drive.google.com/uc?export=view&id=1mJCbc8KUwNPh9L8VdBb0C8cDpcVfLd7M",
+    "imageLocal": "2018_conf_Using_Data_to_Set_Product_Strategy.png",
     "isRecap": false,
     "isShown": true
   },
@@ -196,6 +215,7 @@
     "speaker": "Michael Rutledge",
     "link": "https://www.youtube.com/embed/sdJlXJROmVU",
     "image": "https://drive.google.com/uc?export=view&id=1Rh_I5BO20hoFQLIzjpcU3Nwk4xJFZzLo",
+    "imageLocal": "2018_conf_User_Value_Creation.png",
     "isRecap": false,
     "isShown": true
   },
@@ -206,6 +226,7 @@
     "speaker": "Melissa Perri",
     "link": "https://www.youtube.com/embed/DmJXpI7OJuY",
     "image": "https://drive.google.com/uc?export=view&id=1HrfHSZD4sSc6TeFjCQgiBh6K0RHSny1n",
+    "imageLocal": "2018_conf _Escaping_the_Build_Trap.png",
     "isRecap": false,
     "isShown": true
   },
@@ -216,6 +237,7 @@
     "speaker": "Amber Van Hecke",
     "link": "https://www.youtube.com/embed/eaG9KeLz8Lk",
     "image": "https://drive.google.com/uc?export=view&id=1YQjg2A9m7e78tBTP1ka3_tZGVK62WW1q",
+    "imageLocal": "2018_conf_Ten_Things_to_Remember_While_AB_Testing.png",
     "isRecap": false,
     "isShown": true
   },
@@ -226,6 +248,7 @@
     "speaker": "Jeff Gothelf",
     "link": "https://www.youtube.com/embed/CgaHSMCDAYw",
     "image": "https://drive.google.com/uc?export=view&id=1VFPc-RFd2EFrzLff_4PRNZydi-pIjo6H",
+    "imageLocal": "2018_conf_Hacking_your_Tractor_with_Black_Market_Code.png",
     "isRecap": false,
     "isShown": true
   },
@@ -236,6 +259,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/aMPZPqC00tM",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2017.jpg",
     "isRecap": true,
     "isShown": false
   },
@@ -246,6 +270,7 @@
     "speaker": "Dragana Boras and Claire Drumond",
     "link": "https://www.youtube.com/embed/WOKgbz2RTHQ",
     "image": "https://drive.google.com/uc?export=view&id=1CyEyDs--vdLWGIAwCaVSnxEqGRMyqcYu",
+    "imageLocal": "2017_conf_Bringing_Agile_to_your_Extended_Teams.jpg",
     "isRecap": false,
     "isShown": true
   },
@@ -256,6 +281,7 @@
     "speaker": "Tim Herbig",
     "link": "https://www.youtube.com/embed/9FdnEwSa30M",
     "image": "https://drive.google.com/uc?export=view&id=1-oGQ1GfD6GNzMxp3o5mS0fg-ccTwy5-P",
+    "imageLocal": "2017_conf_MVPs_are_too_Expensive.png",
     "isRecap": false,
     "isShown": true
   },
@@ -266,6 +292,7 @@
     "speaker": "Christina Schreck and Arne Kittler",
     "link": "https://www.youtube.com/embed/QIM1vOWd_Uw",
     "image": "https://drive.google.com/uc?export=view&id=1UUxvhYuNAGXdPL3sw_5pCfStm1JksgFr",
+    "imageLocal": "2017_conf_Product_Culture_in_a_Growing_Organisation.png",
     "isRecap": false,
     "isShown": true
   },
@@ -276,6 +303,7 @@
     "speaker": "Jordan Brown",
     "link": "https://www.youtube.com/embed/--eWSlfx-dA",
     "image": "https://drive.google.com/uc?export=view&id=1kmnf8iaIZFs4dGIQzT9RrFnLA279FnVr",
+    "imageLocal": "2017_conf_Product_Centricity.png",
     "isRecap": false,
     "isShown": true
   },
@@ -286,6 +314,7 @@
     "speaker": "SC Moatti",
     "link": "https://www.youtube.com/embed/QX0c3sMRjTk",
     "image": "https://drive.google.com/uc?export=view&id=1MN4faaGpvunNGyYpX_YaNqsY0xWCu-Gz",
+    "imageLocal": "2017_conf_The_Product_Formula.png",
     "isRecap": false,
     "isShown": true
   },
@@ -296,6 +325,7 @@
     "speaker": "Dan Olsen",
     "link": "https://www.youtube.com/embed/p3Bl4XWIBcw",
     "image": "https://drive.google.com/uc?export=view&id=123pirGbYkmV2y9tC_lnBaFYrWqhdnOvB",
+    "imageLocal": "2017_conf_A_Playbook_for_Achieving_Product_Market_Fit.png",
     "isRecap": false,
     "isShown": true
   },
@@ -306,6 +336,7 @@
     "speaker": "Rian Merwe",
     "link": "https://www.youtube.com/embed/6xpJiLWMP3k",
     "image": "https://drive.google.com/uc?export=view&id=1tyaY7guO1K7NWCPP1xcpYyvqzHenfwdY",
+    "imageLocal": "2017_conf_Successful_Products_by_Prioritizing_Team_Happiness.png",
     "isRecap": false,
     "isShown": true
   },
@@ -316,6 +347,7 @@
     "speaker": "Tony Fernandes",
     "link": "https://www.youtube.com/embed/CWKiIkwibWk",
     "image": "https://drive.google.com/uc?export=view&id=1Z0o2NfKiOMyNs9WqW203UwsA9WfUHe8L",
+    "imageLocal": "2017_conf_Implants_and_Body_Hacking.png",
     "isRecap": false,
     "isShown": true
   },
@@ -326,6 +358,7 @@
     "speaker": "Rushil Dave",
     "link": "https://www.youtube.com/embed/MXXnJz0O5Rs",
     "image": "https://drive.google.com/uc?export=view&id=1k-wQb9wgayoYBRSYsgOpvKTjYkLr-eES",
+    "imageLocal": "2017_conf_Product_Lifecycle.jpg",
     "isRecap": false,
     "isShown": true
   },
@@ -336,6 +369,7 @@
     "speaker": "Emily Batt",
     "link": "https://www.youtube.com/embed/_DmoTft2GIQ",
     "image": "https://drive.google.com/uc?export=view&id=1J1cBW1gYrOg7VCKCNGcalZe1vIEOH7Kv",
+    "imageLocal": "2017_conf_Innovation_Strategies.jpg",
     "isRecap": false,
     "isShown": true
   },
@@ -346,6 +380,7 @@
     "speaker": "Jason Shen",
     "link": "https://www.youtube.com/embed/rRi3j2r-Ejc",
     "image": "https://drive.google.com/uc?export=view&id=1tCzVU461TvjHY4GSKgNNpIOxJOwYhHk6",
+    "imageLocal": "2017_conf_The_5_PM_Personas.png",
     "isRecap": false,
     "isShown": true
   },
@@ -356,6 +391,7 @@
     "speaker": "Mike Belsito",
     "link": "https://www.youtube.com/embed/uC00b81lBxE",
     "image": "https://drive.google.com/uc?export=view&id=1NUQpK2KP_gIgPvGJ-VPGjiDkYhMx0XPB",
+    "imageLocal": "2017_conf_Everything_is_a_Product.png",
     "isRecap": false,
     "isShown": true
   },
@@ -366,6 +402,7 @@
     "speaker": "Adam Piel",
     "link": "https://www.youtube.com/embed/vqxs0a9NWSQ",
     "image": "https://drive.google.com/uc?export=view&id=1T8S4HegfUPnlBrR8E_drbzwXOJgtqLpQ",
+    "imageLocal": "2017_conf_Lean_Product_in_a_Huge_Company.png",
     "isRecap": false,
     "isShown": true
   },
@@ -376,6 +413,7 @@
     "speaker": "Teresa Torres",
     "link": "https://www.youtube.com/embed/l7-5x0ra2tc",
     "image": "https://drive.google.com/uc?export=view&id=1kHfQyNnk3NHQ-2T0ajNLDrHuC0Eafgsi",
+    "imageLocal": "2016_conf_Introduction_to_Modern_Product_Discovery.png",
     "isRecap": false,
     "isShown": true
   },
@@ -386,6 +424,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/fHC9nEOl3a0",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2016.jpg",
     "isRecap": false,
     "isShown": false
   },
@@ -396,6 +435,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/KMBaCTCvRn8",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2016.jpg",
     "isRecap": true,
     "isShown": false
   },
@@ -406,6 +446,7 @@
     "speaker": "Andre Marquet",
     "link": "https://www.youtube.com/embed/GMw6TO9YtLo",
     "image": "https://drive.google.com/uc?export=view&id=1INp7ZO3o91-NG7NoPz-ZaUmgkdkTWr6a",
+    "imageLocal": "2016_conf_Intro_Andre_Marquet.png",
     "isRecap": false,
     "isShown": true
   },
@@ -416,6 +457,7 @@
     "speaker": "Kai Halsinger",
     "link": "https://www.youtube.com/embed/pwuupfQj6y0",
     "image": "https://drive.google.com/uc?export=view&id=18Dkg2DOnCFOwyhN49NmAq6f80UmHDx0W",
+    "imageLocal": "2016_conf_Insigths_25_Years_Productizing.png",
     "isRecap": false,
     "isShown": true
   },
@@ -426,6 +468,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/QX9i9djoyLQ",
     "image": "https://drive.google.com/uc?export=view&id=1sFo4jyG2iHHylR52TmpuOWufsKAL7NXz",
+    "imageLocal": "2016_conf_Productization_Mindset.png",
     "isRecap": false,
     "isShown": true
   },
@@ -436,6 +479,7 @@
     "speaker": "Pierre Yves Panis",
     "link": "https://www.youtube.com/embed/DsFD5icAHQ4",
     "image": "https://drive.google.com/uc?export=view&id=1YJAIGPdbte6Abg3l9_ZRB0sUJYwD2cg2",
+    "imageLocal": "2016_conf_Manage_Global_Design_Teams.png",
     "isRecap": false,
     "isShown": true
   },
@@ -446,6 +490,7 @@
     "speaker": "Bruce Nussbaum",
     "link": "https://www.youtube.com/embed/gAeEVBInNd4",
     "image": "https://drive.google.com/uc?export=view&id=1jV0l811CZm1NtmZjM4RcSu1EzLeCnmJk",
+    "imageLocal": "2016_conf_Power_to_Create_Connect_and_Inspire.png",
     "isRecap": false,
     "isShown": true
   },
@@ -456,6 +501,7 @@
     "speaker": "Jamin Hegeman",
     "link": "https://www.youtube.com/embed/bA_gnQqjmz4",
     "image": "https://drive.google.com/uc?export=view&id=1iWnZ50ntPq8ktXYXNoA5C73-d6GbIYUF",
+    "imageLocal": "2016_conf_So_You_Want_to_be_a_Service_Designer.png",
     "isRecap": false,
     "isShown": true
   },
@@ -466,6 +512,7 @@
     "speaker": "Michael Margolis",
     "link": "https://www.youtube.com/embed/W51NMtx5364",
     "image": "https://drive.google.com/uc?export=view&id=1gyCQw8LgsYMXxtT894x1sw5cYmBdeOXR",
+    "imageLocal": "2016_conf_Ideas_Dont_Sell_Themselves.png",
     "isRecap": false,
     "isShown": true
   },
@@ -476,6 +523,7 @@
     "speaker": "Sandra Fischer Martins",
     "link": "https://www.youtube.com/embed/6BGHv6GvsDg",
     "image": "https://drive.google.com/uc?export=view&id=1h_VJ-2XxRRNmKIh0mT2t8BYZx7JMVCug",
+    "imageLocal": "2016_conf_Make_it_Clear.png",
     "isRecap": false,
     "isShown": true
   },
@@ -486,6 +534,7 @@
     "speaker": "Alex Crowfoot",
     "link": "https://www.youtube.com/embed/VcraazhARHk",
     "image": "https://drive.google.com/uc?export=view&id=1rgG-4e7rp1QiZV0rHso96zkyMr20Q8XT",
+    "imageLocal": "2016_conf_Tools_for_Better_Products.png",
     "isRecap": false,
     "isShown": true
   },
@@ -496,6 +545,7 @@
     "speaker": "Alex Mitchell",
     "link": "https://www.youtube.com/embed/zdzUqrFoq3o",
     "image": "https://drive.google.com/uc?export=view&id=1pvsiSRYyTdx_bD6gq0G8wvi_GWQa_7X9",
+    "imageLocal": "2016_conf_From_Idea_to_Launch.png",
     "isRecap": false,
     "isShown": true
   },
@@ -506,6 +556,7 @@
     "speaker": "David Fradin",
     "link": "https://www.youtube.com/embed/2k0R2I3CRYI",
     "image": "https://drive.google.com/uc?export=view&id=1O8iiNJdwMKasVdJdfvheMOUuLE4Uuuvy",
+    "imageLocal": "2016_conf_Building_Insanely_Great_Products.png",
     "isRecap": false,
     "isShown": true
   },
@@ -516,6 +567,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/c_ctEn6sE2E",
     "image": "https://drive.google.com/uc?export=view&id=1DmRRvTmJfee-PpnNz3Ed2q1MIjmxAl8P",
+    "imageLocal": "2015_conf_Digital_Physical_Product_Startups.png",
     "isRecap": false,
     "isShown": true
   },
@@ -526,6 +578,7 @@
     "speaker": "João Carreiro",
     "link": "https://www.youtube.com/embed/fR5rREdB3eQ",
     "image": "https://drive.google.com/uc?export=view&id=10GPr3pUPhheoEUeauHzEdZEWQTTi4KoN",
+    "imageLocal": "2015_conf_Creating_a_Hardware_Product_Startup.png",
     "isRecap": false,
     "isShown": true
   },
@@ -536,6 +589,7 @@
     "speaker": "Michael Grothaus",
     "link": "https://www.youtube.com/embed/XgjgNi91HlY",
     "image": "https://drive.google.com/uc?export=view&id=1J7_voQ2c83feMfGI5Hlvo4n5hXIrXa3t",
+    "imageLocal": "2015_conf_Design_Story_of_Smart_Food_Nutrition.png",
     "isRecap": false,
     "isShown": true
   },
@@ -546,6 +600,7 @@
     "speaker": "Diogo Teles",
     "link": "https://www.youtube.com/embed/CJ9FpaBR-Xg",
     "image": "https://drive.google.com/uc?export=view&id=1jdGYkM6M8PYcFg_9bttDFyVbEhRZpb2i",
+    "imageLocal": "2015_conf_From_Story_to_Product_in_180_Days.png",
     "isRecap": false,
     "isShown": true
   },
@@ -556,6 +611,7 @@
     "speaker": "Colman Walsh",
     "link": "https://www.youtube.com/embed/0bI7aXCBBdY",
     "image": "https://drive.google.com/uc?export=view&id=1pMYU95VF3lfHORb9Cr_E97-Kum589FD_",
+    "imageLocal": "2015_conf_Five_Lessons_from_the_Battelfield.png",
     "isRecap": false,
     "isShown": true
   },
@@ -566,6 +622,7 @@
     "speaker": "Brian Donhue",
     "link": "https://www.youtube.com/embed/F8GAkgtavxM",
     "image": "https://drive.google.com/uc?export=view&id=1u3yQPdhiDDTMLKLzCxyLKW81QLrbxlkG",
+    "imageLocal": "2015_conf_A_Product_Manager_Should_Own_a_Job.png",
     "isRecap": false,
     "isShown": true
   },
@@ -576,6 +633,7 @@
     "speaker": "Vijay Kumar",
     "link": "https://www.youtube.com/embed/2gC8uw7AdGM",
     "image": "https://drive.google.com/uc?export=view&id=1UU6DqjjV0vrxUVdylaBbSXIjFfHlOO_t",
+    "imageLocal": "2015_conf_Designing_for_Tomorrows_Smart_Systems.png",
     "isRecap": false,
     "isShown": true
   },
@@ -586,6 +644,7 @@
     "speaker": "Lars Rosengren",
     "link": "https://www.youtube.com/embed/9FM8z5EM5UM",
     "image": "https://drive.google.com/uc?export=view&id=1mJZod5hA1E2Ua6_5x1Yo-C1wBDKPTYcE",
+    "imageLocal": "2015_conf_Anatomy_of_pd_or_How_to_Find_Your_True_North.png",
     "isRecap": false,
     "isShown": true
   },
@@ -596,6 +655,7 @@
     "speaker": "Roman Pichler",
     "link": "https://www.youtube.com/embed/0OOTO3qnZpo",
     "image": "https://drive.google.com/uc?export=view&id=1YUqrNYEEqQcF8FlgzZleWdr_cdnDEfaW",
+    "imageLocal": "2015_conf_Product_Strategy_Product_Success.png",
     "isRecap": false,
     "isShown": true
   },
@@ -606,6 +666,7 @@
     "speaker": "Miguel Lopes",
     "link": "https://www.youtube.com/embed/p2GZaqbbeA4",
     "image": "https://drive.google.com/uc?export=view&id=19pVlninxIhpGaf4ohE4AutalBCxlAvUS",
+    "imageLocal": "2015_conf_Design_for_Enterprise_Processes.png",
     "isRecap": false,
     "isShown": true
   },
@@ -616,6 +677,7 @@
     "speaker": "Gabriel Steinhardt",
     "link": "https://www.youtube.com/embed/cTBiBNDOvkU",
     "image": "https://drive.google.com/uc?export=view&id=1laRgVo66qqE2y0LhgGa3IvEu5D36H5gV",
+    "imageLocal": "2015_conf_Product_Manager_vs_Product_Owner_Dilemma.png",
     "isRecap": false,
     "isShown": true
   },
@@ -626,6 +688,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/4FwNqeIUUVY",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2015.jpg",
     "isRecap": true,
     "isShown": false
   },
@@ -636,6 +699,7 @@
     "speaker": "Philip Thomson",
     "link": "https://www.youtube.com/embed/BctvRdWDqbU",
     "image": "https://drive.google.com/uc?export=view&id=123Wa9E-Rb42MmMSmUqBQ4XYebxGoBKNT",
+    "imageLocal": "2015_conf_Personal_Design_X.png",
     "isRecap": false,
     "isShown": true
   },
@@ -646,6 +710,7 @@
     "speaker": "Luis Dejo",
     "link": "https://www.youtube.com/embed/rchhcsij--c",
     "image": "https://drive.google.com/uc?export=view&id=1Uh6yP8iMrzDHb9_CUzIRw8CX94yyE3qi",
+    "imageLocal": "2015_conf_Creating_Meaning.png",
     "isRecap": false,
     "isShown": true
   },
@@ -656,6 +721,7 @@
     "speaker": "",
     "link": "https://www.youtube.com/embed/OyJzajzv7SE",
     "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "imageLocal": "2015.jpg",
     "isRecap": false,
     "isShown": false
   }
