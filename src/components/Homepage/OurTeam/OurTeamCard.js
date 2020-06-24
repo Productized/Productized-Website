@@ -7,7 +7,7 @@ import email from '../../../assets/email-icon.png';
 export default function OurTeamCard(props) {
   console.log(props);
   return (
-    <div className="cards">
+    <div className="team-cards">
       <img className="team-image" src={props.image} alt={props.name} />
       <div className="text-overlay">
         <div className="team-text">
