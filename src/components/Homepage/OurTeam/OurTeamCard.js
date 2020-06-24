@@ -1,8 +1,8 @@
 import React from 'react';
 import './OurTeam.css';
-import linkedin from '../../../assets/linkedin-icon.png';
-import twitter from '../../../assets/twitter-icon.png';
-import email from '../../../assets/email-icon.png';
+import LinkedinIcon from '../../../assets/team/TeamLinkedinIcon.png';
+import TwitterIcon from '../../../assets/team/TeamTwitterIcon.png';
+import EmailIcon from '../../../assets/team/TeamEmailIcon.png';
 
 export default function OurTeamCard(props) {
   console.log(props);
@@ -17,15 +17,15 @@ export default function OurTeamCard(props) {
             <a href={props.linkedin} target="_blank" rel="noopener noreferrer">
               <img
                 className="whatwedo-linkedin-icon"
-                src={linkedin}
-                alt="linkedin"
+                src={LinkedinIcon}
+                alt="Linkedin Icon"
               />
             </a>
             <a href={props.twitter} target="_blank" rel="noopener noreferrer">
               <img
                 className="whatwedo-twitter-icon"
-                src={twitter}
-                alt="twitter"
+                src={TwitterIcon}
+                alt="Twitter Icon"
               />
             </a>
             <a
@@ -33,7 +33,11 @@ export default function OurTeamCard(props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img className="whatwedo-email-icon" src={email} alt="email" />
+              <img
+                className="whatwedo-email-icon"
+                src={EmailIcon}
+                alt="Email Icon"
+              />
             </a>
           </div>
         </div>

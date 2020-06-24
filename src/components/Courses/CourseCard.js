@@ -11,7 +11,7 @@ function CourseCard(props) {
         <p>{card.description}</p>
 
         <div>
-          <a href={card.buttonLink}>
+          <a href={card.buttonLink} target="_blank" rel="noopener noreferrer">
             <button className={`coursecard-button ${card.backgroundColor}`}>
               {card.button}
             </button>

@@ -1,8 +1,8 @@
 import React from 'react';
 import WeDoCard from './WeDoCard';
-import WhatWeDoConference from '../../../assets/whatwedo/WhatWeDo_Conference_peq.jpg';
-import WhatWeDoCourses from '../../../assets/whatwedo/WhatWeDo_Courses_peq.jpg';
-import WhatWeDoMeetups from '../../../assets/whatwedo/WhatWeDo_Meetups_peq.jpg';
+import WhatWeDoConference from '../../../assets/whatwedo/WhatWeDo_Conference.jpg';
+import WhatWeDoCourses from '../../../assets/whatwedo/WhatWeDo_Courses.jpg';
+import WhatWeDoMeetups from '../../../assets/whatwedo/WhatWeDo_Meetups.jpg';
 import './WhatWeDo.css';
 
 class WhatWeDo extends React.Component {

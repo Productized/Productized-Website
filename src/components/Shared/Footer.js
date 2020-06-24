@@ -1,12 +1,12 @@
 import React from 'react';
 import './Footer.css';
-import facebook_round from './../../assets/footer/facebook_round.png';
-import twitter_round from './../../assets/footer/twitter_round.png';
-import instagram from './../../assets/footer/instagram.png';
-import linkedin_round from './../../assets/footer/linkedin_round.png';
-import email from './../../assets/footer/email.png';
-import phone from './../../assets/footer/phone.png';
-import location from './../../assets/footer/location.png';
+import FooterFacebookIcon from './../../assets/footer/FooterFacebookIcon.png';
+import FooterTwitterIcon from './../../assets/footer/FooterTwitterIcon.png';
+import FooterInstagramIcon from './../../assets/footer/FooterInstagramIcon.png';
+import FooterLinkedinIcon from './../../assets/footer/FooterLinkedinIcon.png';
+import FooterEmailIcon from './../../assets/footer/FooterEmailIcon.png';
+import FooterPhoneIcon from './../../assets/footer/FooterPhoneIcon.png';
+import FooterLocationIcon from './../../assets/footer/FooterLocationIcon.png';
 
 function Footer() {
   return (
@@ -15,7 +15,11 @@ function Footer() {
       <ul className="footer-text">
         <li>
           <div className="icon-limit">
-            <img className="email-icon" src={email} alt="email" />
+            <img
+              className="email-icon"
+              src={FooterEmailIcon}
+              alt="Email Icon"
+            />
           </div>
           <a className="link" href="mailto:info@productized.co">
             info@productized.co
@@ -23,7 +27,11 @@ function Footer() {
         </li>
         <li>
           <div className="icon-limit">
-            <img className="location-icon" src={location} alt="location" />
+            <img
+              className="location-icon"
+              src={FooterLocationIcon}
+              alt="location"
+            />
           </div>
           <a
             className="link"
@@ -34,7 +42,7 @@ function Footer() {
         </li>
         <li>
           <div className="icon-limit">
-            <img className="phone-icon" src={phone} alt="phone" />
+            <img className="phone-icon" src={FooterPhoneIcon} alt="phone" />
           </div>
           <a className="link" href="tel:+351 21 051 4759">
             +351 21 051 4759
@@ -49,7 +57,11 @@ function Footer() {
               className="social-links"
               href="https://www.facebook.com/ProductizedConf/"
             >
-              <img className="facebook" src={facebook_round} alt="Facebook" />
+              <img
+                className="facebook"
+                src={FooterFacebookIcon}
+                alt="Facebook Icon"
+              />
             </a>
           </li>
           <li>
@@ -57,7 +69,11 @@ function Footer() {
               className="social-links"
               href="https://twitter.com/productizedconf"
             >
-              <img className="twitter" src={twitter_round} alt="Twitter" />
+              <img
+                className="twitter"
+                src={FooterTwitterIcon}
+                alt="Twitter Icon"
+              />
             </a>
           </li>
           <li>
@@ -65,7 +81,11 @@ function Footer() {
               className="social-links"
               href="https://www.instagram.com/productized.co/"
             >
-              <img className="instagram" src={instagram} alt="Instagram" />
+              <img
+                className="instagram"
+                src={FooterInstagramIcon}
+                alt="Instagram Icon"
+              />
             </a>
           </li>
           <li>
@@ -73,7 +93,11 @@ function Footer() {
               className="social-links"
               href="https://www.linkedin.com/school/productized/"
             >
-              <img className="linkedin" src={linkedin_round} alt="Linkedin" />
+              <img
+                className="linkedin"
+                src={FooterLinkedinIcon}
+                alt="Linkedin Icon"
+              />
             </a>
           </li>
         </ul>

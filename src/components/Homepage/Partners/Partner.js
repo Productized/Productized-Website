@@ -1,11 +1,11 @@
 import React from 'react';
 import './Partners.css';
-import facebook from '../../../assets/facebook.png';
-import google from '../../../assets/google.jpeg';
-import netflix from '../../../assets/netflix.png';
-import olx from '../../../assets/olx.png';
-import sap from '../../../assets/sap.jpg';
-import zalandoo from '../../../assets/zalandoo.png';
+import PartnerFacebookLogo from '../../../assets/partners/PartnerFacebookLogo.png';
+import PartnerGoogleLogo from '../../../assets/partners/PartnerGoogleLogo.jpeg';
+import PartnerNetflixLogo from '../../../assets/partners/PartnerNetflixLogo.png';
+import PartnerOlxLogo from '../../../assets/partners/PartnerOlxLogo.png';
+import PartnerSAPLogo from '../../../assets/partners/PartnerSAPLogo.jpg';
+import PartnerZalandooLogo from '../../../assets/partners/PartnerZalandooLogo.png';
 
 export default function Partners() {
   return (
@@ -16,12 +16,12 @@ export default function Partners() {
       </div>
 
       <div className="logo-container">
-        <img className="fb" src={facebook} alt="facebook" />
-        <img className="gog" src={google} alt="google" />
-        <img className="nt" src={netflix} alt="nt" />
-        <img className="olx" src={olx} alt="olx" />
-        <img className="sap" src={sap} alt="sap" />
-        <img className="zal" src={zalandoo} alt="zalandoo" />
+        <img className="fb" src={PartnerFacebookLogo} alt="Facebook Logo" />
+        <img className="gog" src={PartnerGoogleLogo} alt="Google Logo" />
+        <img className="nt" src={PartnerNetflixLogo} alt="Netflix Logo" />
+        <img className="olx" src={PartnerOlxLogo} alt="OLX Logo" />
+        <img className="sap" src={PartnerSAPLogo} alt="SAP Logo" />
+        <img className="zal" src={PartnerZalandooLogo} alt="Zalandoo Logo" />
       </div>
     </div>
   );

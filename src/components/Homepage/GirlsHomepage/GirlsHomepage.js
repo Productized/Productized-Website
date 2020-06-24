@@ -1,6 +1,6 @@
-import React from "react";
-import "./GirlsHomepage.css";
-import lilly from "../../../assets/lilly.jpg";
+import React from 'react';
+import './GirlsHomepage.css';
+import LillyBeyond from '../../../assets/girlswhoproduct-homepage/lilly_beyond.jpg';
 
 export default function GirlsHomepage() {
   return (
@@ -18,15 +18,12 @@ export default function GirlsHomepage() {
       </div>
       <div className="girl-cards-container">
         <div className="girl-cards">
-          <img src={lilly} alt="lilly beyond" />
+          <img src={LillyBeyond} alt="Lilly Beyond" />
         </div>
       </div>
       <a href="https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidence-coach-strategy-consultant-beyond-consulting">
-        <button className="girls-button">
-        READ THE LATEST INTERVIEW
-        </button>
+        <button className="girls-button">READ THE LATEST INTERVIEW</button>
       </a>
-      
     </div>
   );
 }

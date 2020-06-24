@@ -1,8 +1,7 @@
 import React from 'react';
 import CalendarCard from './CalendarCard';
 import './CalendarCard.css';
-import calender from '../../../assets/calender.jpg';
-import calender2 from '../../../assets/calender2.jpg';
+import CalendarEvent1 from '../../../assets/calendar/CalendarEvent1.jpg';
 
 class Calendar extends React.Component {
   constructor(props) {
@@ -15,15 +14,7 @@ class Calendar extends React.Component {
           day: '25',
           weekday: 'THU',
           event: 'No events announced',
-          image: calender,
-        },
-        {
-          id: 2,
-          month: 'MAY',
-          day: '02',
-          weekday: 'FRI',
-          event: 'No events announced',
-          image: calender2,
+          image: CalendarEvent1,
         },
       ],
     };
