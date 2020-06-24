@@ -7,6 +7,7 @@ import Footer from './../Shared/Footer';
 import OurTeam from './OurTeam/OurTeam';
 import Partners from './Partners/Partner';
 import WhatWeDo from './WhatWeDo/WhatWeDo';
+import GirlsHomepage from './GirlsHomepage/GirlsHomepage';
 
 class Homepage extends React.Component {
   constructor(props) {
@@ -21,6 +22,7 @@ class Homepage extends React.Component {
         <HomepageCarousel />
         <CurrentEvent />
         <WhatWeDo />
+        <GirlsHomepage />
         <Calendar />
         <OurTeam />
         <Partners />

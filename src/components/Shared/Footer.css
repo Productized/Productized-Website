@@ -1,163 +1,144 @@
 .site-footer {
   border-top: 3px solid #e83f36;
   background-color: #2e2e2f;
-  height: 260px;
-  margin: 0px 33px 0px 0px;
+  width: 100%;
+  margin: 0px;
+}
+
+.site-footer ul {
+  margin: 0px !important;
 }
 
 .footer-text {
   text-align: left;
-  margin: 0px 0px 0px 0px;
+  margin: 0px;
   font-size: 15px;
-  color: white;
-  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
 }
 
 .site-footer h6 {
+  font-family: Klavika Medium;
   color: #fff;
-  font-size: 20px;
   text-transform: uppercase;
-  margin-top: 20px;
-  margin-left: 44px;
+  margin: 10px 0px 15px 40px;
   letter-spacing: 2px;
 }
 
-.link {
-  color: #fff;
-  justify-content: left;
-  margin: 0px -8px 0px 0px;
-}
-.link:hover {
-  color: #e83f36;
-}
-ul {
-  list-style-type: none;
-  margin: 0px 0px 0px 0px;
+.footer-text li a:link,
+.footer-text li a:active {
+  font-family: Klavika Light;
+  text-decoration: none;
+  list-style: none;
+  color: #fff !important;
 }
 
-.site-footer .social-icons .facebook {
+.footer-text li a:hover {
+  color: #e83f36 !important;
+}
+
+.site-footer ul {
+  margin: 0px 0px 0px 30px;
+  padding: 0px;
+}
+
+.icon-limit {
+  width: 40px;
+  display: inline-block;
   text-align: center;
-  height: 40px;
-  width: 40px;
-}
-
-.twitter {
-  height: 40px;
-  width: 40px;
-}
-
-.instagram {
-  height: 40px;
-  width: 40px;
-}
-.linkedin {
-  height: 40px;
-  width: 40px;
-}
-
-.phone-icon {
-  height: 25px;
-  width: 25px;
-  justify-content: left;
-  float: left;
-}
-.location-icon {
-  height: 20px;
-  width: 20px;
-  justify-content: left;
-  float: left;
+  margin: 0px 0px 5px 30px;
 }
 
 .email-icon {
   height: 20px;
   width: 30px;
-  justify-content: left;
-  float: left;
 }
 
-.social-icons li {
+.phone-icon {
+  height: 25px;
+  width: 25px;
+}
+
+.location-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.email-icon {
+  height: 20px;
+  width: 30px;
+}
+
+.copyright-text {
+  color: white;
+  margin: 15px 0px 0px 0px;
+  padding: 0px 0px 10px 0px;
+  font-size: 14px;
   text-align: center;
 }
 
-.site-footer .social-icons a {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  margin-left: 6px;
-  margin-right: 0;
-  border-radius: 100%;
-  background-color: #464646;
+.social-icons {
   display: flex;
   flex-direction: row;
-}
-.copyright-text {
-  margin: 0;
-  color: white;
-  text-align: center;
-}
-
-@media (max-width: 991px) {
-  .site-footer {
-    margin-bottom: 30px;
-  }
-}
-@media (max-width: 767px) {
-  .site-footer {
-    padding-bottom: 0;
-  }
-  .site-footer .copyright-text,
-  .site-footer .social-icons {
-    text-align: center;
-  }
-}
-.social-icons {
-  justify-content: right;
-  margin-bottom: 0;
+  justify-content: flex-end;
   list-style: none;
-}
-.social-icons li {
-  display: inline-block;
-  margin-bottom: 4px;
-}
-.social-icons li.title {
-  margin-right: 15px;
-  text-transform: uppercase;
-  color: white;
-  font-weight: 700;
-  font-size: 13px;
-}
-.social-icons a {
-  color: white;
-  font-size: 16px;
-  justify-content: right;
-  display: inline-block;
-  line-height: 44px;
-  width: 44px;
-  height: 44px;
-  text-align: center;
-  margin-right: 8px;
-  border-radius: 100%;
-  -webkit-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
-  transition: all 0.2s linear;
-}
-.social-icons a:active,
-.social-icons a:focus,
-.social-icons a:hover {
-  color: white;
-  background-color: #e83f36;
-}
-.social-icons.size-sm a {
-  line-height: 34px;
-  height: 34px;
-  width: 34px;
-  font-size: 14px;
+  text-decoration: none;
 }
 
-@media (max-width: 767px) {
-  .social-icons li.title {
-    display: block;
-    margin-right: 0;
-    font-weight: 600;
+.twitter,
+.instagram,
+.linkedin,
+.facebook {
+  height: 40px;
+  width: 40px;
+  margin: 0px 10px 0px 0px;
+  border-radius: 50%;
+  background-color: #464646;
+}
+
+.twitter:hover,
+.instagram:hover,
+.linkedin:hover,
+.facebook:hover {
+  background-color: #e83f3685;
+}
+
+@media (max-width: 768px) {
+  .footer-text {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .site-footer h6 {
+    text-align: center;
+    margin: 10px 0px 15px 0px;
+  }
+
+  .site-footer ul {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .social-icons {
+    justify-content: center;
+  }
+
+  .social-icons-div {
+    margin-top: 20px;
+  }
+
+  .twitter,
+  .instagram,
+  .linkedin,
+  .facebook {
+    height: 30px;
+    width: 30px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 50%;
+    background-color: #464646;
+  }
+
+  .icon-limit {
+    margin: 0px 0px 5px 0px;
   }
 }
