@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar, NavDropdown, Nav } from 'react-bootstrap';
-import logo from '../../assets/Productized_logo.png';
+import NavbarLogo from '../../assets/navbar/navbarlogo.png';
 import './NavBar.css';
 
 function NavBar() {
@@ -9,7 +9,7 @@ function NavBar() {
       <Navbar.Brand href="/">
         <img
           alt="Productized logo"
-          src={logo}
+          src={NavbarLogo}
           width="164"
           height="52"
           className="d-inline-block align-top logo"

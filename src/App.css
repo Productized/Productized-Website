@@ -1,42 +1,42 @@
 /* Fonts sent by the client */
 @font-face {
   font-family: 'Klavika Light';
-  src: url(./assets/Klavika-Light.otf);
+  src: url(./assets/fonts/Klavika-Light.otf);
 }
 
 @font-face {
   font-family: 'Klavika Medium';
-  src: url(./assets/Klavika-Medium.otf);
+  src: url(./assets/fonts/Klavika-Medium.otf);
 }
 
 @font-face {
   font-family: 'Klavika Bold';
-  src: url(./assets/Klavika-Bold.otf);
+  src: url(./assets/fonts/Klavika-Bold.otf);
 }
 
 @font-face {
   font-family: 'Klavika Regular';
-  src: url(./assets/Klavika-Regular.otf);
+  src: url(./assets/fonts/Klavika-Regular.otf);
 }
 
 @font-face {
   font-family: 'Klavika Medium Italic';
-  src: url(./assets/Klavika-MediumItalic.otf);
+  src: url(./assets/fonts/Klavika-MediumItalic.otf);
 }
 
 @font-face {
   font-family: 'Klavika Light Italic';
-  src: url(./assets/Klavika-LightItalic.otf);
+  src: url(./assets/fonts/Klavika-LightItalic.otf);
 }
 
 @font-face {
   font-family: 'Klavika Bold Italic';
-  src: url(./assets/Klavika-BoldItalic.otf);
+  src: url(./assets/fonts/Klavika-BoldItalic.otf);
 }
 
 @font-face {
   font-family: 'Klavika Regular Italic';
-  src: url(./assets/Klavika-RegularItalic.otf);
+  src: url(./assets/fonts/Klavika-RegularItalic.otf);
 }
 
 body {

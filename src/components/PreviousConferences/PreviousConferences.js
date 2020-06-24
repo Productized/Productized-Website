@@ -3,11 +3,11 @@ import './PreviousConferences.css';
 import NavBar from '../Shared/NavBar';
 import Footer from '../Shared/Footer';
 import YearCard from './YearCard';
-import Year2015 from '../../assets/year2015.png';
-import Year2016 from '../../assets/year2016.png';
-import Year2017 from '../../assets/year2017.png';
-import Year2018 from '../../assets/year2018.png';
-import Year2019 from '../../assets/year2019.png';
+import ConferenceYear2015 from '../../assets/previousconferences/ConferenceYear2015.png';
+import ConferenceYear2016 from '../../assets/previousconferences/ConferenceYear2016.png';
+import ConferenceYear2017 from '../../assets/previousconferences/ConferenceYear2017.png';
+import ConferenceYear2018 from '../../assets/previousconferences/ConferenceYear2018.png';
+import ConferenceYear2019 from '../../assets/previousconferences/ConferenceYear2019.png';
 
 class PreviousConferences extends React.Component {
   constructor(props) {
@@ -16,27 +16,27 @@ class PreviousConferences extends React.Component {
       confYears: [
         {
           id: 1,
-          image: Year2019,
+          image: ConferenceYear2019,
           year: '2019',
         },
         {
           id: 2,
-          image: Year2018,
+          image: ConferenceYear2018,
           year: '2018',
         },
         {
           id: 3,
-          image: Year2017,
+          image: ConferenceYear2017,
           year: '2017',
         },
         {
           id: 4,
-          image: Year2016,
+          image: ConferenceYear2016,
           year: '2016',
         },
         {
           id: 5,
-          image: Year2015,
+          image: ConferenceYear2015,
           year: '2015',
         },
       ],

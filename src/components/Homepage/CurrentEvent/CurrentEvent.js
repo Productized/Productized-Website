@@ -1,6 +1,6 @@
 import React from 'react';
 import './CurrentEvent.css';
-import logoConf from '../../../assets/conference_blue_white-03.png';
+import CurrentEventLogo from '../../../assets/current-event/CurrentEventLogo.png';
 
 function CurrentEvent() {
   return (
@@ -9,7 +9,7 @@ function CurrentEvent() {
         <div className="current-event">
           <img
             className="current-event-img"
-            src={logoConf}
+            src={CurrentEventLogo}
             alt="conference logo"
           />
           <p className="current-event-p">

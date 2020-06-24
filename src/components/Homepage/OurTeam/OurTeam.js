@@ -1,10 +1,9 @@
 import React from 'react';
 import './OurTeam.css';
 import OurTeamCard from './OurTeamCard';
-import AndreMarquet from '../../../assets/team/Andre_Marquet_editado.jpg';
-import DanielZacarias from '../../../assets/team/Daniel_Zacarias_editado.jpg';
-import JoaoBernardino from '../../../assets/team/Joao_Bernardino_edited.jpg';
-
+import AndreMarquet from '../../../assets/team/Andre_Marquet.jpg';
+import DanielZacarias from '../../../assets/team/Daniel_Zacarias.jpg';
+import JoaoBernardino from '../../../assets/team/Joao_Bernardino.jpg';
 
 class OurTeam extends React.Component {
   constructor(props) {
