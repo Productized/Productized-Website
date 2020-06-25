@@ -6,7 +6,6 @@ function VidCard(props) {
   const [IsIframeDisplayed, setIframeVisibility] = useState('none');
   const [autoplayOn, setAutoplayOn] = useState('0');
   const video = props;
-  //console.log(video);
 
   return (
     <div className="videocard-div">
@@ -31,7 +30,7 @@ function VidCard(props) {
         style={{ display: isImageDisplayed }}
         width="356"
         height="200"
-        src={video.image}
+        src={require(`../../assets/previousconferences/conferences/${video.imageLocal}`)}
         alt={video.title}
         onMouseEnter={() => {
           setIframeVisibility('block');

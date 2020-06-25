@@ -26,7 +26,8 @@
 }
 
 .footer-text li a:link,
-.footer-text li a:active {
+.footer-text li a:active,
+.footer-text li a:visited {
   font-family: Klavika Light;
   text-decoration: none;
   list-style: none;

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "imageLocal": "ConferenceYear2019.png",
+    "year": "2019"
+  },
+  {
+    "id": 2,
+    "imageLocal": "ConferenceYear2018.png",
+    "year": "2018"
+  },
+  {
+    "id": 3,
+    "imageLocal": "ConferenceYear2017.png",
+    "year": "2017"
+  },
+  {
+    "id": 4,
+    "imageLocal": "ConferenceYear2016.png",
+    "year": "2016"
+  },
+  {
+    "id": 5,
+    "imageLocal": "ConferenceYear2015.png",
+    "year": "2015"
+  }
+]
