@@ -11,7 +11,7 @@ export default function GirlsWhoProductCard(props) {
         <p className="girls-position">{props.position}</p>
 
       <div className="girls-img">
-        <img className="girls-cardimg" src={props.image} alt={props.name} />
+        <img className="girls-cardimg" src={require(`../../assets/girlsproduct/${props.localImage}`)} alt={props.name} />
         <a href={props.medium} target="_blank" rel="noopener noreferrer">
           <p className="medium">MEDIUM</p>
         </a>
