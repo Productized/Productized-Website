@@ -7,7 +7,9 @@
     "albumDescription": "",
     "albumImage": "",
     "videoURL": "",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1g_mGel8GfvZNBmzoqaf0gpIqeoPHj5d9"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1g_mGel8GfvZNBmzoqaf0gpIqeoPHj5d9",
+    "imageLocal": "2017_P_Talks_Landing.jobs.png",
+    "isDisplayed": true
   },
   {
     "id": 2,
@@ -17,7 +19,9 @@
     "albumDescription": "On October 4th, Productized gathered the best Lisbon product community at OutSystems. Our invited speakers were Diogo Figueiredo from Premium Minds and Rodrigo Coutinho from OutSystems.",
     "albumImage": "https://live.staticflickr.com/1918/45156069002_bd2609fceb_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1fqP11yCtpwfeIwS0XKeglEgiqNbCFaM9"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1fqP11yCtpwfeIwS0XKeglEgiqNbCFaM9",
+    "imageLocal": "2018_P_Talks_Outsystems.png",
+    "isDisplayed": true
   },
   {
     "id": 3,
@@ -27,7 +31,9 @@
     "albumDescription": "On October 18th we hacked the product innovation and design at new office of Feedzai! Our invited speakers, Diogo Rendeiro (Director of Product at Feedzai) and Matthew Silva & Daniel Eiba from EYESO shared with #productized community there best knowledge! Thank you all for coming and see at the next Productized events!",
     "albumImage": "https://live.staticflickr.com/1980/44602449065_a2170f63e8_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1Gu3WCVvkr_rOCD7-mRZS8gfuYJhi3e9L"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1Gu3WCVvkr_rOCD7-mRZS8gfuYJhi3e9L",
+    "imageLocal": "2018_P_Talks_Feedzai.png",
+    "isDisplayed": true
   },
   {
     "id": 4,
@@ -37,7 +43,9 @@
     "albumDescription": "Highlights from the Productized Talks @ Talkdesk. António Veloso and Paulo Dimas speak on the topic of Product Innovation",
     "albumImage": "https://live.staticflickr.com/7890/39941660263_27f836b651_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1grmNlBLOn70e6Fi07Tsyq5R3DGXDIaTr"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1grmNlBLOn70e6Fi07Tsyq5R3DGXDIaTr",
+    "imageLocal": "2018_P_Talks_Talkdesk.jpg",
+    "isDisplayed": true
   },
   {
     "id": 5,
@@ -47,7 +55,9 @@
     "albumDescription": "We were super excited to have two of the biggest e-commerce giants coming to share their knowledge and experience. We were joined by Ateeb Nawaz, Head of Product at Farfetch (London) and Nishant Nayac, Head of Product Management at Inside Zalando. Check out the pics, tag your friends and come to the next talk at Feedzai!",
     "albumImage": "https://live.staticflickr.com/1936/44356080225_df2d2cd557_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1Oyo1V81vPRmPDJiQoxLrv1XH5Hl86GMz"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1Oyo1V81vPRmPDJiQoxLrv1XH5Hl86GMz",
+    "imageLocal": "2018_P_Talks_Farfetch.png",
+    "isDisplayed": true
   },
   {
     "id": 6,
@@ -57,7 +67,9 @@
     "albumDescription": "Productized Talks @ OLX Group",
     "albumImage": "https://live.staticflickr.com/1904/31763706558_20f4c4263e_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1djRD8_n_TIrBDBk1d8MRBQ5DFm-SeUnK"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1djRD8_n_TIrBDBk1d8MRBQ5DFm-SeUnK",
+    "imageLocal": "2018_P_Talks_OLX_Group.png",
+    "isDisplayed": true
   },
   {
     "id": 7,
@@ -67,7 +79,9 @@
     "albumDescription": "At this month's Productized Talks we learned how a wearable went from complete failure to a product people truly love with Christoph Dressel. We also had Agostinho Carvalho, who will share his insights on design for mass production.",
     "albumImage": "https://live.staticflickr.com/7825/47441227831_89f30385c5_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=11Hbzn_UbuNGiaeFHjsdibve9c5J8Pqu8"
+    "cardImage": "https://drive.google.com/uc?export=view&id=11Hbzn_UbuNGiaeFHjsdibve9c5J8Pqu8",
+    "imageLocal": "2019_P_Talks_Hardware_Edition.png",
+    "isDisplayed": true
   },
   {
     "id": 8,
@@ -77,7 +91,9 @@
     "albumDescription": "We’ve all dreamt of a future with driverless cars flying above the roads and buildings. At the Productized Talks. The product community came together as we learnt more about the future of automobiles, the best methodologies and how to overcome the key obstacles faced with startups.",
     "albumImage": "https://live.staticflickr.com/65535/33856800858_a6ae6f9071_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1qYYDJYL4TC3V_9du5gBzAJy8DTEs1b3p"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1qYYDJYL4TC3V_9du5gBzAJy8DTEs1b3p",
+    "imageLocal": "2019_P_Talks_Mercedes.jpg",
+    "isDisplayed": true
   },
   {
     "id": 9,
@@ -87,7 +103,9 @@
     "albumDescription": "Productized Talks, hosted by innovative software company Premium Minds. At our talks, you'll network with product people and gain a greater understanding of different aspects of Product management data.",
     "albumImage": "https://live.staticflickr.com/65535/47925218182_ab6955e270_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1Sw9Oo5zsyrR086w66ZA23DE2sMOfGDvx"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1Sw9Oo5zsyrR086w66ZA23DE2sMOfGDvx",
+    "imageLocal": "2019_P_Talks_Lisbon_Data_Science.png",
+    "isDisplayed": true
   },
   {
     "id": 10,
@@ -97,7 +115,9 @@
     "albumDescription": "This month's P-talks was hosted by the IE Exponential Learning in Madrid 🇪🇸. We decided to spread a few words on product management in Spain ️. Thank you for joining us. We hope you learned something new and did some networking.",
     "albumImage": "https://live.staticflickr.com/65535/48144112631_75f82bb695_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1GOh-4N5xWtCRk00itRvzVS10jNlJh2yP"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1GOh-4N5xWtCRk00itRvzVS10jNlJh2yP",
+    "imageLocal": "2019_P_Talks_IE.jpg",
+    "isDisplayed": true
   },
   {
     "id": 11,
@@ -107,7 +127,9 @@
     "albumDescription": "The screening of 'Rams' at Volkswagen SDC:LX in partnership with Lisbon UX was awesome! Check out the pics :)",
     "albumImage": "https://live.staticflickr.com/65535/48241190342_94294c198e_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1aluJ0SSoo31A1id2eCGQ8h8ZgncA7A7w"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1aluJ0SSoo31A1id2eCGQ8h8ZgncA7A7w",
+    "imageLocal": "2019_P_Talks_VW.jpg",
+    "isDisplayed": true
   },
   {
     "id": 12,
@@ -117,7 +139,9 @@
     "albumDescription": "Productized Talks @ Altice Labs",
     "albumImage": "https://live.staticflickr.com/65535/49131891342_53272651b9_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1VhDNAL1wQxcHl4QBnxrLLxF4viYFSw-Q"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1VhDNAL1wQxcHl4QBnxrLLxF4viYFSw-Q",
+    "imageLocal": "2019_P_Talks_Altice.jpg",
+    "isDisplayed": true
   },
   {
     "id": 13,
@@ -127,16 +151,32 @@
     "albumDescription": "Productized Talks @ Farfetch",
     "albumImage": "https://live.staticflickr.com/65535/49131899722_ed0bef249b_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1xJARY3287-37r0hXJvmA7t_v9FCdMpqs"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1xJARY3287-37r0hXJvmA7t_v9FCdMpqs",
+    "imageLocal": "2019_P_Talks_Farfetch.jpg",
+    "isDisplayed": true
   },
   {
     "id": 14,
     "year": "2020",
-    "albumTitle": "Productized Talks @ Pipedrive",
+    "albumTitle": "Productized Talks @ Pipedrive - Mathilde",
     "albumURL": "https://www.flickr.com/photos/productized/albums/72157712815370338",
-    "albumDescription": "Productized Talks @ Pipedrive",
+    "albumDescription": "Productized Talks @ Pipedrive - Mathilde",
     "albumImage": "https://live.staticflickr.com/65535/49434651192_d6503f94dc_q.jpg",
     "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
-    "cardImage": "https://drive.google.com/uc?export=view&id=1rkjKUowWrqoOgHy-qFJwqfa1zTlBAsF8"
+    "cardImage": "https://drive.google.com/uc?export=view&id=1rkjKUowWrqoOgHy-qFJwqfa1zTlBAsF8",
+    "imageLocal": "2020_P_Talks_Pipedrive_Mathilde.png",
+    "isDisplayed": true
+  },
+  {
+    "id": 15,
+    "year": "2020",
+    "albumTitle": "Productized Talks @ Pipedrive - Nuno",
+    "albumURL": "https://www.flickr.com/photos/productized/albums/72157712815370338",
+    "albumDescription": "Productized Talks @ Pipedrive - Nuno",
+    "albumImage": "https://live.staticflickr.com/65535/49434651192_d6503f94dc_q.jpg",
+    "videoURL": "https://www.youtube.com/embed/OrMwIlQR0r8",
+    "cardImage": "https://drive.google.com/uc?export=view&id=1rkjKUowWrqoOgHy-qFJwqfa1zTlBAsF8",
+    "imageLocal": "2020_P_Talks_Pipedrive_Nuno.png",
+    "isDisplayed": true
   }
 ]
