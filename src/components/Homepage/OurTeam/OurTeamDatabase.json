@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "image": "Andre_Marquet.jpg",
+    "name": "André Marquet",
+    "description": "Product, entrepreneur and inventor. Co-founder at Beta-i and Productized. Back from the future to shake the present.",
+    "linkedin": "https://www.linkedin.com/in/marquet/",
+    "twitter": "https://twitter.com/amarquet",
+    "email": "andre@productized.co",
+    "isDisplayed": true
+  },
+  {
+    "id": 2,
+    "image": "Daniel_Zacarias.jpg",
+    "name": "Daniel Zacarias",
+    "description": "Product Management consultant, fascinated by the fact that making software products is all about working with (and for) other people.",
+    "linkedin": "https://www.linkedin.com/in/dzacarias/",
+    "twitter": "https://twitter.com/listentodaniel",
+    "email": "daniel@substantive.pt",
+    "isDisplayed": false
+  },
+
+  {
+    "id": 3,
+    "image": "Joao_Bernardino.jpg",
+    "name": "João Bernardino",
+    "description": "Product Management, Innovation, Mobility, Policy, Startup Founder.",
+    "linkedin": "https://www.linkedin.com/in/joaoprbernardino/",
+    "twitter": "",
+    "email": "",
+    "isDisplayed": true
+  }
+]
