@@ -169,7 +169,7 @@ function Footer() {
             </a>
           </li>
         </ul>
-        <div>
+        <div className="copyright-div">
           <p className="copyright-text"> &copy; 2020 Productized</p>
         </div>
       </div>

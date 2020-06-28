@@ -2,6 +2,7 @@ import React from 'react';
 import './Consultancy.css';
 import { Container, Row, Col } from 'react-bootstrap';
 import NavBar from '../Shared/NavBar';
+import Footer from '../Shared/Footer';
 
 function Consultancy() {
   return (
@@ -126,6 +127,7 @@ function Consultancy() {
           </Col>
         </Row>
       </Container>
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,92 @@
+.build-design-title {
+  margin: 20px 0px 60px 0px;
+  font-family: Klavika Bold;
+  text-align: center;
+}
+
+.card-image {
+  width: 100%;
+  padding: auto;
+  max-height: 250px;
+  object-fit: cover;
+  overflow: hidden;
+  border: 1px solid rgb(139, 139, 139);
+}
+
+.card-title {
+  font-family: Klavika Medium;
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+
+.rows-setup {
+  margin-bottom: 60px;
+}
+
+.show-small {
+  display: none !important;
+}
+
+@media (max-width: 994px) {
+  .card-title {
+    font-size: 1.2em;
+    margin-bottom: 5px !important;
+  }
+
+  .card-description {
+    font-size: 0.7em;
+    margin: 0px;
+  }
+  .card-image {
+    max-height: 180px;
+  }
+}
+
+@media (max-width: 767px) {
+  .build-design-title {
+    margin: 20px 0px 20px 0px;
+    font-size: 1.6em;
+  }
+
+  .rows-setup {
+    margin-bottom: 40px;
+  }
+
+  .card-title {
+    font-size: 1.1em;
+    margin-bottom: 5px !important;
+  }
+
+  .card-description {
+    font-size: 0.9em;
+    margin: 0px;
+  }
+
+  .card-image {
+    max-height: 180px;
+  }
+
+  .show-large {
+    display: none !important;
+  }
+
+  .show-small {
+    display: initial !important;
+  }
+}
+
+@media (max-width: 430px) {
+  .build-design-title {
+    font-size: 1.4em;
+  }
+
+  .card-title {
+    font-size: 0.9em;
+    margin-bottom: 5px !important;
+  }
+
+  .card-description {
+    font-size: 0.7em;
+    margin: 0px;
+  }
+}

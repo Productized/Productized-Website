@@ -81,6 +81,7 @@
 .social-icons {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: flex-end;
   list-style: none;
   text-decoration: none;
@@ -153,5 +154,39 @@
 
   .icon-limit {
     margin: 0px 0px 5px 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .footer-text {
+    font-size: 13px;
+  }
+
+  .site-footer h6 {
+    font-size: 1em;
+  }
+
+  .social-icons-div {
+    margin-top: 20px;
+  }
+
+  .facebook-footer,
+  .twitter-footer,
+  .instagram-footer,
+  .linkedin-footer,
+  .medium-footer,
+  .soundcloud-footer,
+  .meetup-footer,
+  .flickr-footer,
+  .youtube-footer {
+    font-size: 20px;
+  }
+
+  .icon-limit {
+    width: 30px;
+  }
+
+  .copyright-text {
+    font-size: 10px;
   }
 }
