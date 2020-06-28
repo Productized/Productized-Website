@@ -86,22 +86,33 @@
   text-decoration: none;
 }
 
-.twitter,
-.instagram,
-.linkedin,
-.facebook {
-  height: 40px;
-  width: 40px;
-  margin: 0px 10px 0px 0px;
-  border-radius: 50%;
-  background-color: #464646;
+.social-icons li {
+  margin-right: 15px;
 }
 
-.twitter:hover,
-.instagram:hover,
-.linkedin:hover,
-.facebook:hover {
-  background-color: #e83f3685;
+.facebook-footer,
+.twitter-footer,
+.instagram-footer,
+.linkedin-footer,
+.medium-footer,
+.soundcloud-footer,
+.meetup-footer,
+.flickr-footer,
+.youtube-footer {
+  color: white;
+  font-size: 25px;
+}
+
+.facebook-footer:hover,
+.twitter-footer:hover,
+.instagram-footer:hover,
+.linkedin-footer:hover,
+.medium-footer:hover,
+.soundcloud-footer:hover,
+.meetup-footer:hover,
+.flickr-footer:hover,
+.youtube-footer:hover {
+  color: #e83f36;
 }
 
 @media (max-width: 768px) {
@@ -128,15 +139,16 @@
     margin-top: 20px;
   }
 
-  .twitter,
-  .instagram,
-  .linkedin,
-  .facebook {
-    height: 30px;
-    width: 30px;
-    margin: 0px 10px 0px 0px;
-    border-radius: 50%;
-    background-color: #464646;
+  .facebook-footer,
+  .twitter-footer,
+  .instagram-footer,
+  .linkedin-footer,
+  .medium-footer,
+  .soundcloud-footer,
+  .meetup-footer,
+  .flickr-footer,
+  .youtube-footer {
+    font-size: 20px;
   }
 
   .icon-limit {
