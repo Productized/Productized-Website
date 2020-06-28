@@ -18,21 +18,9 @@ function NavBar() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto navbar-links">
-          <Nav.Link eventKey="home" href="/">
-            Home
-          </Nav.Link>
-          <Nav.Link eventKey="meetups" href="/meetups">
-            Meetups
-          </Nav.Link>
-          <Nav.Link eventKey="girls" href="/girlswhoproduct">
-            #GirlsWhoProduct
-          </Nav.Link>
-          <Nav.Link eventKey="courses" href="/courses">
-            Courses
-          </Nav.Link>
           <NavDropdown
             eventKey="prevConfs"
-            title="Previous Conferences"
+            title="Conferences"
             id="basic-nav-dropdown"
           >
             <NavDropdown.Item
@@ -73,6 +61,21 @@ function NavBar() {
               All Conferences
             </NavDropdown.Item>
           </NavDropdown>
+          <Nav.Link eventKey="consultancy" href="/consultancy">
+            Consultancy
+          </Nav.Link>
+          <Nav.Link eventKey="courses" href="/courses">
+            Courses
+          </Nav.Link>
+          <Nav.Link eventKey="designandbuild" href="/designandbuild">
+            Design & Build
+          </Nav.Link>
+          <Nav.Link eventKey="girls" href="/girlswhoproduct">
+            #GirlsWhoProduct
+          </Nav.Link>
+          <Nav.Link eventKey="meetups" href="/meetups">
+            Meetups
+          </Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

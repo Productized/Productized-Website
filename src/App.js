@@ -7,6 +7,8 @@ import MeetUps from './components/MeetUps/MeetUpsList';
 import GirlsWhoProduct from './components/GirlsWhoProduct/GirlsWhoProduct';
 import Courses from './components/Courses/Courses';
 import AlbumCard from './components/PreviousConferences/AlbumCard';
+import Consultancy from './components/Consultancy/Consultancy';
+import DesignBuild from './components/DesignBuild/DesignBuild';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
@@ -22,12 +24,14 @@ function App() {
             component={PreviousConferences}
           />
           <Route exact path="/previousconferences/:year" component={VidList} />
+          <Route exact path="/consultancy" component={Consultancy} />
           <Route
             exact
             path="/previousconferences/:year/albums"
             component={AlbumCard}
           />
           <Route exact path="/meetups" component={MeetUps} />
+          <Route exact path="/designandbuild" component={DesignBuild} />
           <Route exact path="/girlswhoproduct" component={GirlsWhoProduct} />
           <Route exact path="/courses" component={Courses} />
         </Switch>
