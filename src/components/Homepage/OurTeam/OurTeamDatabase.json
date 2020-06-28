@@ -29,5 +29,45 @@
     "twitter": "",
     "email": "",
     "isDisplayed": true
+  },
+  {
+    "id": 4,
+    "image": "",
+    "name": "Rafael Daron",
+    "description": "Design Head, Workshop facilitator, Business designer.",
+    "linkedin": "https://www.linkedin.com/in/rafaeldaron/",
+    "twitter": "https://twitter.com/rafaeldaron",
+    "email": "rafael@productized.co",
+    "isDisplayed": false
+  },
+  {
+    "id": 5,
+    "image": "",
+    "name": "Teresa",
+    "description": "",
+    "linkedin": "",
+    "twitter": "",
+    "email": "",
+    "isDisplayed": false
+  },
+  {
+    "id": 6,
+    "image": "",
+    "name": "Patricia",
+    "description": "",
+    "linkedin": "",
+    "twitter": "",
+    "email": "",
+    "isDisplayed": false
+  },
+  {
+    "id": 7,
+    "image": "",
+    "name": "Sara",
+    "description": "",
+    "linkedin": "",
+    "twitter": "",
+    "email": "",
+    "isDisplayed": false
   }
 ]
