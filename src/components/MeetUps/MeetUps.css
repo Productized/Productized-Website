@@ -14,7 +14,7 @@
 }
 
 .meetup-background {
-  height: 150px;
+  height: 100px;
   width: 100%;
   filter: sepia(100%);
   object-fit: cover;
@@ -22,8 +22,8 @@
 
 .meetup-title-div {
   background-color: #e83f36;
-  height: 150px;
-  margin: 10px 0px;
+  height: 100px;
+  margin: 0px 0px 10px 0px;
   position: relative;
 }
 /* CSS for MeetUpCard */
@@ -45,34 +45,37 @@
   position: relative;
 }
 
-.youtube {
+.youtube,
+.flickr,
+.meetup {
   position: absolute;
-  color: white;
-  text-shadow: 1px 1px 1px black;
-  font-family: Klavika Bold;
-  bottom: 25%;
-  right: 20px;
-  font-size: 20px;
-}
-.youtube:hover {
-  color: #e83f36;
+  color: #91d3f0;
 }
 
 .flickr {
-  position: absolute;
-  color: white;
-  text-shadow: 1px 1px 1px black;
-  font-family: Klavika Bold;
   bottom: 10%;
-  right: 20px;
-  font-size: 20px;
+  right: 23px;
+  font-size: 35px;
 }
 
-.flickr:hover {
-  color: #e83f36;
+.youtube {
+  bottom: 30%;
+  right: 20px;
+  font-size: 35px;
+}
+
+.meetup {
+  bottom: 50%;
+  right: 20px;
+  font-size: 40px;
 }
 
 .meetup-img {
   border: 1px solid #464646;
   box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
+}
+
+.icon-test {
+  padding: 5px;
+  color: #e83f36;
 }

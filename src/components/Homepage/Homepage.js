@@ -8,6 +8,7 @@ import OurTeam from './OurTeam/OurTeam';
 import Partners from './Partners/Partner';
 import WhatWeDo from './WhatWeDo/WhatWeDo';
 import GirlsHomepage from './GirlsHomepage/GirlsHomepage';
+//import Test from '../Shared/Test';
 
 class Homepage extends React.Component {
   constructor(props) {
@@ -27,6 +28,7 @@ class Homepage extends React.Component {
         <OurTeam />
         <Partners />
         <Footer />
+        {/* <Test /> */}
       </>
     );
   }

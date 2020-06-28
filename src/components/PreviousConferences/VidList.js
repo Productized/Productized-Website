@@ -10,7 +10,7 @@ import './VidList.css';
 function VidList(props) {
   const { year } = props.match.params;
   const chosenVideos = AllVideos.filter(
-    (video) => video.year === year && video.isShown,
+    (video) => video.year === year && video.isDisplayed,
   );
   const recapVideo = AllVideos.find(
     (video) => video.year === year && video.isRecap === true,

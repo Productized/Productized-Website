@@ -5,10 +5,10 @@
     "title": "Netflix's Customer Obsession",
     "speaker": "Gibson Biddle",
     "link": "https://www.youtube.com/embed/kzc-lcURwBo",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
-    "imageLocal": "",
+    "image": "https://drive.google.com/uc?export=view&id=1F5Dfi1pRp7JsVzuTuT63j8vLurSwDoZU",
+    "imageLocal": "2019_conf_Netflixs_Customer_Obsession.png",
     "isRecap": false,
-    "isShown": false
+    "isDisplayed": true
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "image": "https://drive.google.com/uc?export=view&id=10z3ZYscKAH-mXYnVEpBOy2NyibToIIls",
     "imageLocal": "2019_conf_Moving_into_Management_Leadership.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1lw-oMoiyAVE48cmQspkRABLIx7i5hk-4",
     "imageLocal": "2019_conf_Best_Practices_for_Product_Roadmaps.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1EgzzFxPudTX48NJsMtf18u3nFRJT3Pjv",
     "imageLocal": "2019_conf_Overcome_your_Innovation_Biases.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1u1o-bTLpGo8PP3vxYxB2FsnJP4NXvwsc",
     "imageLocal": "2019_conf_Winning_Product_Ideas_Strategy_over_Beauty.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1ZgqvcKI_VgECVjBOGtwCtJ_uKkuA1T1a",
     "imageLocal": "2019_conf_Product_Culture_Eats_Execution_Culture.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1ILdmmd-1dbDLyVtFcysBjf6kwlePmbZC",
     "imageLocal": "2019_conf_How_to_Build_Trust _with_Customers.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1kkKq8TkXTjhHvgqvCSy0zcQFMq88fJXg",
     "imageLocal": "2019_conf_Conflict_Resolution_for_People_Who_Hate_Conflict.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1oJgzHOuEjjJcXwD6ge3L7b6raBrk4t5l",
     "imageLocal": "2019_conf_The_Engineering_Lead.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1b8xDjUPp7t4dW25X9ZToJs_K8wEUl7Ci",
     "imageLocal": "2019_conf _Iterating_Toward_a_Better_Product_Culture.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1DWCsbFxnlGhzlb_pjA0m1df-DBtUVGtO",
     "imageLocal": "2019_conf_Great_User_Research_for_Non-Researchers.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1jRltHD68Kr1-6_Mw4Hue0nWHS9IRSHj2",
     "imageLocal": "2019_conf_Anticipatory_Design_Future_Experience.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 13,
@@ -137,10 +137,10 @@
     "title": "Productized Conference 2019 Trailer",
     "speaker": "",
     "link": "https://player.vimeo.com/video/375896255",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "image": "https://drive.google.com/uc?export=view&id1a4W-_-788wugVpTUneHqL3emov7_3tN3",
     "imageLocal": "2019.jpg",
     "isRecap": true,
-    "isShown": false
+    "isDisplayed": false
   },
   {
     "id": 14,
@@ -151,7 +151,7 @@
     "image": "https://drive.google.com/uc?export=view&id=19DBJGEH0EGY1OvzpoSSVEfzGDECrxFv3",
     "imageLocal": "2018_conf_Extraordinary_Results_with_Ordinary_People.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 15,
@@ -162,7 +162,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1g61GomDaLCa0Bv-2aQJtGy31I3SlrgVs",
     "imageLocal": "2018_conf_Improving_the_Process_of_Product_Decisions_Making.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 16,
@@ -170,10 +170,10 @@
     "title": "Productized Conference 2018 Recap",
     "speaker": "",
     "link": "https://www.youtube.com/embed/xIs04PfhtVM",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "image": "https://drive.google.com/uc?export=view&id=1UiFHD_Y1OypJRuFKGIsGJ9-lHNw0kknk",
     "imageLocal": "2018.jpg",
     "isRecap": true,
-    "isShown": false
+    "isDisplayed": false
   },
   {
     "id": 17,
@@ -184,7 +184,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1gizctFu_iuhk7lkrK66jtONlSM5FXrKN",
     "imageLocal": "2018_conf _Success_Requires_Making_Tough_Decisions.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 18,
@@ -195,7 +195,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1HUBeB17ZfFc4dO95NASdO9MoVbWHuy1Y",
     "imageLocal": "2018_conf_Shipping_Product_at_Scale.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 19,
@@ -206,7 +206,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1mJCbc8KUwNPh9L8VdBb0C8cDpcVfLd7M",
     "imageLocal": "2018_conf_Using_Data_to_Set_Product_Strategy.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 20,
@@ -217,7 +217,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1Rh_I5BO20hoFQLIzjpcU3Nwk4xJFZzLo",
     "imageLocal": "2018_conf_User_Value_Creation.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 21,
@@ -228,7 +228,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1HrfHSZD4sSc6TeFjCQgiBh6K0RHSny1n",
     "imageLocal": "2018_conf _Escaping_the_Build_Trap.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 22,
@@ -239,7 +239,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1YQjg2A9m7e78tBTP1ka3_tZGVK62WW1q",
     "imageLocal": "2018_conf_Ten_Things_to_Remember_While_AB_Testing.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 23,
@@ -250,7 +250,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1VFPc-RFd2EFrzLff_4PRNZydi-pIjo6H",
     "imageLocal": "2018_conf_Hacking_your_Tractor_with_Black_Market_Code.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 24,
@@ -258,10 +258,10 @@
     "title": "Productized Conference, Lisbon 2017 | Recap",
     "speaker": "",
     "link": "https://www.youtube.com/embed/aMPZPqC00tM",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "image": "https://drive.google.com/uc?export=view&id=1VuPBuR1BcjLG_V07nUS7alIXXy_PyUwT",
     "imageLocal": "2017.jpg",
     "isRecap": true,
-    "isShown": false
+    "isDisplayed": false
   },
   {
     "id": 25,
@@ -272,7 +272,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1CyEyDs--vdLWGIAwCaVSnxEqGRMyqcYu",
     "imageLocal": "2017_conf_Bringing_Agile_to_your_Extended_Teams.jpg",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 26,
@@ -283,7 +283,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1-oGQ1GfD6GNzMxp3o5mS0fg-ccTwy5-P",
     "imageLocal": "2017_conf_MVPs_are_too_Expensive.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 27,
@@ -294,7 +294,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1UUxvhYuNAGXdPL3sw_5pCfStm1JksgFr",
     "imageLocal": "2017_conf_Product_Culture_in_a_Growing_Organisation.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 28,
@@ -305,7 +305,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1kmnf8iaIZFs4dGIQzT9RrFnLA279FnVr",
     "imageLocal": "2017_conf_Product_Centricity.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 29,
@@ -316,7 +316,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1MN4faaGpvunNGyYpX_YaNqsY0xWCu-Gz",
     "imageLocal": "2017_conf_The_Product_Formula.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 30,
@@ -327,7 +327,7 @@
     "image": "https://drive.google.com/uc?export=view&id=123pirGbYkmV2y9tC_lnBaFYrWqhdnOvB",
     "imageLocal": "2017_conf_A_Playbook_for_Achieving_Product_Market_Fit.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 31,
@@ -338,7 +338,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1tyaY7guO1K7NWCPP1xcpYyvqzHenfwdY",
     "imageLocal": "2017_conf_Successful_Products_by_Prioritizing_Team_Happiness.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 32,
@@ -349,7 +349,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1Z0o2NfKiOMyNs9WqW203UwsA9WfUHe8L",
     "imageLocal": "2017_conf_Implants_and_Body_Hacking.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 33,
@@ -360,7 +360,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1k-wQb9wgayoYBRSYsgOpvKTjYkLr-eES",
     "imageLocal": "2017_conf_Product_Lifecycle.jpg",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 34,
@@ -371,7 +371,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1J1cBW1gYrOg7VCKCNGcalZe1vIEOH7Kv",
     "imageLocal": "2017_conf_Innovation_Strategies.jpg",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 35,
@@ -382,7 +382,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1tCzVU461TvjHY4GSKgNNpIOxJOwYhHk6",
     "imageLocal": "2017_conf_The_5_PM_Personas.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 36,
@@ -393,7 +393,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1NUQpK2KP_gIgPvGJ-VPGjiDkYhMx0XPB",
     "imageLocal": "2017_conf_Everything_is_a_Product.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 37,
@@ -404,7 +404,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1T8S4HegfUPnlBrR8E_drbzwXOJgtqLpQ",
     "imageLocal": "2017_conf_Lean_Product_in_a_Huge_Company.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 38,
@@ -415,7 +415,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1kHfQyNnk3NHQ-2T0ajNLDrHuC0Eafgsi",
     "imageLocal": "2016_conf_Introduction_to_Modern_Product_Discovery.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 39,
@@ -423,10 +423,10 @@
     "title": "PRODUCTIZED CONFERENCE 2016",
     "speaker": "",
     "link": "https://www.youtube.com/embed/fHC9nEOl3a0",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
-    "imageLocal": "2016.jpg",
+    "image": "https://drive.google.com/uc?export=view&id=1Js6brQGQOqii4AXAhusSCYAxH1issumz",
+    "imageLocal": "2016.png",
     "isRecap": false,
-    "isShown": false
+    "isDisplayed": false
   },
   {
     "id": 40,
@@ -434,10 +434,10 @@
     "title": "Productized Conference 2016",
     "speaker": "",
     "link": "https://www.youtube.com/embed/KMBaCTCvRn8",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
-    "imageLocal": "2016.jpg",
+    "image": "https://drive.google.com/uc?export=view&id=1Js6brQGQOqii4AXAhusSCYAxH1issumz",
+    "imageLocal": "2016.png",
     "isRecap": true,
-    "isShown": false
+    "isDisplayed": false
   },
   {
     "id": 41,
@@ -448,7 +448,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1INp7ZO3o91-NG7NoPz-ZaUmgkdkTWr6a",
     "imageLocal": "2016_conf_Intro_Andre_Marquet.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 42,
@@ -459,7 +459,7 @@
     "image": "https://drive.google.com/uc?export=view&id=18Dkg2DOnCFOwyhN49NmAq6f80UmHDx0W",
     "imageLocal": "2016_conf_Insigths_25_Years_Productizing.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 43,
@@ -470,7 +470,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1sFo4jyG2iHHylR52TmpuOWufsKAL7NXz",
     "imageLocal": "2016_conf_Productization_Mindset.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 44,
@@ -481,7 +481,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1YJAIGPdbte6Abg3l9_ZRB0sUJYwD2cg2",
     "imageLocal": "2016_conf_Manage_Global_Design_Teams.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 45,
@@ -492,7 +492,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1jV0l811CZm1NtmZjM4RcSu1EzLeCnmJk",
     "imageLocal": "2016_conf_Power_to_Create_Connect_and_Inspire.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 46,
@@ -503,7 +503,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1iWnZ50ntPq8ktXYXNoA5C73-d6GbIYUF",
     "imageLocal": "2016_conf_So_You_Want_to_be_a_Service_Designer.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 47,
@@ -514,7 +514,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1gyCQw8LgsYMXxtT894x1sw5cYmBdeOXR",
     "imageLocal": "2016_conf_Ideas_Dont_Sell_Themselves.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 48,
@@ -525,7 +525,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1h_VJ-2XxRRNmKIh0mT2t8BYZx7JMVCug",
     "imageLocal": "2016_conf_Make_it_Clear.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 49,
@@ -536,7 +536,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1rgG-4e7rp1QiZV0rHso96zkyMr20Q8XT",
     "imageLocal": "2016_conf_Tools_for_Better_Products.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 50,
@@ -547,7 +547,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1pvsiSRYyTdx_bD6gq0G8wvi_GWQa_7X9",
     "imageLocal": "2016_conf_From_Idea_to_Launch.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 51,
@@ -558,7 +558,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1O8iiNJdwMKasVdJdfvheMOUuLE4Uuuvy",
     "imageLocal": "2016_conf_Building_Insanely_Great_Products.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 52,
@@ -569,7 +569,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1DmRRvTmJfee-PpnNz3Ed2q1MIjmxAl8P",
     "imageLocal": "2015_conf_Digital_Physical_Product_Startups.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 53,
@@ -580,7 +580,7 @@
     "image": "https://drive.google.com/uc?export=view&id=10GPr3pUPhheoEUeauHzEdZEWQTTi4KoN",
     "imageLocal": "2015_conf_Creating_a_Hardware_Product_Startup.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 54,
@@ -591,7 +591,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1J7_voQ2c83feMfGI5Hlvo4n5hXIrXa3t",
     "imageLocal": "2015_conf_Design_Story_of_Smart_Food_Nutrition.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 55,
@@ -602,7 +602,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1jdGYkM6M8PYcFg_9bttDFyVbEhRZpb2i",
     "imageLocal": "2015_conf_From_Story_to_Product_in_180_Days.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 56,
@@ -613,7 +613,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1pMYU95VF3lfHORb9Cr_E97-Kum589FD_",
     "imageLocal": "2015_conf_Five_Lessons_from_the_Battelfield.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 57,
@@ -624,7 +624,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1u3yQPdhiDDTMLKLzCxyLKW81QLrbxlkG",
     "imageLocal": "2015_conf_A_Product_Manager_Should_Own_a_Job.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 58,
@@ -635,7 +635,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1UU6DqjjV0vrxUVdylaBbSXIjFfHlOO_t",
     "imageLocal": "2015_conf_Designing_for_Tomorrows_Smart_Systems.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 59,
@@ -646,7 +646,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1mJZod5hA1E2Ua6_5x1Yo-C1wBDKPTYcE",
     "imageLocal": "2015_conf_Anatomy_of_pd_or_How_to_Find_Your_True_North.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 60,
@@ -657,7 +657,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1YUqrNYEEqQcF8FlgzZleWdr_cdnDEfaW",
     "imageLocal": "2015_conf_Product_Strategy_Product_Success.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 61,
@@ -668,7 +668,7 @@
     "image": "https://drive.google.com/uc?export=view&id=19pVlninxIhpGaf4ohE4AutalBCxlAvUS",
     "imageLocal": "2015_conf_Design_for_Enterprise_Processes.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 62,
@@ -679,7 +679,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1laRgVo66qqE2y0LhgGa3IvEu5D36H5gV",
     "imageLocal": "2015_conf_Product_Manager_vs_Product_Owner_Dilemma.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 63,
@@ -687,10 +687,10 @@
     "title": "Productized Conference | Teaser",
     "speaker": "",
     "link": "https://www.youtube.com/embed/4FwNqeIUUVY",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "image": "https://drive.google.com/uc?export=view&id=1kWhQGiLH3v1o0vbyeT8_OWt7s-QFR5Rt",
     "imageLocal": "2015.jpg",
     "isRecap": true,
-    "isShown": false
+    "isDisplayed": false
   },
   {
     "id": 64,
@@ -701,7 +701,7 @@
     "image": "https://drive.google.com/uc?export=view&id=123Wa9E-Rb42MmMSmUqBQ4XYebxGoBKNT",
     "imageLocal": "2015_conf_Personal_Design_X.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 65,
@@ -712,7 +712,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1Uh6yP8iMrzDHb9_CUzIRw8CX94yyE3qi",
     "imageLocal": "2015_conf_Creating_Meaning.png",
     "isRecap": false,
-    "isShown": true
+    "isDisplayed": true
   },
   {
     "id": 66,
@@ -720,9 +720,9 @@
     "title": "Productized Teaser Video",
     "speaker": "",
     "link": "https://www.youtube.com/embed/OyJzajzv7SE",
-    "image": "https://via.placeholder.com/356x200.png/0000FF",
+    "image": "https://drive.google.com/uc?export=view&id=1kWhQGiLH3v1o0vbyeT8_OWt7s-QFR5Rt",
     "imageLocal": "2015.jpg",
     "isRecap": false,
-    "isShown": false
+    "isDisplayed": false
   }
 ]

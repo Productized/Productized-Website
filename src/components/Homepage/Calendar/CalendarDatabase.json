@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "year": "2020",
+    "month": "JUL",
+    "day": "02",
+    "weekday": "THU",
+    "eventName": "#GWP - Franziska Roth",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://zoom.us/webinar/register/WN_mEaCeE0wTnKGxOzbpcVldQ",
+    "isDisplayed": true
+  },
+  {
+    "id": 2,
+    "year": "2020",
+    "month": "JUL",
+    "day": "09",
+    "weekday": "THU",
+    "eventName": "Sarah Garcia",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "",
+    "isDisplayed": true
+  },
+  {
+    "id": 3,
+    "year": "2020",
+    "month": "JUL",
+    "day": "16",
+    "weekday": "THU",
+    "eventName": "#GWP - Karianna",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "",
+    "isDisplayed": true
+  },
+  {
+    "id": 4,
+    "year": "2020",
+    "month": "JUL",
+    "day": "23",
+    "weekday": "THU",
+    "eventName": "Sabrina Rpezka",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "",
+    "isDisplayed": true
+  },
+  {
+    "id": 5,
+    "year": "2020",
+    "month": "JUL",
+    "day": "23",
+    "weekday": "THU",
+    "eventName": "Techniques for Mission Critical Design Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/techniques-for-mission-critical-design-online-workshop-tickets-109948077660)",
+    "isDisplayed": true
+  },
+  {
+    "id": 6,
+    "year": "2020",
+    "month": "SEP",
+    "day": "10",
+    "weekday": "THU",
+    "eventName": "Go Where Your Users Are: In Field Research Methods Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110965260080",
+    "isDisplayed": true
+  },
+  {
+    "id": 7,
+    "year": "2020",
+    "month": "SEP",
+    "day": "17",
+    "weekday": "THU",
+    "eventName": "Negotiations for Product Managers Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110965607118",
+    "isDisplayed": true
+  },
+  {
+    "id": 8,
+    "year": "2020",
+    "month": "SEP",
+    "day": "24",
+    "weekday": "THU",
+    "eventName": "'YEAH, BUT...' - Platform Businesses for Product Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110966840808",
+    "isDisplayed": true
+  },
+  {
+    "id": 9,
+    "year": "2020",
+    "month": "OCT",
+    "day": "01",
+    "weekday": "THU",
+    "eventName": "Remote Design Sprint in under 150 minutes Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110969895946",
+    "isDisplayed": true
+  },
+  {
+    "id": 10,
+    "year": "2020",
+    "month": "OCT",
+    "day": "15",
+    "weekday": "THU",
+    "eventName": "Jazz, Design Sprints & the Art of Making the Right Mistakes Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110967424554",
+    "isDisplayed": true
+  },
+  {
+    "id": 11,
+    "year": "2020",
+    "month": "OCT",
+    "day": "22",
+    "weekday": "THU",
+    "eventName": "Create Your Killer Product Strategy Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110967903988",
+    "isDisplayed": true
+  },
+  {
+    "id": 12,
+    "year": "2020",
+    "month": "OCT",
+    "day": "29",
+    "weekday": "THU",
+    "eventName": "Conflict Resolution for People Who Hate Conflict Online Workshop",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/110968483722",
+    "isDisplayed": true
+  },
+  {
+    "id": 13,
+    "year": "2020",
+    "month": "NOV",
+    "day": "26-27",
+    "weekday": "WED-THU",
+    "eventName": "Productized Online Conference",
+    "imageBackground": "CalendarEvent1.jpg",
+    "eventLink": "https://www.eventbrite.com/e/registo-productized-online-conference-2020-92365556867",
+    "isDisplayed": true
+  }
+]
