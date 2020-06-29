@@ -32,42 +32,42 @@
   },
   {
     "id": 4,
-    "image": "",
+    "image": "Rafael_Daron.jpg",
     "name": "Rafael Daron",
     "description": "Design Head, Workshop facilitator, Business designer.",
     "linkedin": "https://www.linkedin.com/in/rafaeldaron/",
     "twitter": "https://twitter.com/rafaeldaron",
     "email": "rafael@productized.co",
-    "isDisplayed": false
+    "isDisplayed": true
   },
   {
     "id": 5,
-    "image": "",
-    "name": "Teresa",
-    "description": "",
-    "linkedin": "",
+    "image": "Teresa_Segismundo.jpg",
+    "name": "Teresa Segismundo",
+    "description": "Marketing Manager",
+    "linkedin": "https://www.linkedin.com/in/teresa-segismundo/",
     "twitter": "",
-    "email": "",
-    "isDisplayed": false
+    "email": "teresa.segismundo@productized.co",
+    "isDisplayed": true
   },
   {
     "id": 6,
-    "image": "",
-    "name": "Patricia",
-    "description": "",
-    "linkedin": "",
+    "image": "Patricia_Travessa.jpg",
+    "name": "Patrícia Travessa",
+    "description": "Operations Manager",
+    "linkedin": "https://www.linkedin.com/in/patriciatravessa/",
     "twitter": "",
-    "email": "",
-    "isDisplayed": false
+    "email": "accounting@productized.co",
+    "isDisplayed": true
   },
   {
     "id": 7,
-    "image": "",
-    "name": "Sara",
-    "description": "",
-    "linkedin": "",
+    "image": "Sara_Cerqueira.jpg",
+    "name": "Sara Cerqueira",
+    "description": "Marketing Assistant",
+    "linkedin": "https://www.linkedin.com/in/saracerqueira/",
     "twitter": "",
-    "email": "",
-    "isDisplayed": false
+    "email": "sara@productized.co",
+    "isDisplayed": true
   }
 ]
