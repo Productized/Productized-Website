@@ -17,7 +17,7 @@
     "day": "09",
     "weekday": "THU",
     "eventName": "Sarah Garcia",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent2.jpg",
     "eventLink": "",
     "isDisplayed": true
   },
@@ -28,7 +28,7 @@
     "day": "16",
     "weekday": "THU",
     "eventName": "#GWP - Karianna",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent3.jpg",
     "eventLink": "",
     "isDisplayed": true
   },
@@ -39,7 +39,7 @@
     "day": "23",
     "weekday": "THU",
     "eventName": "Sabrina Rpezka",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent4.jpg",
     "eventLink": "",
     "isDisplayed": true
   },
@@ -50,7 +50,7 @@
     "day": "23",
     "weekday": "THU",
     "eventName": "Techniques for Mission Critical Design Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent5.jpg",
     "eventLink": "https://www.eventbrite.com/e/techniques-for-mission-critical-design-online-workshop-tickets-109948077660)",
     "isDisplayed": true
   },
@@ -61,7 +61,7 @@
     "day": "10",
     "weekday": "THU",
     "eventName": "Go Where Your Users Are: In Field Research Methods Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent6.jpg",
     "eventLink": "https://www.eventbrite.com/e/110965260080",
     "isDisplayed": true
   },
@@ -72,7 +72,7 @@
     "day": "17",
     "weekday": "THU",
     "eventName": "Negotiations for Product Managers Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent7.jpg",
     "eventLink": "https://www.eventbrite.com/e/110965607118",
     "isDisplayed": true
   },
@@ -83,7 +83,7 @@
     "day": "24",
     "weekday": "THU",
     "eventName": "'YEAH, BUT...' - Platform Businesses for Product Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent8.jpg",
     "eventLink": "https://www.eventbrite.com/e/110966840808",
     "isDisplayed": true
   },
@@ -94,7 +94,7 @@
     "day": "01",
     "weekday": "THU",
     "eventName": "Remote Design Sprint in under 150 minutes Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent9.jpg",
     "eventLink": "https://www.eventbrite.com/e/110969895946",
     "isDisplayed": true
   },
@@ -105,7 +105,7 @@
     "day": "15",
     "weekday": "THU",
     "eventName": "Jazz, Design Sprints & the Art of Making the Right Mistakes Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent10.jpg",
     "eventLink": "https://www.eventbrite.com/e/110967424554",
     "isDisplayed": true
   },
@@ -127,7 +127,7 @@
     "day": "29",
     "weekday": "THU",
     "eventName": "Conflict Resolution for People Who Hate Conflict Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent2.jpg",
     "eventLink": "https://www.eventbrite.com/e/110968483722",
     "isDisplayed": true
   },
@@ -138,7 +138,7 @@
     "day": "26-27",
     "weekday": "WED-THU",
     "eventName": "Productized Online Conference",
-    "imageBackground": "CalendarEvent1.jpg",
+    "imageBackground": "CalendarEvent4.jpg",
     "eventLink": "https://www.eventbrite.com/e/registo-productized-online-conference-2020-92365556867",
     "isDisplayed": true
   }
