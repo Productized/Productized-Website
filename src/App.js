@@ -11,6 +11,9 @@ import Consultancy from './components/Consultancy/Consultancy';
 import DesignBuild from './components/DesignBuild/DesignBuild';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
+library.add(faEnvelope);
 
 function App() {
   return (

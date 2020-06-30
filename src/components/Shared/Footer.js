@@ -168,6 +168,16 @@ function Footer() {
               />
             </a>
           </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.meetup.com/pt-BR/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={['far', 'envelope']} />
+            </a>
+          </li>
         </ul>
         <div className="copyright-div">
           <p className="copyright-text"> &copy; 2020 Productized</p>

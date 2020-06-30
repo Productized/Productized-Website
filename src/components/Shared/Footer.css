@@ -21,7 +21,7 @@
   font-family: Klavika Medium;
   color: #fff;
   text-transform: uppercase;
-  margin: 10px 0px 15px 40px;
+  margin: 30px 0px 15px 40px;
   letter-spacing: 2px;
 }
 
@@ -72,17 +72,17 @@
 
 .copyright-text {
   color: white;
-  margin: 15px 0px 0px 0px;
+  margin: 15px 0px 0px 40px;
   padding: 0px 0px 10px 0px;
   font-size: 14px;
-  text-align: center;
+  text-align: left;
 }
 
 .social-icons {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: center;
   list-style: none;
   text-decoration: none;
 }

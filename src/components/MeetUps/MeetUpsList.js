@@ -13,11 +13,6 @@ function MeetUps() {
     <div>
       <NavBar />
       <div className="meetup-title-div">
-        <img
-          className="meetup-background"
-          src={require(`../../assets/meetups/P_Talk_BackgroundImage.jpg`)}
-          alt="P-Talks Background"
-        />
         <h1 className="meetup-title">MeetUps</h1>
       </div>
       <div className="meetup-div">
