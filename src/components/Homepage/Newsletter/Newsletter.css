@@ -1,0 +1,128 @@
+.newsletter-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.newsletter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  background: #e83f36;
+  height: 120px;
+}
+
+.newsletter-img {
+  width: 60px;
+  text-align: right;
+  margin-left: 10px;
+}
+
+.newsletter-p {
+  width: 360px;
+  font-size: 15px;
+  color: white;
+  text-align: left;
+  margin: 20px;
+  padding: 0;
+}
+
+.newsletter-p span {
+  font-family: 'Klavika Bold';
+}
+
+.newsletter-button-link {
+  /* width: 200px; */
+  text-align: left;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.newsletter-button {
+  background-color: #e83f36;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+  font-size: 13px;
+  /* font-size: 0.5em; */
+  padding: 2px 10px;
+}
+
+@media (min-width: 435px) {
+  .current-event-button {
+    padding: 5px 5px;
+  }
+}
+
+@media (min-width: 576px) {
+  .current-event {
+    height: 60px;
+  }
+
+  .current-event-img {
+    width: 45px;
+  }
+
+  .current-event-p {
+    width: 300px;
+    font-size: 0.7em;
+    margin: 0 0 0 10px;
+    padding: 0;
+  }
+
+  .current-event-button {
+    font-size: 0.7em;
+    padding: 5px 10px;
+    margin-right: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .current-event-img {
+    width: 50px;
+  }
+
+  .current-event-p {
+    font-size: 0.8em;
+    margin: 0 15px;
+  }
+}
+
+@media (min-width: 992px) {
+  .current-event {
+    height: 75px;
+  }
+
+  .current-event-img {
+    width: 60px;
+  }
+
+  .current-event-p {
+    font-size: 1em;
+    margin: 0 25px;
+  }
+
+  .current-event-button {
+    font-size: 0.9em;
+    padding: 5px 8px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .current-event {
+    height: 90px;
+  }
+
+  .current-event-img {
+    width: 70px;
+  }
+
+  .current-event-p {
+    width: 400px;
+    font-size: 1em;
+    margin: 0 0 0 50px;
+    padding: 0;
+  }
+}
