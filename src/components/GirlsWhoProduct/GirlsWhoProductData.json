@@ -1,14 +1,13 @@
-[{
-  "id": 1,
-  "name": "Alicia Goodwin",
-  "position": "Product Owner @ Zalando",
-  "medium": "https://medium.com/@Productized/girlswhoproduct-alicia-goodwin-36d067c7f861?source=---------35------------------",
-  "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alice-goodwin-a-product-owner-zalando",
-  "image": "https://drive.google.com/uc?export=view&id=1NwVSdWpRnz5YqWxvFa_WH3x5QJyI8DAa",
-  "localImage": "goodwin.jpg"
-
-},
-  
+[
+  {
+    "id": 1,
+    "name": "Alicia Goodwin",
+    "position": "Product Owner @ Zalando",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-alicia-goodwin-36d067c7f861?source=---------35------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alice-goodwin-a-product-owner-zalando",
+    "image": "https://drive.google.com/uc?export=view&id=1NwVSdWpRnz5YqWxvFa_WH3x5QJyI8DAa",
+    "localImage": "goodwin.jpg"
+  },
   {
     "id": 2,
     "name": "Alison Jolly",
@@ -44,7 +43,8 @@
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-marta-skassa-a-product-manager-zalando",
     "image": "https://drive.google.com/uc?export=view&id=1ML33YXPfed1n9tcsCnYVGHevwrl60dVq",
     "localImage": "moatti.jpg"
-  },{
+  },
+  {
     "id": 6,
     "name": "Vidya Dinamani",
     "position": "Founder & Partner @ Product Rebels",
@@ -53,6 +53,4 @@
     "image": "https://drive.google.com/uc?export=view&id=1lKPOE3aj9-M1XI8G2eHwyxkYKJwQSil5",
     "localImage": "vidya.jpg"
   }
- 
-  
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "WhatWeDo_Courses.jpg",
+    "title": "COURSES",
+    "description": "Getting into Product Management Online. Learn through high-quality videos, engaging lessons, hands-on activities, and sharing insights.",
+    "button": "CHECK AVAILABLE COURSES",
+    "buttonLink": "/courses",
+    "backgroundColor": "background-red",
+    "isDisplayed": true
+  },
+  {
+    "id": 2,
+    "image": "WhatWeDo_Meetups.jpg",
+    "title": "MEETUPS",
+    "description": "Get inspired! Series of events with top speakers and experts to answer the question 'how to create well-designed products?'",
+    "button": "CHECK OUR MEETUPS",
+    "buttonLink": "/meetups",
+    "backgroundColor": "background-yellow",
+    "isDisplayed": true
+  },
+  {
+    "id": 3,
+    "image": "WhatWeDo_Conference.jpg",
+    "title": "CONFERENCE",
+    "description": "During 3 full days of workshops and talks, product related professionals discuss and share insights on how to build great products together.",
+    "button": "CHECK PREVIOUS EDITIONS",
+    "buttonLink": "/previousconferences",
+    "backgroundColor": "background-blue",
+    "isDisplayed": true
+  },
+  {
+    "id": 4,
+    "image": "",
+    "title": "CONSULTANCY",
+    "description": "",
+    "button": "",
+    "buttonLink": "/consultancy",
+    "backgroundColor": "",
+    "isDisplayed": false
+  }
+]

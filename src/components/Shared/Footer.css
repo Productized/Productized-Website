@@ -21,7 +21,7 @@
   font-family: Klavika Medium;
   color: #fff;
   text-transform: uppercase;
-  margin: 10px 0px 15px 40px;
+  margin: 30px 0px 15px 40px;
   letter-spacing: 2px;
 }
 
@@ -72,36 +72,48 @@
 
 .copyright-text {
   color: white;
-  margin: 15px 0px 0px 0px;
+  margin: 15px 0px 0px 40px;
   padding: 0px 0px 10px 0px;
   font-size: 14px;
-  text-align: center;
+  text-align: left;
 }
 
 .social-icons {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  flex-wrap: wrap;
+  justify-content: center;
   list-style: none;
   text-decoration: none;
 }
 
-.twitter,
-.instagram,
-.linkedin,
-.facebook {
-  height: 40px;
-  width: 40px;
-  margin: 0px 10px 0px 0px;
-  border-radius: 50%;
-  background-color: #464646;
+.social-icons li {
+  margin-right: 15px;
 }
 
-.twitter:hover,
-.instagram:hover,
-.linkedin:hover,
-.facebook:hover {
-  background-color: #e83f3685;
+.facebook-footer,
+.twitter-footer,
+.instagram-footer,
+.linkedin-footer,
+.medium-footer,
+.soundcloud-footer,
+.meetup-footer,
+.flickr-footer,
+.youtube-footer {
+  color: white;
+  font-size: 25px;
+}
+
+.facebook-footer:hover,
+.twitter-footer:hover,
+.instagram-footer:hover,
+.linkedin-footer:hover,
+.medium-footer:hover,
+.soundcloud-footer:hover,
+.meetup-footer:hover,
+.flickr-footer:hover,
+.youtube-footer:hover {
+  color: #e83f36;
 }
 
 @media (max-width: 768px) {
@@ -128,18 +140,53 @@
     margin-top: 20px;
   }
 
-  .twitter,
-  .instagram,
-  .linkedin,
-  .facebook {
-    height: 30px;
-    width: 30px;
-    margin: 0px 10px 0px 0px;
-    border-radius: 50%;
-    background-color: #464646;
+  .facebook-footer,
+  .twitter-footer,
+  .instagram-footer,
+  .linkedin-footer,
+  .medium-footer,
+  .soundcloud-footer,
+  .meetup-footer,
+  .flickr-footer,
+  .youtube-footer {
+    font-size: 20px;
   }
 
   .icon-limit {
     margin: 0px 0px 5px 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .footer-text {
+    font-size: 13px;
+  }
+
+  .site-footer h6 {
+    font-size: 1em;
+  }
+
+  .social-icons-div {
+    margin-top: 20px;
+  }
+
+  .facebook-footer,
+  .twitter-footer,
+  .instagram-footer,
+  .linkedin-footer,
+  .medium-footer,
+  .soundcloud-footer,
+  .meetup-footer,
+  .flickr-footer,
+  .youtube-footer {
+    font-size: 20px;
+  }
+
+  .icon-limit {
+    width: 30px;
+  }
+
+  .copyright-text {
+    font-size: 10px;
   }
 }

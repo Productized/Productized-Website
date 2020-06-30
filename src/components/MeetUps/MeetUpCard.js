@@ -1,20 +1,29 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './MeetUps.css';
 
 function MeetUpCard(props) {
+  const meetups = props;
   return (
     <div className="meetupcard-div">
       <div className="meetup-img">
         <img
-          className="meetup-cardimg"
-          src={props.cardImage}
-          alt={props.albumTitle}
+          className="meetup-card-img"
+          src={require(`../../assets/meetups/${meetups.imageLocal}`)}
+          alt={meetups.albumTitle}
         />
-        <a href={props.videoURL} target="_blank" rel="noopener noreferrer">
-          <p className="youtube">YOUTUBE</p>
+        <a
+          href="https://www.meetup.com/pt-BR/Productized/events/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon className="meetup" icon={['fab', 'meetup']} />
         </a>
-        <a href={props.albumURL} target="_blank" rel="noopener noreferrer">
-          <p className="flickr">FLICKR</p>
+        <a href={meetups.videoURL} target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon className="youtube" icon={['fab', 'youtube']} />
+        </a>
+        <a href={meetups.albumURL} target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon className="flickr" icon={['fab', 'flickr']} />
         </a>
       </div>
     </div>

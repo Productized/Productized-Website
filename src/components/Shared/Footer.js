@@ -1,9 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import FooterFacebookIcon from './../../assets/footer/FooterFacebookIcon.png';
-import FooterTwitterIcon from './../../assets/footer/FooterTwitterIcon.png';
-import FooterInstagramIcon from './../../assets/footer/FooterInstagramIcon.png';
-import FooterLinkedinIcon from './../../assets/footer/FooterLinkedinIcon.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import FooterEmailIcon from './../../assets/footer/FooterEmailIcon.png';
 import FooterPhoneIcon from './../../assets/footer/FooterPhoneIcon.png';
 import FooterLocationIcon from './../../assets/footer/FooterLocationIcon.png';
@@ -61,10 +58,9 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img
-                className="facebook"
-                src={FooterFacebookIcon}
-                alt="Facebook Icon"
+              <FontAwesomeIcon
+                className="facebook-footer"
+                icon={['fab', 'facebook']}
               />
             </a>
           </li>
@@ -75,10 +71,9 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img
-                className="twitter"
-                src={FooterTwitterIcon}
-                alt="Twitter Icon"
+              <FontAwesomeIcon
+                className="twitter-footer"
+                icon={['fab', 'twitter']}
               />
             </a>
           </li>
@@ -89,10 +84,9 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img
-                className="instagram"
-                src={FooterInstagramIcon}
-                alt="Instagram Icon"
+              <FontAwesomeIcon
+                className="instagram-footer"
+                icon={['fab', 'instagram']}
               />
             </a>
           </li>
@@ -103,15 +97,89 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img
-                className="linkedin"
-                src={FooterLinkedinIcon}
-                alt="Linkedin Icon"
+              <FontAwesomeIcon
+                className="linkedin-footer"
+                icon={['fab', 'linkedin-in']}
               />
             </a>
           </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.youtube.com/channel/UCc707M4Ey0qECi56KPqgJjA/featured"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="youtube-footer"
+                icon={['fab', 'youtube']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.flickr.com/people/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="flickr-footer"
+                icon={['fab', 'flickr']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://medium.com/@Productized"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="medium-footer"
+                icon={['fab', 'medium-m']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://soundcloud.com/productized"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="soundcloud-footer"
+                icon={['fab', 'soundcloud']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.meetup.com/pt-BR/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="meetup-footer"
+                icon={['fab', 'meetup']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.meetup.com/pt-BR/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon icon={['far', 'envelope']} />
+            </a>
+          </li>
         </ul>
-        <div>
+        <div className="copyright-div">
           <p className="copyright-text"> &copy; 2020 Productized</p>
         </div>
       </div>

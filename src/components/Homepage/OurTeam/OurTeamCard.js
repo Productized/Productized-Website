@@ -5,36 +5,40 @@ import TwitterIcon from '../../../assets/team/TeamTwitterIcon.png';
 import EmailIcon from '../../../assets/team/TeamEmailIcon.png';
 
 export default function OurTeamCard(props) {
-  console.log(props);
+  const team = props;
   return (
     <div className="team-cards">
-      <img className="team-image" src={props.image} alt={props.name} />
+      <img
+        className="team-image"
+        src={require(`../../../assets/team/${team.image}`)}
+        alt={team.name}
+      />
       <div className="text-team-overlay">
         <div className="team-text">
-          <p className="team-text-name">{props.name}</p>
-          <p className="team-text-description">{props.description}</p>
+          <p className="team-text-name">{team.name}</p>
+          <p className="team-text-description">{team.description}</p>
           <div className="contact">
-            <a href={props.linkedin} target="_blank" rel="noopener noreferrer">
+            <a href={team.linkedin} target="_blank" rel="noopener noreferrer">
               <img
-                className="whatwedo-linkedin-icon"
+                className={team.linkedin ? 'whatwedo-linkedin-icon' : 'hide'}
                 src={LinkedinIcon}
                 alt="Linkedin Icon"
               />
             </a>
-            <a href={props.twitter} target="_blank" rel="noopener noreferrer">
+            <a href={team.twitter} target="_blank" rel="noopener noreferrer">
               <img
-                className="whatwedo-twitter-icon"
+                className={team.twitter ? 'whatwedo-twitter-icon' : 'hide'}
                 src={TwitterIcon}
                 alt="Twitter Icon"
               />
             </a>
             <a
-              href={`mailto: ${props.email}`}
+              href={`mailto: ${team.email}`}
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
-                className="whatwedo-email-icon"
+                className={team.email ? 'whatwedo-email-icon' : 'hide'}
                 src={EmailIcon}
                 alt="Email Icon"
               />

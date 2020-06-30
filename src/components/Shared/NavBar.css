@@ -1,7 +1,8 @@
-#navbar-links a:hover {
+.navbar-links a:hover {
   color: #e83f36 !important;
 }
 
-#navbar-links a {
+.navbar-links a {
   color: #928080 !important;
+  font-family: Klavika Regular !important;
 }
