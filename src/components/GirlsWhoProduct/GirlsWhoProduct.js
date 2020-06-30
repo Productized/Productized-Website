@@ -15,6 +15,9 @@ class GirlsWhoProduct extends React.Component {
 
   render() {
     const GirlsWhoProductCards = this.state.GirlsWhoProductCards;
+    const chosenGirls = GirlsWhoProductCards.filter(
+      (girlCard) => girlCard.isDisplayed === true,
+    );
     return (
       <div>
         <NavBar />
@@ -30,7 +33,7 @@ class GirlsWhoProduct extends React.Component {
         </div>
 
         <div className="girls-cards-container">
-          {GirlsWhoProductCards.map((girlCard) => (
+          {chosenGirls.map((girlCard) => (
             <GirlsWhoProductCard {...girlCard} />
           ))}
         </div>

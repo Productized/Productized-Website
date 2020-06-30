@@ -1,23 +1,43 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import "./GirlsWhoProduct.css";
 
 export default function GirlsWhoProductCard(props) {
-  console.log(props);
+  const girls = props;
+
   return (
     <div className="girls-main-container">
       
       
-        <p className="girls-name">{props.name}</p>
-        <p className="girls-position">{props.position}</p>
+        <p className="girls-name">{girls.name}</p>
+        <p className="girls-position">{girls.position}</p>
 
       <div className="girls-img">
-        <img className="girls-cardimg" src={require(`../../assets/girlsproduct/${props.localImage}`)} alt={props.name} />
-        <a href={props.medium} target="_blank" rel="noopener noreferrer">
-          <p className="medium">MEDIUM</p>
+        <img className="girls-cardimg" src={require(`../../assets/girlsproduct/${girls.localImage}`)} alt={girls.name} />
+        <a
+              className="social-links"
+              href={girls.medium}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="medium"
+                icon={['fab', 'medium-m']}
+              />
         </a>
-        <a href={props.soundcloud} target="_blank" rel="noopener noreferrer">
-          <p className="soundcloud">SOUNDCLOUD</p>
+
+        <a
+              className="social-links"
+              href={girls.soundcloud}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="soundcloud"
+                icon={['fab', 'soundcloud']}
+              />
         </a>
+
       </div>
     </div>
   );
