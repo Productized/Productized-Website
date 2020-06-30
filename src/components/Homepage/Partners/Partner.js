@@ -1,10 +1,10 @@
 import React from 'react';
 import './Partners.css';
 import PartnerFacebookLogo from '../../../assets/partners/PartnerFacebookLogo.png';
-import PartnerGoogleLogo from '../../../assets/partners/PartnerGoogleLogo.jpeg';
+import PartnerGoogleLogo from '../../../assets/partners/PartnerGoogleLogo.png';
 import PartnerNetflixLogo from '../../../assets/partners/PartnerNetflixLogo.png';
 import PartnerOlxLogo from '../../../assets/partners/PartnerOlxLogo.png';
-import PartnerSAPLogo from '../../../assets/partners/PartnerSAPLogo.jpg';
+import PartnerSAPLogo from '../../../assets/partners/PartnerSAPLogo.png';
 import PartnerZalandooLogo from '../../../assets/partners/PartnerZalandooLogo.png';
 
 export default function Partners() {
