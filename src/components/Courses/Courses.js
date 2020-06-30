@@ -4,7 +4,6 @@ import NavBar from '../Shared/NavBar';
 import Footer from '../Shared/Footer';
 import CourseCard from './CourseCard';
 import CourseData from './CourseData.json';
-import ProdMgmtFundamentals from './../../assets/courses/ProdMgmtFundamentals.jpg';
 
 class Courses extends React.Component {
   constructor(props) {
