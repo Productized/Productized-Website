@@ -5,13 +5,10 @@
   margin: 0px;
 }
 
-.site-footer ul {
-  margin: 0px !important;
-}
-
 .footer-text {
   text-align: left;
   margin: 0px;
+  padding: 0px;
   font-size: 15px;
   list-style: none;
   text-decoration: none;
@@ -38,13 +35,12 @@
   color: #e83f36 !important;
 }
 
-.site-footer ul {
-  margin: 0px 0px 0px 30px;
-  padding: 0px;
+.footer-contact-icons {
+  color: #e83f36;
 }
 
 .icon-limit {
-  width: 40px;
+  width: 25px;
   display: inline-block;
   text-align: center;
   margin: 0px 0px 5px 30px;
@@ -85,6 +81,7 @@
   justify-content: center;
   list-style: none;
   text-decoration: none;
+  margin: 20px 0px !important;
 }
 
 .social-icons li {
@@ -132,6 +129,11 @@
     padding: 0px;
   }
 
+  .footer-text {
+    margin: 0px;
+    padding: 0px;
+  }
+
   .social-icons {
     justify-content: center;
   }
@@ -154,6 +156,12 @@
 
   .icon-limit {
     margin: 0px 0px 5px 0px;
+  }
+
+  .copyright-text {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
   }
 }
 

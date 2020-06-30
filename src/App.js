@@ -13,7 +13,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
-library.add(faEnvelope);
+import { faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons';
+library.add(faEnvelope, faMapMarkerAlt, faPhone);
 
 function App() {
   return (

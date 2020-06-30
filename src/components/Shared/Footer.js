@@ -1,9 +1,6 @@
 import React from 'react';
 import './Footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import FooterEmailIcon from './../../assets/footer/FooterEmailIcon.png';
-import FooterPhoneIcon from './../../assets/footer/FooterPhoneIcon.png';
-import FooterLocationIcon from './../../assets/footer/FooterLocationIcon.png';
 
 function Footer() {
   return (
@@ -12,10 +9,9 @@ function Footer() {
       <ul className="footer-text">
         <li>
           <div className="icon-limit">
-            <img
-              className="email-icon"
-              src={FooterEmailIcon}
-              alt="Email Icon"
+            <FontAwesomeIcon
+              className="footer-contact-icons"
+              icon={['far', 'envelope']}
             />
           </div>
           <a className="link" href="mailto:info@productized.co">
@@ -24,10 +20,9 @@ function Footer() {
         </li>
         <li>
           <div className="icon-limit">
-            <img
-              className="location-icon"
-              src={FooterLocationIcon}
-              alt="location"
+            <FontAwesomeIcon
+              className="footer-contact-icons"
+              icon={['fas', 'map-marker-alt']}
             />
           </div>
           <a
@@ -41,7 +36,10 @@ function Footer() {
         </li>
         <li>
           <div className="icon-limit">
-            <img className="phone-icon" src={FooterPhoneIcon} alt="phone" />
+            <FontAwesomeIcon
+              className="footer-contact-icons"
+              icon={['fas', 'phone']}
+            />
           </div>
           <a className="link" href="tel:+351 21 051 4759">
             +351 21 051 4759
@@ -166,16 +164,6 @@ function Footer() {
                 className="meetup-footer"
                 icon={['fab', 'meetup']}
               />
-            </a>
-          </li>
-          <li>
-            <a
-              className="social-links"
-              href="https://www.meetup.com/pt-BR/productized/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={['far', 'envelope']} />
             </a>
           </li>
         </ul>
