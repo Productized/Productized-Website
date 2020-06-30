@@ -1,13 +1,10 @@
 import React from 'react';
 import './Consultancy.css';
 import { Container, Row, Col } from 'react-bootstrap';
-import NavBar from '../Shared/NavBar';
-import Footer from '../Shared/Footer';
 
 function Consultancy() {
   return (
     <div className="consultancy-div">
-      <NavBar />
       <h2 className="consultancy-title">Consultancy</h2>
       <Container>
         <Row className="rows-setup">
@@ -127,7 +124,6 @@ function Consultancy() {
           </Col>
         </Row>
       </Container>
-      <Footer />
     </div>
   );
 }

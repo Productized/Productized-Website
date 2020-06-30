@@ -1,12 +1,19 @@
+.podcast {
+  margin: 0px 0px 8.5px 0px;
+  font-size: 1em;
+}
+
 .girl-title-content {
   text-align: center;
+  width: 80%;
 }
+
 .girls-product {
   font-family: Klavika Bold;
 }
 
-.girl-cards img{
- width:750px;
+.girl-cards img {
+  width: 650px;
 }
 
 .girl-main-container {
@@ -17,18 +24,61 @@
   justify-content: space-around;
   flex-direction: column;
 }
+
 .girl-card-text {
-  margin: 20px auto;
-  width: 55%;
+  margin: 0px 0px 20px 0px;
   text-align: center;
 }
 
 .girls-button {
   border: 2px solid #e83f36;
   border-radius: 10px;
-  color:  #e83f36;
+  color: #e83f36;
   font-size: 1.1em;
   padding: 6px 16px;
   background-color: white;
   font-family: Klavika Bold;
+}
+
+@media (max-width: 768px) {
+  .girl-title-content {
+    font-size: 0.8em;
+    width: 90%;
+    margin: 0px 10px;
+  }
+
+  .girls-product {
+    font-size: 1.6em;
+  }
+
+  .girl-cards img {
+    width: 400px;
+  }
+
+  .girls-button {
+    font-size: 0.8em;
+    margin-top: 10px;
+    padding: 6px 16px;
+    background-color: white;
+    font-family: Klavika Bold;
+  }
+}
+
+@media (max-width: 475px) {
+  .girl-title-content {
+    font-size: 0.7em;
+    width: 100%;
+  }
+
+  .girl-cards img {
+    width: 300px;
+  }
+
+  .girls-button {
+    font-size: 0.7em;
+    margin-top: 10px;
+    padding: 6px 16px;
+    background-color: white;
+    font-family: Klavika Bold;
+  }
 }

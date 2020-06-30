@@ -1,7 +1,5 @@
 import React from 'react';
 import './AlbumCard.css';
-import NavBar from '../Shared/NavBar';
-import Footer from '../Shared/Footer';
 import VidListPage from './VidListPage.json';
 
 function AlbumCard(props) {
@@ -22,7 +20,6 @@ function AlbumCard(props) {
 
   return (
     <>
-      <NavBar />
       <h2 className="album-section-title">
         {`Albums from Productized CONFERENCE ${year}`}
       </h2>
@@ -50,7 +47,6 @@ function AlbumCard(props) {
           </a>
         ))}
       </div>
-      <Footer />
     </>
   );
 }

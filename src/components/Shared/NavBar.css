@@ -6,3 +6,7 @@
   color: #928080 !important;
   font-family: Klavika Regular !important;
 }
+
+#active-key {
+  color: #e83f36 !important;
+}

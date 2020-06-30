@@ -1,6 +1,4 @@
 import React from 'react';
-import NavBar from '../Shared/NavBar';
-import Footer from '../Shared/Footer';
 import VidCard from './VidCard';
 import RecapCard from './RecapCard';
 import AllVideos from './VidList.json';
@@ -32,7 +30,6 @@ function VidList(props) {
 
   return (
     <div>
-      <NavBar />
       <div className="vidlist-body">
         <h2 className="vidlist-title">{`PRODUCTIZED CONFERENCE ${year}`}</h2>
         <div className="vidlist-belowtitle-div">
@@ -54,7 +51,6 @@ function VidList(props) {
           ))}
         </div>
       </div>
-      <Footer />
     </div>
   );
 }

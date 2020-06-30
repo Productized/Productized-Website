@@ -1,9 +1,7 @@
-import React from "react";
-import "./GirlsWhoProduct.css";
-import GirlsWhoProductCard from "./GirlsWhoProductCard";
-import GirlsWhoProductData from "./GirlsWhoProductData.json";
-import NavBar from "../Shared/NavBar";
-import Footer from "../Shared/Footer"
+import React from 'react';
+import './GirlsWhoProduct.css';
+import GirlsWhoProductCard from './GirlsWhoProductCard';
+import GirlsWhoProductData from './GirlsWhoProductData.json';
 
 class GirlsWhoProduct extends React.Component {
   constructor(props) {
@@ -20,7 +18,6 @@ class GirlsWhoProduct extends React.Component {
     );
     return (
       <div>
-        <NavBar />
         <div className="girls-title-content">
           <h1 className="girls-title">#GIRLSWHOPRODUCT</h1>
           <p className="girls-card-text">
@@ -37,7 +34,6 @@ class GirlsWhoProduct extends React.Component {
             <GirlsWhoProductCard {...girlCard} />
           ))}
         </div>
-        <Footer />
       </div>
     );
   }

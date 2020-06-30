@@ -2,8 +2,6 @@ import React from 'react';
 import HomepageCarousel from './Carousel/HomepageCarousel';
 import CurrentEvent from './CurrentEvent/CurrentEvent';
 import Calendar from './Calendar/Calendar';
-import NavBar from '../Shared/NavBar';
-import Footer from './../Shared/Footer';
 import OurTeam from './OurTeam/OurTeam';
 import Partners from './Partners/Partner';
 import WhatWeDo from './WhatWeDo/WhatWeDo';
@@ -19,7 +17,6 @@ class Homepage extends React.Component {
   render() {
     return (
       <>
-        <NavBar />
         <HomepageCarousel />
         <CurrentEvent />
         <WhatWeDo />
@@ -28,7 +25,6 @@ class Homepage extends React.Component {
         <OurTeam />
         <Partners />
         <Newsletter />
-        <Footer />
       </>
     );
   }

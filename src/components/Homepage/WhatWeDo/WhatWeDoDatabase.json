@@ -6,7 +6,7 @@
     "description": "Getting into Product Management Online. Learn through high-quality videos, engaging lessons, hands-on activities, and sharing insights.",
     "button": "CHECK AVAILABLE COURSES",
     "buttonLink": "/courses",
-    "backgroundColor": "background-red",
+    "backgroundColor": "red",
     "isDisplayed": true
   },
   {
@@ -16,7 +16,7 @@
     "description": "Get inspired! Series of events with top speakers and experts to answer the question 'how to create well-designed products?'",
     "button": "CHECK OUR MEETUPS",
     "buttonLink": "/meetups",
-    "backgroundColor": "background-yellow",
+    "backgroundColor": "yellow",
     "isDisplayed": true
   },
   {
@@ -26,7 +26,7 @@
     "description": "During 3 full days of workshops and talks, product related professionals discuss and share insights on how to build great products together.",
     "button": "CHECK PREVIOUS EDITIONS",
     "buttonLink": "/previousconferences",
-    "backgroundColor": "background-blue",
+    "backgroundColor": "blue",
     "isDisplayed": true
   },
   {
