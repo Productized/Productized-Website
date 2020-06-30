@@ -1,7 +1,21 @@
 .build-design-title {
-  margin: 20px 0px 60px 0px;
-  font-family: Klavika Bold;
-  text-align: center;
+  margin: 0px 0px 50px 0px;
+  font-family: Klavika Medium;
+  letter-spacing: 4px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3em;
+  color: white;
+}
+
+.title-design-div{
+  height: 100px;
+  margin: 0px 0px 10px 0px;
+  position: relative;
+  background-color: #e83f36; opacity:0.8;
+  margin-bottom: 3%;
 }
 
 .card-image {

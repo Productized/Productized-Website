@@ -9,6 +9,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 3em;
+  color: white;
 }
 
 .meetup-background {
@@ -22,6 +23,8 @@
   height: 100px;
   margin: 0px 0px 10px 0px;
   position: relative;
+  background-color: #e83f36;
+  opacity: 0.8;
 }
 
 /* CSS for MeetUpCard */

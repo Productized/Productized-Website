@@ -1,20 +1,22 @@
-import React from 'react';
-import './Consultancy.css';
-import { Container, Row, Col } from 'react-bootstrap';
-import NavBar from '../Shared/NavBar';
-import Footer from '../Shared/Footer';
+import React from "react";
+import "./Consultancy.css";
+import { Container, Row, Col } from "react-bootstrap";
+import NavBar from "../Shared/NavBar";
+import Footer from "../Shared/Footer";
 
 function Consultancy() {
   return (
     <div className="consultancy-div">
       <NavBar />
-      <h2 className="consultancy-title">Consultancy</h2>
+      <div className="title-consultancy-div">
+        <h2 className="consultancy-title">Consultancy</h2>
+      </div>
       <Container>
         <Row className="rows-setup">
           <Col xl={5} lg={5} md={5} sm={12} xs={12}>
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Design_Sprints.jpg')}
+              src={require("../../assets/consultancy/Design_Sprints.jpg")}
               alt="Design Sprint"
             />
           </Col>
@@ -33,7 +35,7 @@ function Consultancy() {
           <Col xl={5} lg={5} md={5} sm={12} xs={12} className="show-small">
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Innovation_Programmes.jpg')}
+              src={require("../../assets/consultancy/Innovation_Programmes.jpg")}
               alt="Innovation Programmes"
             />
           </Col>
@@ -50,7 +52,7 @@ function Consultancy() {
           <Col xl={5} lg={5} md={5} sm={12} xs={12} className="show-large">
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Innovation_Programmes.jpg')}
+              src={require("../../assets/consultancy/Innovation_Programmes.jpg")}
               alt="Innovation Programmes"
             />
           </Col>
@@ -59,7 +61,7 @@ function Consultancy() {
           <Col xl={5} lg={5} md={5} sm={12} xs={12}>
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Startup_Coaching.jpg')}
+              src={require("../../assets/consultancy/Startup_Coaching.jpg")}
               alt="Startup Coaching"
             />
           </Col>
@@ -80,7 +82,7 @@ function Consultancy() {
           <Col xl={5} lg={5} md={5} sm={12} xs={12} className="show-small">
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Product_Owner.jpg')}
+              src={require("../../assets/consultancy/Product_Owner.jpg")}
               alt="Product Owner"
             />
           </Col>
@@ -100,7 +102,7 @@ function Consultancy() {
           <Col xl={5} lg={5} md={5} sm={12} xs={12} className="show-large">
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Product_Owner.jpg')}
+              src={require("../../assets/consultancy/Product_Owner.jpg")}
               alt="Product Owner"
             />
           </Col>
@@ -109,7 +111,7 @@ function Consultancy() {
           <Col xl={5} lg={5} md={5} sm={12} xs={12}>
             <img
               className="card-image"
-              src={require('../../assets/consultancy/Future_Studies.jpg')}
+              src={require("../../assets/consultancy/Future_Studies.jpg")}
               alt="Future Studies"
             />
           </Col>
