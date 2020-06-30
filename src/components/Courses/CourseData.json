@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "image": "ProdMgmtFundamentals.jpg",
+    "title": "Product Management Fundamentals",
+    "description": "Find out how to set up an efficient process to get your product out the door.",
+    "button": "READ MORE",
+    "buttonLink": "https://productizedemy.teachable.com/p/product-management-fundamentals",
+    "backgroundColor": "background-red"
+  }
+]
