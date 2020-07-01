@@ -55,17 +55,27 @@
   right: 20px;
   font-size: 35px;
 }
+.flickr:hover {
+  color: #e83f36;
+}
 
 .youtube {
   bottom: 18%;
   right: 60px;
   font-size: 35px;
 }
+.youtube:hover {
+  color: #e83f36;
+}
 
 .meetup {
   bottom: 18%;
   right: 100px;
   font-size: 40px;
+}
+
+.meetup:hover {
+  color: #e83f36;
 }
 
 .meetup-img {
