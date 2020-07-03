@@ -30,7 +30,7 @@ function RecapCard(props) {
         style={{ display: isImageDisplayed }}
         width="356"
         height="200"
-        src={recapVideo.image}
+        src={require(`../../assets/previousconferences/conferences/${recapVideo.imageLocal}`)}
         alt={recapVideo.title}
         onMouseEnter={() => {
           setIframeVisibility('block');

@@ -1,12 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import facebook_round from './../../assets/footer/facebook_round.png';
-import twitter_round from './../../assets/footer/twitter_round.png';
-import instagram from './../../assets/footer/instagram.png';
-import linkedin_round from './../../assets/footer/linkedin_round.png';
-import email from './../../assets/footer/email.png';
-import phone from './../../assets/footer/phone.png';
-import location from './../../assets/footer/location.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Footer() {
   return (
@@ -15,7 +9,10 @@ function Footer() {
       <ul className="footer-text">
         <li>
           <div className="icon-limit">
-            <img className="email-icon" src={email} alt="email" />
+            <FontAwesomeIcon
+              className="footer-contact-icons"
+              icon={['far', 'envelope']}
+            />
           </div>
           <a className="link" href="mailto:info@productized.co">
             info@productized.co
@@ -23,18 +20,26 @@ function Footer() {
         </li>
         <li>
           <div className="icon-limit">
-            <img className="location-icon" src={location} alt="location" />
+            <FontAwesomeIcon
+              className="footer-contact-icons"
+              icon={['fas', 'map-marker-alt']}
+            />
           </div>
           <a
             className="link"
             href="https://www.google.com/maps/place/R.+de+Campolide+28,+1070-028+Lisboa,+Portugal/@38.7261916,-9.16429,17z/data=!3m1!4b1!4m5!3m4!1s0xd19336eb3637e3b:0x6e2427db7fe066ed!8m2!3d38.7261916!4d-9.1621013"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Rua Campolide nº28 1070-028 Lisboa
           </a>
         </li>
         <li>
           <div className="icon-limit">
-            <img className="phone-icon" src={phone} alt="phone" />
+            <FontAwesomeIcon
+              className="footer-contact-icons"
+              icon={['fas', 'phone']}
+            />
           </div>
           <a className="link" href="tel:+351 21 051 4759">
             +351 21 051 4759
@@ -48,36 +53,121 @@ function Footer() {
             <a
               className="social-links"
               href="https://www.facebook.com/ProductizedConf/"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <img className="facebook" src={facebook_round} alt="Facebook" />
+              <FontAwesomeIcon
+                className="facebook-footer"
+                icon={['fab', 'facebook']}
+              />
             </a>
           </li>
           <li>
             <a
               className="social-links"
               href="https://twitter.com/productizedconf"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <img className="twitter" src={twitter_round} alt="Twitter" />
+              <FontAwesomeIcon
+                className="twitter-footer"
+                icon={['fab', 'twitter']}
+              />
             </a>
           </li>
           <li>
             <a
               className="social-links"
               href="https://www.instagram.com/productized.co/"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <img className="instagram" src={instagram} alt="Instagram" />
+              <FontAwesomeIcon
+                className="instagram-footer"
+                icon={['fab', 'instagram']}
+              />
             </a>
           </li>
           <li>
             <a
               className="social-links"
               href="https://www.linkedin.com/school/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <img className="linkedin" src={linkedin_round} alt="Linkedin" />
+              <FontAwesomeIcon
+                className="linkedin-footer"
+                icon={['fab', 'linkedin-in']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.youtube.com/channel/UCc707M4Ey0qECi56KPqgJjA/featured"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="youtube-footer"
+                icon={['fab', 'youtube']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.flickr.com/people/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="flickr-footer"
+                icon={['fab', 'flickr']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://medium.com/@Productized"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="medium-footer"
+                icon={['fab', 'medium-m']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://soundcloud.com/productized"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="soundcloud-footer"
+                icon={['fab', 'soundcloud']}
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="social-links"
+              href="https://www.meetup.com/pt-BR/productized/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FontAwesomeIcon
+                className="meetup-footer"
+                icon={['fab', 'meetup']}
+              />
             </a>
           </li>
         </ul>
-        <div>
+        <div className="copyright-div">
           <p className="copyright-text"> &copy; 2020 Productized</p>
         </div>
       </div>

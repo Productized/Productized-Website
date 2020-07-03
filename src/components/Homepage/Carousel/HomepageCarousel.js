@@ -1,8 +1,8 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import CarouselImg1 from '../../../assets/conference_gradient_peq.jpg';
-import CarouselImg2 from '../../../assets/meetups_gradient_peq.jpg';
-import CarouselImg3 from '../../../assets/courses_gradient._2jpg_peq.jpg';
+import CarouselImgConference from '../../../assets/carousel/conference_carousel.jpg';
+import CarouselImgMeetups from '../../../assets/carousel/meetups_carousel.jpg';
+import CarouselImgCourses from '../../../assets/carousel/courses_carousel.jpg';
 import './HomepageCarousel.css';
 
 function HomepageCarousel() {
@@ -16,7 +16,7 @@ function HomepageCarousel() {
         >
           <img
             className="d-block w-100 carousel-img"
-            src={CarouselImg1}
+            src={CarouselImgConference}
             alt="First slide"
           />
           <Carousel.Caption>
@@ -29,7 +29,7 @@ function HomepageCarousel() {
         <a href="/meetups" target="_blank" rel="noopener noreferrer">
           <img
             className="d-block w-100 carousel-img"
-            src={CarouselImg2}
+            src={CarouselImgMeetups}
             alt="Second slide"
           />
           <Carousel.Caption>
@@ -42,7 +42,7 @@ function HomepageCarousel() {
         <a href="/courses" target="_blank" rel="noopener noreferrer">
           <img
             className="d-block w-100 carousel-img"
-            src={CarouselImg3}
+            src={CarouselImgCourses}
             alt="Third slide"
           />
           <Carousel.Caption>

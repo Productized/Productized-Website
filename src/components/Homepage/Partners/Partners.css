@@ -2,6 +2,10 @@
   margin-top: 3.5em;
 }
 
+.logo-container img {
+  margin: 0px 40px 20px 10px;
+}
+
 .logo-container {
   display: flex;
   flex-wrap: wrap;
@@ -12,7 +16,7 @@
 
 .title-content {
   text-align: center;
-  margin: 0;
+  margin: 0px;
 }
 .partners-subtitle {
   text-align: center;
@@ -23,39 +27,26 @@
 .partners-title {
   font-family: Klavika Bold;
   text-align: center;
-  margin: 0 0 30px 0;
+  margin: 0px 0px 30px 0px;
 }
 
-.logo-container img {
-  width: 150px;
+.fb,
+.olx,
+.zal,
+.dreams,
+.mango,
+.teamviewer,
+.tom {
+  width: 120px;
 }
 
-/* .fb {
-  height: 40px;
-  width: 200px;
+.google,
+.netflix {
+  width: 100px;
 }
 
-.gog {
-  height: 100px;
-  width: 200px;
+.sap,
+.yandex,
+.hero {
+  width: 90px;
 }
-
-.sap {
-  height: 90px;
-  width: 200px;
-}
-
-.olx {
-  height: 80px;
-  width: 200px;
-}
-
-.zal {
-  height: 90px;
-  width: 200px;
-}
-
-.nt {
-  height: 60px;
-  width: 200px;
-} */

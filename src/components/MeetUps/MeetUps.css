@@ -1,6 +1,35 @@
 /* CSS for MeetUpsList */
 
-.tab-div {
+.meetup-title {
+  margin: 0px 0px 50px 0px;
+  font-family: Klavika Regular;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.5em;
+  color: white;
+}
+
+.meetup-background {
+  height: 100px;
+  width: 100%;
+  filter: sepia(100%);
+  object-fit: cover;
+}
+
+.meetup-title-div {
+  height: 80px;
+  margin: 0px 0px 10px 0px;
+  position: relative;
+  background-color: #e83f36;
+  text-shadow: 1px 1px 1px black;
+}
+
+/* CSS for MeetUpCard */
+
+.meetup-div {
   text-align: center;
   display: flex;
   flex-direction: row;
@@ -8,38 +37,8 @@
   justify-content: space-evenly;
 }
 
-.nav-tabs .nav-item.show .nav-link,
-.nav-tabs .nav-link.active {
-  color: #fff !important;
-  background-color: #e83f36 !important;
-  border-color: #e83f36 #e83f36 #e83f36 !important;
-}
-
-.nav-tabs {
-  border-bottom: 1px solid #e83f36 !important;
-}
-
-a {
-  color: #464646 !important;
-}
-
-/* CSS for MeetUpCard */
-
-.meetup-cardimg {
-  width: 400px;
-  object-fit: cover;
-  overflow: hidden;
-}
-
-.meetup-img {
-  border: 1px solid #464646;
-  box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
-}
-
-.meetup-img:hover {
-  /* opacity: 0.7;
-  object-fit: cover;
-  overflow: hidden; */
+.meetup-card-img {
+  width: 350px;
 }
 
 .meetupcard-div {
@@ -47,39 +46,47 @@ a {
   position: relative;
 }
 
-.meetupcard-div:hover {
-  /* background-color: rgb(0, 0, 61);
-  z-index: 2; */
-}
-
-.youtube {
+.youtube,
+.flickr,
+.meetup {
   position: absolute;
-  color: white;
-  text-shadow: 1px 1px 1px black;
-  font-family: Klavika Bold;
-  bottom: 25%;
+  color: #fff;
+}
+
+.flickr {
+  bottom: 18%;
   right: 20px;
-  font-size: 20px;
+  font-size: 35px;
 }
-
-.youtube:hover {
-  color: #e83f36;
-}
-
 .flickr:hover {
   color: #e83f36;
 }
 
-.flickr {
-  position: absolute;
-  color: white;
-  text-shadow: 1px 1px 1px black;
-  font-family: Klavika Bold;
-  bottom: 10%;
-  right: 20px;
-  font-size: 20px;
+.youtube {
+  bottom: 18%;
+  right: 60px;
+  font-size: 35px;
+}
+.youtube:hover {
+  color: #e83f36;
 }
 
-.meetup-title {
-  margin: 30px 0;
+.meetup {
+  bottom: 18%;
+  right: 100px;
+  font-size: 40px;
+}
+
+.meetup:hover {
+  color: #e83f36;
+}
+
+.meetup-img {
+  border: 1px solid #464646;
+  box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
+}
+
+.icon-test {
+  padding: 5px;
+  color: #e83f36;
 }

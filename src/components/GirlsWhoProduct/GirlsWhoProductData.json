@@ -1,12 +1,13 @@
 [
   {
-    
     "id": 1,
-    "name": "Vidya Dinamani",
-    "position": "Founder & Partner @ Product Rebels",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-vid-dinamani-c79b15842a3?source=---------18------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-vid-dinamani-founder-product-rebels",
-    "image": "https://drive.google.com/uc?export=view&id=1lKPOE3aj9-M1XI8G2eHwyxkYKJwQSil5"
+    "name": "Alicia Goodwin",
+    "position": "Product Owner @ Zalando",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-alicia-goodwin-36d067c7f861?source=---------35------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alice-goodwin-a-product-owner-zalando",
+    "image": "https://drive.google.com/uc?export=view&id=1NwVSdWpRnz5YqWxvFa_WH3x5QJyI8DAa",
+    "localImage": "goodwin.jpg",
+    "isDisplayed": true
   },
   {
     "id": 2,
@@ -14,119 +15,141 @@
     "position": "Product Owner @ Zalando",
     "medium": "https://medium.com/@Productized/girlswhoproduct-alison-jolly-a5a11876eb4e?source=---------17------------------",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alison-jolly-product-owner-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1Ji5wc0_-CTKul3T5G7huOxzPM6HTZYhy"
+    "image": "https://drive.google.com/uc?export=view&id=1Ji5wc0_-CTKul3T5G7huOxzPM6HTZYhy",
+    "localImage": "jolly.jpg",
+    "isDisplayed": true
   },
   {
     "id": 3,
-    "name": "Lana Criggs",
-    "position": "Design Manager @ Zalando",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-lana-criggs-6ac20d09ef8a?source=---------16------------------",
-    "soundcloud": "https://soundcloud.com/productized/lana-criggs",
-    "image": "https://drive.google.com/uc?export=view&id=1JWaX7mJJVjUZkI0rnuTBGx1sswwFCXFe"
-  },
-  {
-    "id": 4,
-    "name": "Melanie Tobias",
-    "position": "Product Manager @ Zalando",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-melanie-tobias-fd2756beeb1b?source=---------14------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-melanie-tobias-product-manager-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1L2AVvEUnLzck8HU8a55PMDEWKSqpeUnB"
-  },
-  {
-    "id": 5,
-    "name": "Elize Bosker",
-    "position": "VP Product @ Spid",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-elize-bosker-9a31ad2311a6?source=---------13------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-elize-bosker-vp-product-spid",
-    "image": "https://drive.google.com/uc?export=view&id=1CVu8ca5dIRNV4huM2o4XI9EAWW23pXWA"
-  },
-  {
-    "id": 6,
-    "name": "Heather Samarin",
-    "position": "Founder & Partner @ Product Rebels",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-heather-samarin-e63a4428defa?source=---------12------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-heather-samarin-founder-partner-product-rebels",
-    "image": "https://drive.google.com/uc?export=view&id=13Px8SWb6qHn4xpwnFGPAD4ra72FICFzM"
-  },
-  {
-    "id": 7,
-    "name": "Lilly Beyond",
-    "position": "Confidence Coach & Strategy Consultant @ Beyond Consulting",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-lilly-beyond-54a2f5f512c8?source=---------9------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidce-coach-strategy-consultant-beyond-consulting",
-    "image": "https://drive.google.com/uc?export=view&id=1Qb6OBniU4eJwt0wzRwcBdiCHcsvlVam3"
-  },
-  
-  {
-    "id": 13,
-    "name": "Hélène Levert",
-    "position": "Senior Product Manager @ Zalando",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-h%C3%A9l%C3%A8ne-levert-2dc8d4f1d3d0?source=---------36------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-helene-levert-a-senior-product-manager-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1nS4PWxGPxq7CSHe6SJWbpVFJlA6VfbP2"
-  },
-  {
-    "id": 14,
-    "name": "Alicia Goodwin",
-    "position": "Product Owner @ Zalando",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-alicia-goodwin-36d067c7f861?source=---------35------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alice-goodwin-a-product-owner-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1NwVSdWpRnz5YqWxvFa_WH3x5QJyI8DAa"
-  },
-  {
-    "id": 15,
     "name": "Juliane Haubold",
     "position": "Product Manager @ Zalando",
     "medium": "https://medium.com/@Productized/girlswhoproduct-juli-haubold-1eea1f2a67c",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-juli-haubold-a-product-manager-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1wLGNJoKXBTbzUNuzizjLuJKUN3VmWMLF"
+    "image": "https://drive.google.com/uc?export=view&id=1wLGNJoKXBTbzUNuzizjLuJKUN3VmWMLF",
+    "localImage": "haubold.jpg",
+    "isDisplayed": true
   },
   {
-    "id": 16,
+    "id": 4,
     "name": "Marta Skassa",
     "position": "Product Manager @ Zalando",
     "medium": "https://medium.com/@Productized/girlswhoproduct-marta-skassa-5efc5f496da6",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-marta-skassa-a-product-manager-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1vuIseK1gLuOLMFDQkrYdN4HqWd8YjwH2"
+    "image": "https://drive.google.com/uc?export=view&id=1vuIseK1gLuOLMFDQkrYdN4HqWd8YjwH2",
+    "localImage": "skassa.jpg",
+    "isDisplayed": true
   },
   {
-    "id": 17,
+    "id": 5,
     "name": "SC Moatti",
     "position": "Founder @ Products that Count",
     "medium": "https://medium.com/@Productized/girlswhoproduct-sc-moatti-cbce298d047e?source=---------37------------------",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-marta-skassa-a-product-manager-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1ML33YXPfed1n9tcsCnYVGHevwrl60dVq"
+    "image": "https://drive.google.com/uc?export=view&id=1ML33YXPfed1n9tcsCnYVGHevwrl60dVq",
+    "localImage": "moatti.jpg",
+    "isDisplayed": true
   },
   {
-    "id": 18,
+    "id": 6,
+    "name": "Vidya Dinamani",
+    "position": "Founder & Partner @ Product Rebels",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-vid-dinamani-c79b15842a3?source=---------18------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-vid-dinamani-founder-product-rebels",
+    "image": "https://drive.google.com/uc?export=view&id=1lKPOE3aj9-M1XI8G2eHwyxkYKJwQSil5",
+    "localImage": "vidya.jpg",
+    "isDisplayed": true
+  },
+
+  {
+    "id": 7,
+    "name": "Lana Criggs",
+    "position": "Design Manager @ Zalando",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-lana-criggs-6ac20d09ef8a?source=---------16------------------",
+    "soundcloud": "https://soundcloud.com/productized/lana-criggs",
+    "image": "https://drive.google.com/uc?export=view&id=1JWaX7mJJVjUZkI0rnuTBGx1sswwFCXFe",
+    "isDisplayed": false
+  },
+  {
+    "id": 8,
+    "name": "Melanie Tobias",
+    "position": "Product Manager @ Zalando",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-melanie-tobias-fd2756beeb1b?source=---------14------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-melanie-tobias-product-manager-zalando",
+    "image": "https://drive.google.com/uc?export=view&id=1L2AVvEUnLzck8HU8a55PMDEWKSqpeUnB",
+    "isDisplayed": false
+  },
+  {
+    "id": 9,
+    "name": "Elize Bosker",
+    "position": "VP Product @ Spid",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-elize-bosker-9a31ad2311a6?source=---------13------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-elize-bosker-vp-product-spid",
+    "image": "https://drive.google.com/uc?export=view&id=1CVu8ca5dIRNV4huM2o4XI9EAWW23pXWA",
+    "isDisplayed": false
+  },
+  {
+    "id": 10,
+    "name": "Heather Samarin",
+    "position": "Founder & Partner @ Product Rebels",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-heather-samarin-e63a4428defa?source=---------12------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-heather-samarin-founder-partner-product-rebels",
+    "image": "https://drive.google.com/uc?export=view&id=13Px8SWb6qHn4xpwnFGPAD4ra72FICFzM",
+    "isDisplayed": false
+  },
+  {
+    "id": 11,
+    "name": "Lilly Beyond",
+    "position": "Confidence Coach & Strategy Consultant @ Beyond Consulting",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-lilly-beyond-54a2f5f512c8?source=---------9------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidce-coach-strategy-consultant-beyond-consulting",
+    "image": "https://drive.google.com/uc?export=view&id=1Qb6OBniU4eJwt0wzRwcBdiCHcsvlVam3",
+    "isDisplayed": false
+  },
+
+  {
+    "id": 12,
+    "name": "Hélène Levert",
+    "position": "Senior Product Manager @ Zalando",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-h%C3%A9l%C3%A8ne-levert-2dc8d4f1d3d0?source=---------36------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-helene-levert-a-senior-product-manager-zalando",
+    "image": "https://drive.google.com/uc?export=view&id=1nS4PWxGPxq7CSHe6SJWbpVFJlA6VfbP2",
+    "isDisplayed": false
+  },
+
+  {
+    "id": 13,
     "name": "Kristina Walcker-Mayer",
     "position": "Senior Product Manager @ Zalando",
     "medium": "https://medium.com/@Productized/girlswhoproduct-kristina-walker-meyer-f5edb8eb3974",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-kristina-walcker-mayer-a-senior-product-manager-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1MSY__Ezf2zdep8OSdo91sZzbesl4V94I"
+    "image": "https://drive.google.com/uc?export=view&id=1MSY__Ezf2zdep8OSdo91sZzbesl4V94I",
+    "isDisplayed": false
   },
   {
-    "id": 19,
+    "id": 14,
     "name": "Terhi Hänninen",
     "position": "Senior Product Manager @ Zalando",
     "medium": "https://medium.com/@Productized/girlswhoproduct-terhi-h%C3%A4nninen-a2993e1c47c8",
     "soundcloud": "",
-    "image": "https://drive.google.com/uc?export=view&id=1eq58aMR8URT0b-yVD-NeKxbP_W0Ny32M"
+    "image": "https://drive.google.com/uc?export=view&id=1eq58aMR8URT0b-yVD-NeKxbP_W0Ny32M",
+    "isDisplayed": false
   },
   {
-    "id": 20,
+    "id": 15,
     "name": "Linda Mackessy",
     "position": "Product Manager @ Zalando",
     "medium": "https://medium.com/@Productized/girlswhoproduct-linda-mackessy-eba46f7526f2?source=---------28------------------",
     "soundcloud": "",
-    "image": "https://drive.google.com/uc?export=view&id=1cJXrgpoyC8raadOB5u-SnwLXAyWqbra0"
+    "image": "https://drive.google.com/uc?export=view&id=1cJXrgpoyC8raadOB5u-SnwLXAyWqbra0",
+    "isDisplayed": false
   },
   {
-    "id": 21,
+    "id": 16,
     "name": "Claire Vo",
     "position": "SVP @ Optimizely",
     "medium": "https://medium.com/@Productized/girlswhoproduct-claire-vo-f0b002d27b67?source=---------27------------------",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-claire-vo-svp-optimizely",
-    "image": "https://drive.google.com/uc?export=view&id=1sORlFB7LS0mzi2ljjPKKTeduphW1vCVk"
+    "image": "https://drive.google.com/uc?export=view&id=1sORlFB7LS0mzi2ljjPKKTeduphW1vCVk",
+    "isDisplayed": false
   }
 ]
