@@ -6,7 +6,9 @@ import YearCardData from './YearCardData.json';
 function PreviousConferences() {
   return (
     <div>
-      <h2 className="page-title">Previous Conferences</h2>
+      <div className="title-div">
+        <h2 className="prevconf-title">Previous Conferences</h2>
+      </div>
       <div className="conf-years-div">
         {YearCardData.map((confYear) => (
           <YearCard {...confYear} key={confYear.id} />

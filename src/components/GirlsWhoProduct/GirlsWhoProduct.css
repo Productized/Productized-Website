@@ -1,13 +1,13 @@
 .girls-cards-container {
   margin: 0 10%;
 }
+
 .girls-title {
-  font-size: 70px;
-  font-family: Klavika Medium;
-  letter-spacing: 4px;
+  font-family: Klavika Regular;
+  letter-spacing: 2px;
   color: white;
-  font-size: 3em;
-  padding-top: 0.9rem;
+  font-size: 2.5em;
+  padding-top: 15px;
 }
 
 .girls-title-content {
@@ -16,7 +16,8 @@
 
 .girls-card-text {
   width: 60%;
-  margin-top: 2%;
+  margin: 30px;
+  text-align: center;
 }
 
 .girls-text-title-content {
@@ -25,16 +26,15 @@
 }
 
 .girls-text-content {
-  height: 100px;
+  height: 80px;
   width: 100%;
-  margin: 0px 0px 10px 0px;
-  position: relative;
+  margin: 0px;
   background-color: #e83f36;
-  opacity: 0.8;
+  text-shadow: 1px 1px 1px black;
 }
 
 .girls-main-container {
-  margin: 40px 0px;
+  margin: 0px 0px 40px 0px;
   position: relative;
 }
 
@@ -107,9 +107,73 @@
 }
 
 .girls-cards-container {
-  text-align: center;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+
+@media screen and (max-width: 750px) {
+  .girls-title {
+    font-size: 2.2em;
+    padding-top: 10px;
+    color: blue;
+  }
+
+  .girls-card-text {
+    width: 100%;
+    margin: 30px 20px;
+    text-align: center;
+  }
+
+  .girls-text-content {
+    height: 60px;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .girls-title {
+    font-size: 2.2em;
+    padding-top: 10px;
+    color: violet;
+  }
+
+  .girls-card-text {
+    width: 100%;
+    margin: 30px 20px;
+    text-align: center;
+  }
+
+  .girls-cardimg {
+    width: 100%;
+  }
+
+  .soundcloud {
+    bottom: 10%;
+    right: 70%;
+    font-size: 25px;
+  }
+
+  .medium {
+    bottom: 10%;
+    right: 86%;
+    font-size: 25px;
+  }
+
+  .girls-card-text {
+    width: 80%;
+    margin: 10%;
+    text-align: center;
+  }
+
+  .girls-name {
+    font-size: 0.2em;
+    font-family: Klavika Regular;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .girls-name {
+    font-size: 5px;
+  }
 }

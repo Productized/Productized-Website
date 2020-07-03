@@ -2,13 +2,13 @@
 
 .meetup-title {
   margin: 0px 0px 50px 0px;
-  font-family: Klavika Medium;
-  letter-spacing: 4px;
+  font-family: Klavika Regular;
+  letter-spacing: 2px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 3em;
+  font-size: 2.5em;
   color: white;
 }
 
@@ -20,11 +20,11 @@
 }
 
 .meetup-title-div {
-  height: 100px;
+  height: 80px;
   margin: 0px 0px 10px 0px;
   position: relative;
   background-color: #e83f36;
-  opacity: 0.8;
+  text-shadow: 1px 1px 1px black;
 }
 
 /* CSS for MeetUpCard */
