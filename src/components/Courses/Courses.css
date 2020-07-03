@@ -7,6 +7,19 @@
 }
 
 .page-title {
-  font-family: Klavika Regular;
+  padding-top: 0.9rem;
+  font-family: Klavika Medium;
+  letter-spacing: 4px;
   text-align: center;
+  font-size: 3em;
+  color: white;
+  margin: 0px 0px 50px 0px;
+}
+
+.course-title-div {
+  height: 100px;
+  margin: 0px 0px 10px 0px;
+  position: relative;
+  background-color: #e83f36;
+  opacity: 0.8;
 }
