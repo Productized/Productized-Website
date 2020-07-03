@@ -3,14 +3,34 @@
 }
 .girls-title {
   font-size: 70px;
-  margin: 40px 0;
-  font-family: Klavika Bold;
-  margin-top: 10%;
+  font-family: Klavika Medium;
+  letter-spacing: 4px;
+  color: white;
+  font-size: 3em;
+  padding-top: 0.9rem;
 }
 
 .girls-title-content {
   text-align: center;
-  margin: 0 16%;
+}
+
+.girls-card-text {
+  width: 60%;
+  margin-top: 2%;
+}
+
+.girls-text-title-content {
+  display: flex;
+  justify-content: center;
+}
+
+.girls-text-content {
+  height: 100px;
+  width: 100%;
+  margin: 0px 0px 10px 0px;
+  position: relative;
+  background-color: #e83f36;
+  opacity: 0.8;
 }
 
 .girls-main-container {
@@ -63,8 +83,8 @@
   color: white;
   text-shadow: 1px 1px 1px black;
   font-family: Klavika Bold;
-  bottom: 25%;
-  right: 20px;
+  bottom: 10%;
+  right: 450px;
   font-size: 30px;
 }
 .medium:hover {
@@ -78,7 +98,7 @@
   text-shadow: 1px 1px 1px black;
   font-family: Klavika Bold;
   bottom: 10%;
-  right: 20px;
+  right: 400px;
   font-size: 30px;
 }
 

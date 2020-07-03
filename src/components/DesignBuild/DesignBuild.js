@@ -6,6 +6,7 @@ function DesignBuild() {
   return (
     <div className="build-design-div">
       <h2 className="build-design-title">Build & Design</h2>
+      </div>
       <Container>
         <Row className="rows-setup">
           <Col xl={5} lg={5} md={5} sm={12} xs={12}>
