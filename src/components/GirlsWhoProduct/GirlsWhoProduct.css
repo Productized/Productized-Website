@@ -63,8 +63,8 @@
   color: white;
   text-shadow: 1px 1px 1px black;
   font-family: Klavika Bold;
-  bottom: 25%;
-  right: 20px;
+  bottom: 10%;
+  right: 450px;
   font-size: 30px;
 }
 .medium:hover {
@@ -78,7 +78,7 @@
   text-shadow: 1px 1px 1px black;
   font-family: Klavika Bold;
   bottom: 10%;
-  right: 20px;
+  right: 400px;
   font-size: 30px;
 }
 
