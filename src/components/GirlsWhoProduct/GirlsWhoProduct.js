@@ -14,13 +14,13 @@ class GirlsWhoProduct extends React.Component {
   render() {
     const GirlsWhoProductCards = this.state.GirlsWhoProductCards;
     const chosenGirls = GirlsWhoProductCards.filter(
-      (girlCard) => girlCard.isDisplayed === true
+      (girlCard) => girlCard.isDisplayed === true,
     );
     return (
       <div>
         <div className="girls-title-content">
           <div className="girls-text-content">
-            <h1 className="girls-title">#GirlsWhoProduct</h1>
+            <h2 className="girls-title">#GirlsWhoProduct</h2>
           </div>
           <div className="girls-text-title-content">
             <p className="girls-card-text">

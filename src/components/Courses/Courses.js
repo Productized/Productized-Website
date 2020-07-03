@@ -16,7 +16,9 @@ class Courses extends React.Component {
     const showCourses = courses.filter((course) => course.isDisplayed === true);
     return (
       <div>
-        <h1 className="page-title">Courses</h1>
+        <div className="title-div">
+          <h2 className="page-title">Courses</h2>
+        </div>
         <div className="courses-div">
           {showCourses.map((courses) => (
             <CourseCard {...courses} key={courses.id} />
