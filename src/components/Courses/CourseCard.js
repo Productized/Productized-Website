@@ -5,7 +5,11 @@ function CourseCard(props) {
   const card = props;
   return (
     <div className={`coursecard ${card.backgroundColor}`}>
-      <img className="coursecard-img" src={card.image} src={require(`./../../assets/courses/${card.image}`)} alt={card.title} />
+      <img
+        className="coursecard-img"
+        src={require(`./../../assets/courses/${card.image}`)}
+        alt={card.title}
+      />
       <div className="coursecard-body">
         <h4>{card.title}</h4>
         <p>{card.description}</p>

@@ -9,6 +9,8 @@ import Courses from './components/Courses/Courses';
 import AlbumCard from './components/PreviousConferences/AlbumCard';
 import Consultancy from './components/Consultancy/Consultancy';
 import DesignBuild from './components/DesignBuild/DesignBuild';
+import NavBar from './components/Shared/NavBar';
+import Footer from './components/Shared/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { library } from '@fortawesome/fontawesome-svg-core';
@@ -20,6 +22,7 @@ function App() {
   return (
     <div>
       <BrowserRouter>
+        <NavBar />
         <Switch>
           <Route exact path="/" component={Homepage} />
           <Route
@@ -39,6 +42,7 @@ function App() {
           <Route exact path="/girlswhoproduct" component={GirlsWhoProduct} />
           <Route exact path="/courses" component={Courses} />
         </Switch>
+        <Footer />
       </BrowserRouter>
     </div>
   );

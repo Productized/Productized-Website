@@ -1,16 +1,11 @@
 import React from 'react';
 import './DesignBuild.css';
 import { Container, Row, Col } from 'react-bootstrap';
-import NavBar from '../Shared/NavBar';
-import Footer from '../Shared/Footer';
 
 function DesignBuild() {
   return (
     <div className="build-design-div">
-      <NavBar />
-      <div className="title-design-div">
       <h2 className="build-design-title">Build & Design</h2>
-
       </div>
       <Container>
         <Row className="rows-setup">
@@ -124,7 +119,6 @@ function DesignBuild() {
           </Col>
         </Row>
       </Container>
-      <Footer />
     </div>
   );
 }

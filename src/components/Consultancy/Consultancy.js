@@ -1,16 +1,11 @@
-import React from "react";
-import "./Consultancy.css";
-import { Container, Row, Col } from "react-bootstrap";
-import NavBar from "../Shared/NavBar";
-import Footer from "../Shared/Footer";
+import React from 'react';
+import './Consultancy.css';
+import { Container, Row, Col } from 'react-bootstrap';
 
 function Consultancy() {
   return (
     <div className="consultancy-div">
-      <NavBar />
-      <div className="title-consultancy-div">
-        <h2 className="consultancy-title">Consultancy</h2>
-      </div>
+      <h2 className="consultancy-title">Consultancy</h2>
       <Container>
         <Row className="rows-setup">
           <Col xl={5} lg={5} md={5} sm={12} xs={12}>
@@ -129,7 +124,6 @@ function Consultancy() {
           </Col>
         </Row>
       </Container>
-      <Footer />
     </div>
   );
 }

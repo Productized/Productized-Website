@@ -22,7 +22,7 @@ function CalendarCard(props) {
             />
             <p
               className={
-                splitedEvent.length < 50 ? 'event-text-sm' : 'event-text-lg'
+                splitedEvent.length < 40 ? 'event-text-sm' : 'event-text-lg'
               }
             >
               {event.eventName}
