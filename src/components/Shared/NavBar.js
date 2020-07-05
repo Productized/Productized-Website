@@ -5,10 +5,10 @@ import NavbarLogo from '../../assets/navbar/navbarlogo.png';
 import './NavBar.css';
 
 function NavBar() {
-  const [key, setKey] = useState('consultancy');
+  const [key, setKey] = useState('');
 
   return (
-    <Navbar bg="light" expand="md">
+    <Navbar bg="light" className="navbar-size" expand="md">
       <Navbar.Brand href="/">
         <img
           alt="Productized logo"
@@ -108,8 +108,8 @@ function NavBar() {
           </Nav.Link>
           <Nav.Link
             eventKey="meetups"
-            as={Link}
-            to="/meetups"
+            href="https://www.meetup.com/Productized/"
+            target="_blank"
             id={key === 'meetups' ? 'active-key' : ''}
           >
             Meetups

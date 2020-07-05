@@ -5,9 +5,44 @@
 .girls-title {
   font-family: Klavika Regular;
   letter-spacing: 2px;
-  color: white;
+  color: #292929;
   font-size: 2.5em;
   padding-top: 15px;
+}
+
+.more {
+  color: #292929;
+  text-align: center;
+  font-family: Klavika Medium;
+  margin-bottom: 50px;
+}
+
+.gwp-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  background: #e83f36;
+  height: 90px;
+}
+
+.all-girls-text p {
+  margin: 0px;
+}
+
+.all-girls-text {
+  text-decoration: none;
+}
+
+.link a:link,
+.link a:hover,
+.link a:active,
+.link a:visited {
+  text-decoration: none;
+  color: #fff;
+  font-family: Klavika Medium;
+  font-size: 2em;
 }
 
 .girls-title-content {
@@ -29,7 +64,6 @@
   height: 80px;
   width: 100%;
   margin: 0px;
-  background-color: #e83f36;
   text-shadow: 1px 1px 1px black;
 }
 

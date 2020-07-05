@@ -7,7 +7,7 @@ export default function GirlsHomepage() {
     <div className="girl-main-container">
       <div className="girl-title-content">
         <p className="podcast">PODCAST</p>
-        <h2 className="girls-product"> #GIRLSWHOPRODUCT </h2>
+        <h2 className="girls-product">#GIRLSWHOPRODUCT</h2>
         <p className="girl-card-text">
           #GirlsWhoProduct is a series of interviews with women that have been
           able to beat the ‘product’ ceiling and get into the profession. Our
@@ -21,8 +21,12 @@ export default function GirlsHomepage() {
           <img src={LillyBeyond} alt="Lilly Beyond" />
         </div>
       </div>
-      <a href="https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidence-coach-strategy-consultant-beyond-consulting">
-        <button className="girls-button">READ THE LATEST INTERVIEW</button>
+      <a
+        href="https://www.meetup.com/Productized/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button className="girls-button">JOIN THE NEXT #GWP</button>
       </a>
     </div>
   );

@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "image": "WhatWeDo_Meetups.jpg",
-    "title": "MEETUPS",
-    "description": "Get inspired! Series of events with top speakers and experts to answer the question 'how to create well-designed products?'",
-    "button": "CHECK OUR MEETUPS",
-    "buttonLink": "/meetups",
-    "backgroundColor": "yellow",
+    "image": "WhatWeDo_Consultancy.jpg",
+    "title": "CONSULTANCY",
+    "description": "Design sprints, coaching for startups and product people, product management and future studies, and more… Get to know all the services.",
+    "button": "KNOW MORE",
+    "buttonLink": "/consultancy",
+    "backgroundColor": "blue",
     "isDisplayed": true
   },
   {
@@ -26,17 +26,17 @@
     "description": "During 3 full days of workshops and talks, product related professionals discuss and share insights on how to build great products together.",
     "button": "CHECK PREVIOUS EDITIONS",
     "buttonLink": "/previousconferences",
-    "backgroundColor": "blue",
+    "backgroundColor": "yellow",
     "isDisplayed": true
   },
   {
     "id": 4,
-    "image": "",
-    "title": "CONSULTANCY",
-    "description": "",
-    "button": "",
-    "buttonLink": "/consultancy",
-    "backgroundColor": "",
+    "image": "WhatWeDo_Meetups.jpg",
+    "title": "MEETUPS",
+    "description": "Get inspired! Series of events with top speakers and experts to answer the question 'how to create well-designed products?'",
+    "button": "CHECK OUR MEETUPS",
+    "buttonLink": "/meetups",
+    "backgroundColor": "yellow",
     "isDisplayed": false
   }
 ]

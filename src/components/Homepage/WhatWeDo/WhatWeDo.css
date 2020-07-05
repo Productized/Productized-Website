@@ -1,10 +1,10 @@
 .whatwedo-higher {
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .whatwedo-div {
   text-align: center;
-  margin-bottom: 20px;
+  margin: 0px 0px 40px 0px;
   padding: 0 150px;
 }
 
@@ -17,8 +17,10 @@
 
 .section-subtitle {
   color: #464646;
+  margin-bottom: 0px;
 }
 
 .section-title {
   font-family: 'Klavika Bold';
+  color: #292929;
 }
