@@ -3,7 +3,7 @@
 }
 
 .girls-title {
-  font-family: Klavika Regular;
+  font-family: Klavika Medium;
   letter-spacing: 2px;
   color: #292929;
   font-size: 2.5em;
@@ -64,7 +64,6 @@
   height: 80px;
   width: 100%;
   margin: 0px;
-  text-shadow: 1px 1px 1px black;
 }
 
 .girls-main-container {

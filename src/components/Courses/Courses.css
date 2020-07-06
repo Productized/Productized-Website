@@ -8,11 +8,10 @@
 
 .course-title {
   padding-top: 0.9rem;
-  font-family: Klavika Regular;
+  font-family: Klavika Medium;
   letter-spacing: 2px;
   text-align: center;
   font-size: 2.5em;
   color: #292929;
   margin: 0px 0px 40px 0px;
-  text-shadow: 1px 1px 1px black;
 }
