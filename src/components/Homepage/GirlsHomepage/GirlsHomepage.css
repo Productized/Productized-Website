@@ -1,6 +1,7 @@
 .podcast {
-  margin: 0px 0px 8.5px 0px;
+  margin: 0px 0px 0px 0px;
   font-size: 1em;
+  color: #464646;
 }
 
 .girl-title-content {
@@ -10,6 +11,7 @@
 
 .girls-product {
   font-family: Klavika Bold;
+  color: #292929;
 }
 
 .girl-cards img {

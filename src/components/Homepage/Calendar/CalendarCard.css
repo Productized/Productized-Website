@@ -83,12 +83,13 @@
   font-family: Klavika Bold;
   text-align: center;
   margin: 0px 0px 20px 0px;
+  color: #292929;
 }
 
 .calendar-subtitle {
   text-align: center;
   color: #464646;
-  margin: 60px 0px 5px 0px;
+  margin: 60px 0px 0px 0px;
 }
 
 .calendar-div {
