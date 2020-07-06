@@ -12,6 +12,7 @@
 .coursecard-img {
   width: 350px;
   height: 350px;
+  border-radius: 8px 8px 0px 0px;
   object-fit: cover;
   overflow: hidden;
 }
