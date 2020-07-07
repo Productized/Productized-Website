@@ -1,5 +1,5 @@
 .partners-container {
-  margin-top: 3.5em;
+  margin-top: 30px;
 }
 
 .logo-container img {
@@ -14,10 +14,11 @@
   margin-bottom: 30px;
 }
 
-.title-content {
+.partnet-title-content {
   text-align: center;
   margin: 0px;
 }
+
 .partners-subtitle {
   text-align: center;
   color: #464646;
@@ -46,14 +47,14 @@
   width: 120px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   .partners-title {
     color: #292929;
     font-size: 32px;
   }
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 500px) {
   .partners-title {
     font-family: Klavika Bold;
     text-align: center;
@@ -62,4 +63,3 @@
     font-size: 32px;
   }
 }
-
