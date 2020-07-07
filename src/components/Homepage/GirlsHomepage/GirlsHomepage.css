@@ -44,8 +44,7 @@
 
 @media (max-width: 768px) {
   .girl-title-content {
-    font-size: 0.8em;
-    width: 90%;
+    width: 95%;
     margin: 0px 10px;
   }
 
@@ -68,8 +67,7 @@
 
 @media (max-width: 475px) {
   .girl-title-content {
-    font-size: 0.7em;
-    width: 100%;
+    width: 80%;
   }
 
   .girl-cards img {
