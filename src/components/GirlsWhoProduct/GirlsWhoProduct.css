@@ -152,22 +152,19 @@
   .girls-title {
     font-size: 2.2em;
     padding-top: 10px;
-  
   }
-
 
   .girls-text-content {
     height: 60px;
   }
-  
 }
 
 @media screen and (max-width: 700px) {
   .all-girls {
     font-size: 30px;
   }
-  .girls-card-text{
-    width:100%;
+  .girls-card-text {
+    width: 100%;
   }
 }
 
@@ -176,7 +173,6 @@
     font-size: 2em;
     padding-top: 10px;
   }
- 
 
   .girls-cardimg {
     width: 100%;
@@ -203,13 +199,12 @@
     font-size: 1.2em;
     margin-bottom: 10%;
   }
-  .girls-position{
+  .girls-position {
     display: none;
   }
   .girls-card-text {
     font-size: 17px;
   }
-  
 }
 
 @media screen and (max-width: 350px) {
@@ -217,7 +212,7 @@
     font-size: 0.8em;
     margin-bottom: 10%;
   }
-  .girls-position{
+  .girls-position {
     display: none;
   }
   .all-girls {
