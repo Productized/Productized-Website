@@ -21,3 +21,13 @@
   font-family: Klavika Bold;
   color: white;
 }
+
+@media (max-width: 320px) {
+  .yearcard-img {
+    width: 210px;
+    height: 70px;
+  }
+  .yearcard-year {
+    font-size: 2em;
+  }
+}

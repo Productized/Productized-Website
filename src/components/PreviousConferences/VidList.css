@@ -36,13 +36,53 @@
   align-items: center;
   justify-content: center;
   width: 50%;
-  margin: 20px 0 30px 0;
+  margin: 20px 15px 30px 15px;
 }
 
 .vidlist-text {
-  text-align: justify;
+  text-align: left;
 }
 
 .vidlist-text-pics button {
   align-self: center;
+}
+
+@media (max-width: 771px) {
+  .vidlist-title {
+    margin: 20px 0;
+  }
+
+  .vidlist-text-pics {
+    width: 100%;
+    margin: 10px 15px 30px 15px;
+  }
+
+  .vidlist-text {
+    text-align: center;
+  }
+
+  .vidlist-belowtitle-div {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 525px) {
+  .vidlist-title {
+    font-size: 1.4em;
+  }
+
+  .vidlist-text {
+    font-size: 0.9em;
+  }
+
+  .pics-button {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 370px) {
+  .vidlist-title {
+    font-size: 1.1em;
+    margin: 20px 0px 10px 0px;
+  }
 }

@@ -10,9 +10,8 @@ function RecapCard(props) {
   return (
     <div className="videocard-div">
       <iframe
+        className="custom-card"
         style={{ display: IsIframeDisplayed }}
-        width="356"
-        height="200"
         title={recapVideo.title}
         src={`${recapVideo.link}?autoplay=${autoplayOn}`}
         frameborder="0"
@@ -28,8 +27,7 @@ function RecapCard(props) {
       />
       <img
         style={{ display: isImageDisplayed }}
-        width="356"
-        height="200"
+        className="custom-card"
         src={require(`../../assets/previousconferences/conferences/${recapVideo.imageLocal}`)}
         alt={recapVideo.title}
         onMouseEnter={() => {
