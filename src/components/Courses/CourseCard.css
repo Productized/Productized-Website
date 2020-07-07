@@ -50,3 +50,12 @@
 .blue {
   background-color: #91d3f0;
 }
+
+/* @media (min-width: 320px) {
+  .coursecard {
+    width: 250px;
+  }
+  .coursecard-img {
+    width: 250px;
+  }
+} */
