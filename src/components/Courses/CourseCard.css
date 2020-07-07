@@ -24,7 +24,7 @@
 }
 
 .coursecard-body h4 {
-  font-family: 'Klavika Bold';
+  font-family: Klavika Medium;
 }
 
 .coursecard-body p {
@@ -51,11 +51,25 @@
   background-color: #91d3f0;
 }
 
-/* @media (min-width: 320px) {
+@media (max-width: 420px) {
   .coursecard {
-    width: 250px;
+    width: 280px;
   }
+
   .coursecard-img {
-    width: 250px;
+    width: 280px;
+    height: 280px;
   }
-} */
+
+  .coursecard-body h4 {
+    font-size: 1.3em;
+  }
+
+  .coursecard-body p {
+    font-size: 0.9em;
+  }
+
+  .coursecard-button {
+    font-size: 0.9em;
+  }
+}
