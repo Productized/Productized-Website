@@ -47,3 +47,10 @@
 .blue {
   background-color: #91d3f0;
 }
+
+@media (max-width: 768px){
+  .section-title {
+    color: #292929;
+    font-size: 32px;
+  }
+}
