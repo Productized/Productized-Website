@@ -47,7 +47,7 @@ class GirlsWhoProduct extends React.Component {
             rel="noopener noreferrer"
           >
             <div className="all-girls-text">
-              <p className="all-girls">LISTEN TO ALL #GIRLSWHOPRODUCT.</p>
+              <p className="all-girls">LISTEN TO ALL #GIRLSWHOPRODUCT</p>
             </div>
           </a>
         </div>

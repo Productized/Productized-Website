@@ -35,7 +35,7 @@ function AlbumCard(props) {
             href={album.url}
             title={album.title}
           >
-            <img src={album.image} width="350" alt={album.title} />
+            <img src={album.image} alt={album.title} className="album-img" />
             <script
               async
               src="//embedr.flickr.com/assets/client-code.js"

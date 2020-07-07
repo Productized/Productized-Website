@@ -76,6 +76,7 @@
   box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
   background-color: rgb(0, 0, 148);
   z-index: 2;
+  border-radius: 8px;
 }
 
 .girls-cardimg {
@@ -83,6 +84,7 @@
   object-fit: cover;
   overflow: hidden;
   opacity: 0.6;
+  border-radius: 8px;
 }
 
 .girls-position {
@@ -150,31 +152,31 @@
   .girls-title {
     font-size: 2.2em;
     padding-top: 10px;
-    color: blue;
+  
   }
 
-  .girls-card-text {
-    width: 100%;
-    margin: 30px 20px;
-    text-align: center;
-  }
 
   .girls-text-content {
     height: 60px;
+  }
+  
+}
+
+@media screen and (max-width: 700px) {
+  .all-girls {
+    font-size: 30px;
+  }
+  .girls-card-text{
+    width:100%;
   }
 }
 
 @media screen and (max-width: 580px) {
   .girls-title {
-    font-size: 2.2em;
+    font-size: 2em;
     padding-top: 10px;
   }
-
-  .girls-card-text {
-    width: 100%;
-    margin: 30px 20px;
-    text-align: center;
-  }
+ 
 
   .girls-cardimg {
     width: 100%;
@@ -193,19 +195,35 @@
   }
 
   .girls-card-text {
-    width: 80%;
-    margin: 10%;
+    width: 100%;
     text-align: center;
   }
 
   .girls-name {
-    font-size: 0.2em;
-    font-family: Klavika Regular;
+    font-size: 1.2em;
+    margin-bottom: 10%;
   }
+  .girls-position{
+    display: none;
+  }
+  .girls-card-text {
+    font-size: 17px;
+  }
+  
 }
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 350px) {
   .girls-name {
-    font-size: 5px;
+    font-size: 0.8em;
+    margin-bottom: 10%;
+  }
+  .girls-position{
+    display: none;
+  }
+  .all-girls {
+    font-size: 20px;
+  }
+  .girls-card-text {
+    font-size: 17px;
   }
 }

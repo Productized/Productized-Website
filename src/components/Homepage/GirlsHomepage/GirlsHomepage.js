@@ -6,9 +6,9 @@ export default function GirlsHomepage() {
   return (
     <div className="girl-main-container">
       <div className="girl-title-content">
-        <p className="podcast">PODCAST</p>
-        <h2 className="girls-product">#GIRLSWHOPRODUCT</h2>
-        <p className="girl-card-text">
+        <h6 className="section-subtitle">PODCAST</h6>
+        <h2 className="section-title">#GIRLSWHOPRODUCT</h2>
+        <p className="section-p">
           #GirlsWhoProduct is a series of interviews with women that have been
           able to beat the ‘product’ ceiling and get into the profession. Our
           mission is to inspire, connect and empower more women to get into

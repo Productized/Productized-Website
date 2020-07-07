@@ -94,3 +94,10 @@
 .hide {
   display: none;
 }
+
+@media (max-width: 768px){
+  .our-team-title {
+    color: #292929;
+    font-size: 32px;
+  }
+}

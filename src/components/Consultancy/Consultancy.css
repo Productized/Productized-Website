@@ -10,6 +10,7 @@
 
 .consultancy-card-image {
   width: 30%;
+  border-radius: 8px;
   max-height: 250px;
   object-fit: cover;
   overflow: hidden;
