@@ -16,8 +16,8 @@ class Courses extends React.Component {
     const showCourses = courses.filter((course) => course.isDisplayed === true);
     return (
       <div>
-        <div className="title-div">
-          <h2 className="page-title">Courses</h2>
+        <div className="course-div">
+          <h2 className="course-title">Courses</h2>
         </div>
         <div className="courses-div">
           {showCourses.map((courses) => (

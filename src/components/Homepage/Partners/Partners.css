@@ -1,5 +1,5 @@
 .partners-container {
-  margin-top: 3.5em;
+  margin-top: 30px;
 }
 
 .logo-container img {
@@ -14,10 +14,11 @@
   margin-bottom: 30px;
 }
 
-.title-content {
+.partnet-title-content {
   text-align: center;
   margin: 0px;
 }
+
 .partners-subtitle {
   text-align: center;
   color: #464646;
@@ -28,6 +29,7 @@
   font-family: Klavika Bold;
   text-align: center;
   margin: 0px 0px 30px 0px;
+  color: #292929;
 }
 
 .fb,
@@ -36,17 +38,28 @@
 .dreams,
 .mango,
 .teamviewer,
-.tom {
-  width: 120px;
-}
-
+.tom,
 .google,
-.netflix {
-  width: 100px;
-}
-
+.netflix,
 .sap,
 .yandex,
 .hero {
-  width: 90px;
+  width: 120px;
+}
+
+@media (max-width: 768px) {
+  .partners-title {
+    color: #292929;
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .partners-title {
+    font-family: Klavika Bold;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    color: #292929;
+    font-size: 32px;
+  }
 }

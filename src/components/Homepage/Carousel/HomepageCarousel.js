@@ -1,8 +1,9 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import CarouselImgConference from '../../../assets/carousel/conference_carousel.jpg';
-import CarouselImgMeetups from '../../../assets/carousel/meetups_carousel.jpg';
-import CarouselImgCourses from '../../../assets/carousel/courses_carousel.jpg';
+import ConferenceImage from '../../../assets/carousel/conference_carousel.jpg';
+import MeetupsImage from '../../../assets/carousel/meetups_carousel.jpg';
+import CoursesImage from '../../../assets/carousel/courses_carousel.jpg';
+import ConsultancyImage from '../../../assets/carousel/consultancy_carousel.jpg';
 import './HomepageCarousel.css';
 
 function HomepageCarousel() {
@@ -16,7 +17,7 @@ function HomepageCarousel() {
         >
           <img
             className="d-block w-100 carousel-img"
-            src={CarouselImgConference}
+            src={ConferenceImage}
             alt="First slide"
           />
           <Carousel.Caption>
@@ -26,11 +27,28 @@ function HomepageCarousel() {
       </Carousel.Item>
 
       <Carousel.Item>
-        <a href="/meetups" target="_blank" rel="noopener noreferrer">
+        <a href="/consultancy" target="_blank" rel="noopener noreferrer">
           <img
             className="d-block w-100 carousel-img"
-            src={CarouselImgMeetups}
+            src={ConsultancyImage}
             alt="Second slide"
+          />
+          <Carousel.Caption>
+            <h5>Consultancy</h5>
+          </Carousel.Caption>
+        </a>
+      </Carousel.Item>
+
+      <Carousel.Item>
+        <a
+          href=" https://www.meetup.com/Productized/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            className="d-block w-100 carousel-img"
+            src={MeetupsImage}
+            alt="Third slide"
           />
           <Carousel.Caption>
             <h5>Meetups</h5>
@@ -42,8 +60,8 @@ function HomepageCarousel() {
         <a href="/courses" target="_blank" rel="noopener noreferrer">
           <img
             className="d-block w-100 carousel-img"
-            src={CarouselImgCourses}
-            alt="Third slide"
+            src={CoursesImage}
+            alt="Forth slide"
           />
           <Carousel.Caption>
             <h5>Courses</h5>

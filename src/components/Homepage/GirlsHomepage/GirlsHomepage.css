@@ -1,15 +1,26 @@
-.podcast {
-  margin: 0px 0px 8.5px 0px;
+.section-subtitle {
+  margin: 0px 0px 0px 0px;
   font-size: 1em;
+  color: #464646;
+}
+
+.section-p {
+  margin: 0px;
 }
 
 .girl-title-content {
   text-align: center;
-  width: 80%;
+  margin: 0px 0px 10px 0px;
+  padding: 0% 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.girls-product {
+.section-title {
   font-family: Klavika Bold;
+  color: #292929;
 }
 
 .girl-cards img {
@@ -17,7 +28,7 @@
 }
 
 .girl-main-container {
-  margin-top: 3rem;
+  margin-top: 30px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -26,7 +37,7 @@
 }
 
 .girl-card-text {
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 10px 0px;
   text-align: center;
 }
 
@@ -40,34 +51,34 @@
   font-family: Klavika Bold;
 }
 
-@media (max-width: 768px) {
-  .girl-title-content {
-    font-size: 0.8em;
-    width: 90%;
-    margin: 0px 10px;
+@media (max-width: 742px) {
+  .section-subtitle {
+    font-size: 0.9em;
   }
 
-  .girls-product {
+  .section-title {
     font-size: 1.6em;
   }
 
   .girl-cards img {
-    width: 400px;
+    width: 450px;
   }
 
   .girls-button {
-    font-size: 0.8em;
-    margin-top: 10px;
-    padding: 6px 16px;
-    background-color: white;
-    font-family: Klavika Bold;
+    font-size: 0.9em;
+  }
+  .girl-card-text {
+    font-size: 17px;
   }
 }
 
 @media (max-width: 475px) {
-  .girl-title-content {
-    font-size: 0.7em;
-    width: 100%;
+  .section-subtitle {
+    font-size: 0.8em;
+  }
+
+  .section-title {
+    font-size: 1.3em;
   }
 
   .girl-cards img {
@@ -75,10 +86,6 @@
   }
 
   .girls-button {
-    font-size: 0.7em;
-    margin-top: 10px;
-    padding: 6px 16px;
-    background-color: white;
-    font-family: Klavika Bold;
+    font-size: 0.8em;
   }
 }

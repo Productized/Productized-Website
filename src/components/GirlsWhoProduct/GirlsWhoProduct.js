@@ -38,6 +38,19 @@ class GirlsWhoProduct extends React.Component {
             <GirlsWhoProductCard {...girlCard} />
           ))}
         </div>
+        <h2 className="more">and more...</h2>
+        <div className="link">
+          <a
+            className="gwp-banner"
+            href="https://soundcloud.com/productized"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <div className="all-girls-text">
+              <p className="all-girls">LISTEN TO ALL #GIRLSWHOPRODUCT</p>
+            </div>
+          </a>
+        </div>
       </div>
     );
   }

@@ -16,7 +16,7 @@ import PartnerYandexLogo from '../../../assets/partners/PartnerYandexLogo.png';
 export default function Partners() {
   return (
     <div className="partners-container">
-      <div className="title-content">
+      <div className="partner-title-content">
         <p className="partners-subtitle">PARTNERS</p>
         <h2 className="partners-title"> OUR PROUD CLIENTS </h2>
       </div>

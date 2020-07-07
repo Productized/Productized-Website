@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Alicia Goodwin",
-    "position": "Product Owner @ Zalando",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-alicia-goodwin-36d067c7f861?source=---------35------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alice-goodwin-a-product-owner-zalando",
-    "image": "https://drive.google.com/uc?export=view&id=1NwVSdWpRnz5YqWxvFa_WH3x5QJyI8DAa",
-    "localImage": "goodwin.jpg",
+    "name": "Lilly Beyond",
+    "position": "Confidence & Strategy Consultant @ Beyond Consulting",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-lilly-beyond-54a2f5f512c8?source=---------9------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidce-coach-strategy-consultant-beyond-consulting",
+    "image": "https://drive.google.com/uc?export=view&id=1Qb6OBniU4eJwt0wzRwcBdiCHcsvlVam3",
+    "localImage": "lily.png",
     "isDisplayed": true
   },
   {
@@ -57,7 +57,7 @@
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-vid-dinamani-founder-product-rebels",
     "image": "https://drive.google.com/uc?export=view&id=1lKPOE3aj9-M1XI8G2eHwyxkYKJwQSil5",
     "localImage": "vidya.jpg",
-    "isDisplayed": true
+    "isDisplayed": false
   },
 
   {
@@ -98,12 +98,13 @@
   },
   {
     "id": 11,
-    "name": "Lilly Beyond",
-    "position": "Confidence Coach & Strategy Consultant @ Beyond Consulting",
-    "medium": "https://medium.com/@Productized/girlswhoproduct-lilly-beyond-54a2f5f512c8?source=---------9------------------",
-    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidce-coach-strategy-consultant-beyond-consulting",
-    "image": "https://drive.google.com/uc?export=view&id=1Qb6OBniU4eJwt0wzRwcBdiCHcsvlVam3",
-    "isDisplayed": false
+    "name": "Alicia Goodwin",
+    "position": "Product Owner @ Zalando",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-alicia-goodwin-36d067c7f861?source=---------35------------------",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-alice-goodwin-a-product-owner-zalando",
+    "image": "https://drive.google.com/uc?export=view&id=1NwVSdWpRnz5YqWxvFa_WH3x5QJyI8DAa",
+    "localImage": "goodwin.jpg",
+    "isDisplayed": true
   },
 
   {

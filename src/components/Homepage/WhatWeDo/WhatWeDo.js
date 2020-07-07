@@ -12,7 +12,7 @@ function WhatWeDo() {
       <div className="whatwedo-div">
         <h6 className="section-subtitle">WHAT WE DO</h6>
         <h2 className="section-title">PRODUCTIZED</h2>
-        <p>
+        <p className="section-p">
           Productized organizes different activities with the intention to boost
           the product community around the world. It was created by
           professionals from the engineering and design space, with a history of

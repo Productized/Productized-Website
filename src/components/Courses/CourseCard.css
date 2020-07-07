@@ -6,11 +6,13 @@
   margin-top: 20px;
   box-shadow: 9px 9px 16px rgb(163, 177, 198, 0.6),
     -9px -9px 16px rgba(255, 255, 255, 0.5);
+  margin: 0px 20px 20px 20px;
 }
 
 .coursecard-img {
   width: 350px;
   height: 350px;
+  border-radius: 8px 8px 0px 0px;
   object-fit: cover;
   overflow: hidden;
 }
@@ -22,7 +24,7 @@
 }
 
 .coursecard-body h4 {
-  font-family: 'Klavika Bold';
+  font-family: Klavika Medium;
 }
 
 .coursecard-body p {
@@ -47,4 +49,27 @@
 
 .blue {
   background-color: #91d3f0;
+}
+
+@media (max-width: 420px) {
+  .coursecard {
+    width: 280px;
+  }
+
+  .coursecard-img {
+    width: 280px;
+    height: 280px;
+  }
+
+  .coursecard-body h4 {
+    font-size: 1.3em;
+  }
+
+  .coursecard-body p {
+    font-size: 0.9em;
+  }
+
+  .coursecard-button {
+    font-size: 0.9em;
+  }
 }

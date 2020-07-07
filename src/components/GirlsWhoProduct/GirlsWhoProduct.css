@@ -3,11 +3,46 @@
 }
 
 .girls-title {
-  font-family: Klavika Regular;
+  font-family: Klavika Medium;
   letter-spacing: 2px;
-  color: white;
+  color: #292929;
   font-size: 2.5em;
   padding-top: 15px;
+}
+
+.more {
+  color: #292929;
+  text-align: center;
+  font-family: Klavika Medium;
+  margin-bottom: 50px;
+}
+
+.gwp-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  background: #e83f36;
+  height: 90px;
+}
+
+.all-girls-text p {
+  margin: 0px;
+}
+
+.all-girls-text {
+  text-decoration: none;
+}
+
+.link a:link,
+.link a:hover,
+.link a:active,
+.link a:visited {
+  text-decoration: none;
+  color: #fff;
+  font-family: Klavika Medium;
+  font-size: 2em;
 }
 
 .girls-title-content {
@@ -29,8 +64,6 @@
   height: 80px;
   width: 100%;
   margin: 0px;
-  background-color: #e83f36;
-  text-shadow: 1px 1px 1px black;
 }
 
 .girls-main-container {
@@ -43,6 +76,7 @@
   box-shadow: 5px 5px 20px rgba(89, 88, 88, 0.3);
   background-color: rgb(0, 0, 148);
   z-index: 2;
+  border-radius: 8px;
 }
 
 .girls-cardimg {
@@ -50,6 +84,7 @@
   object-fit: cover;
   overflow: hidden;
   opacity: 0.6;
+  border-radius: 8px;
 }
 
 .girls-position {
@@ -117,32 +152,31 @@
   .girls-title {
     font-size: 2.2em;
     padding-top: 10px;
-    color: blue;
+  
   }
 
-  .girls-card-text {
-    width: 100%;
-    margin: 30px 20px;
-    text-align: center;
-  }
 
   .girls-text-content {
     height: 60px;
+  }
+  
+}
+
+@media screen and (max-width: 700px) {
+  .all-girls {
+    font-size: 30px;
+  }
+  .girls-card-text{
+    width:100%;
   }
 }
 
 @media screen and (max-width: 580px) {
   .girls-title {
-    font-size: 2.2em;
+    font-size: 2em;
     padding-top: 10px;
-    color: violet;
   }
-
-  .girls-card-text {
-    width: 100%;
-    margin: 30px 20px;
-    text-align: center;
-  }
+ 
 
   .girls-cardimg {
     width: 100%;
@@ -161,19 +195,35 @@
   }
 
   .girls-card-text {
-    width: 80%;
-    margin: 10%;
+    width: 100%;
     text-align: center;
   }
 
   .girls-name {
-    font-size: 0.2em;
-    font-family: Klavika Regular;
+    font-size: 1.2em;
+    margin-bottom: 10%;
   }
+  .girls-position{
+    display: none;
+  }
+  .girls-card-text {
+    font-size: 17px;
+  }
+  
 }
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 350px) {
   .girls-name {
-    font-size: 5px;
+    font-size: 0.8em;
+    margin-bottom: 10%;
+  }
+  .girls-position{
+    display: none;
+  }
+  .all-girls {
+    font-size: 20px;
+  }
+  .girls-card-text {
+    font-size: 17px;
   }
 }
