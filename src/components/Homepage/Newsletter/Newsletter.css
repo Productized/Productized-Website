@@ -23,6 +23,12 @@
   padding: 0;
 }
 
+.newsletter-p span {
+  font-family: Klavika Bold;
+  color: #91d3f0;
+  padding: 0px 5px;
+}
+
 .newsletter-button {
   background-color: #e83f36;
   border: 1px solid white;
