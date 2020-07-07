@@ -63,6 +63,9 @@
     background-color: white;
     font-family: Klavika Bold;
   }
+  .girl-card-text{
+    font-size: 17px;
+  }
 }
 
 @media (max-width: 475px) {
