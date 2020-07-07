@@ -206,6 +206,9 @@
   .girls-position{
     display: none;
   }
+  .girls-card-text {
+    font-size: 17px;
+  }
   
 }
 
@@ -219,5 +222,8 @@
   }
   .all-girls {
     font-size: 20px;
+  }
+  .girls-card-text {
+    font-size: 17px;
   }
 }
