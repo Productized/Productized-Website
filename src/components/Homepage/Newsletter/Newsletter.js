@@ -5,7 +5,8 @@ function Newsletter() {
   return (
     <div className="newsletter-div">
       <p className="newsletter-p">
-        SUBSCRIBE to our NEWSLETTER and get all the news about our LATEST events
+        SUBSCRIBE to our <span>NEWSLETTER</span> and get all the news about our
+        LATEST events
       </p>
       <a
         className="newsletter-button-link"
