@@ -1,3 +1,8 @@
+.team-titles-div {
+  margin-top: 40px;
+  text-align: center;
+}
+
 .our-team-subtitle {
   text-align: center;
   color: #464646;
@@ -95,7 +100,7 @@
   display: none;
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   .our-team-title {
     color: #292929;
     font-size: 32px;

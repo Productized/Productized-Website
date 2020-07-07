@@ -10,7 +10,7 @@ function OurTeam() {
 
   return (
     <div>
-      <div className="title-content">
+      <div className="team-titles-div">
         <p className="our-team-subtitle">DEDICATED</p>
         <h2 className="our-team-title"> OUR TEAM </h2>
       </div>
