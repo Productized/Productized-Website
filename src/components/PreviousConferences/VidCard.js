@@ -11,8 +11,7 @@ function VidCard(props) {
     <div className="videocard-div">
       <iframe
         style={{ display: IsIframeDisplayed }}
-        width="356"
-        height="200"
+        className="custom-card"
         title={video.title}
         src={`${video.link}?autoplay=${autoplayOn}`}
         frameborder="0"
@@ -28,8 +27,7 @@ function VidCard(props) {
       />
       <img
         style={{ display: isImageDisplayed }}
-        width="356"
-        height="200"
+        className="custom-card"
         src={require(`../../assets/previousconferences/conferences/${video.imageLocal}`)}
         alt={video.title}
         onMouseEnter={() => {
