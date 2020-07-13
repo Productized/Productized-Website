@@ -5,11 +5,15 @@
 .whatwedo-div {
   text-align: center;
   margin: 0px 0px 20px 0px;
-  padding: 0% 5%;
+  padding: 0px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.section-p {
+  width: 75%;
 }
 
 .whatwedocard-div {
@@ -29,6 +33,12 @@
   color: #292929;
 }
 
+@media (max-width: 900px) {
+  .section-p {
+    width: 90%;
+  }
+}
+
 @media (max-width: 742px) {
   .section-subtitle {
     font-size: 0.9em;
@@ -36,6 +46,11 @@
 
   .section-title {
     font-size: 1.6em;
+  }
+
+  .section-p {
+    font-size: 0.9em;
+    width: 100%;
   }
 }
 
