@@ -19,7 +19,7 @@
     "eventName": "Sarah Garcia",
     "imageBackground": "CalendarEvent2.jpg",
     "eventLink": "",
-    "isDisplayed": true
+    "isDisplayed": false
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "eventName": "#GWP - Karianna",
     "imageBackground": "CalendarEvent3.jpg",
     "eventLink": "",
-    "isDisplayed": true
+    "isDisplayed": false
   },
   {
     "id": 4,
