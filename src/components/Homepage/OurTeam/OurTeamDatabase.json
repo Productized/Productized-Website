@@ -52,7 +52,7 @@
   },
   {
     "id": 6,
-    "image": "Patricia_Travessa.jpg",
+    "image": "Patricia_Travessa.jpeg",
     "name": "Patrícia Travessa",
     "description": "Operations Manager",
     "linkedin": "https://www.linkedin.com/in/patriciatravessa/",
@@ -62,12 +62,22 @@
   },
   {
     "id": 7,
-    "image": "Sara_Cerqueira.jpg",
+    "image": "Sara_Cerqueira.jpeg",
     "name": "Sara Cerqueira",
     "description": "Marketing Assistant",
     "linkedin": "https://www.linkedin.com/in/saracerqueira/",
     "twitter": "",
     "email": "sara@productized.co",
+    "isDisplayed": true
+  },
+  {
+    "id": 8,
+    "image": "Paulo_Gaudencio.jpeg",
+    "name": "Paulo Gaudêncio",
+    "description": "Digital Product Specialist. Startup Founder. Innovator at Heart. e-Commerce & Analytics Passion. Agile Enthusiast. Workshopper",
+    "linkedin": "https://www.linkedin.com/in/paulogaudencio/",
+    "twitter": "https://twitter.com/paulo_gaudencio",
+    "email": "paulo@productized.co",
     "isDisplayed": true
   }
 ]
