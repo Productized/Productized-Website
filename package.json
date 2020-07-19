@@ -2,6 +2,7 @@
   "name": "productized",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://services.productized.co/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-brands-svg-icons": "^5.13.1",
