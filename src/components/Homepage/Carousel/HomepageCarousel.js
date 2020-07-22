@@ -11,7 +11,7 @@ function HomepageCarousel() {
     <Carousel interval="4000">
       <Carousel.Item>
         <a
-          href="https://productized.co/"
+          href="https://conference.productized.co/"
           target="_blank"
           rel="noopener noreferrer"
         >
