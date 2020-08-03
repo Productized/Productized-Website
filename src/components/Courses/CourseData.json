@@ -8,5 +8,15 @@
     "buttonLink": "https://productizedemy.teachable.com/p/product-management-fundamentals",
     "backgroundColor": "red",
     "isDisplayed": true
+  },
+  {
+    "id": 1,
+    "image": "ProdMgmtFundamentals.jpg",
+    "title": "Digital Product Management Fundamentals",
+    "description": "A venture between Universidade Católica Portuguesa",
+    "button": "COMING SOON",
+    "buttonLink": "",
+    "backgroundColor": "yellow",
+    "isDisplayed": true
   }
 ]
