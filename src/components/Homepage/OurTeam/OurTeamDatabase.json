@@ -50,16 +50,7 @@
     "email": "teresa.segismundo@productized.co",
     "isDisplayed": true
   },
-  {
-    "id": 6,
-    "image": "Patricia_Travessa.jpeg",
-    "name": "Patrícia Travessa",
-    "description": "Operations Manager",
-    "linkedin": "https://www.linkedin.com/in/patriciatravessa/",
-    "twitter": "",
-    "email": "accounting@productized.co",
-    "isDisplayed": true
-  },
+
   {
     "id": 7,
     "image": "Sara_Cerqueira.jpeg",

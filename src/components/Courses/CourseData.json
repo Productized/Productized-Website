@@ -12,9 +12,9 @@
   {
     "id": 2,
     "image": "catolica_school.jpg",
-    "title": "Digital Product Management Fundamentals",
+    "title": "Digital Product Management Course",
     "description": "A venture between Universidade Católica Portuguesa",
-    "button": "Register now",
+    "button": "REGISTER NOW",
     "buttonLink": "https://www.clsbe.lisboa.ucp.pt/executivos/digitalproductmanagement",
     "backgroundColor": "blue",
     "isDisplayed": true
