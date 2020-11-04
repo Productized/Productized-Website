@@ -24,6 +24,7 @@ function Consultancy() {
           </p>
         </div>
       </div>
+
       <div className="rows-setup">
         <img
           className="consultancy-card-image show-small"
@@ -46,6 +47,7 @@ function Consultancy() {
           alt="Innovation Programmes"
         />
       </div>
+
       <div className="rows-setup">
         <img
           className="consultancy-card-image"
@@ -67,6 +69,8 @@ function Consultancy() {
           </p>
         </div>
       </div>
+      
+
       <div className="rows-setup">
         <img
           className="consultancy-card-image show-small"
@@ -95,6 +99,9 @@ function Consultancy() {
           alt="Product Management"
         />
       </div>
+
+
+
       <div className="rows-setup">
         <img
           className="consultancy-card-image"
@@ -112,8 +119,9 @@ function Consultancy() {
             positioning and communicate about innovation challenges.
           </p>
         </div>
+
       </div>
-    </div>
+  </div>
   );
 }
 

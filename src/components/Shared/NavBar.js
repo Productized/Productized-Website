@@ -30,6 +30,7 @@ function NavBar() {
             title="Conferences"
             id="basic-nav-dropdown"
           >
+          
             <NavDropdown.Item
               className="text-center"
               as={Link}

@@ -9,6 +9,9 @@
     "localImage": "lily.png",
     "isDisplayed": true
   },
+  
+
+
   {
     "id": 2,
     "name": "Alison Jolly",
@@ -151,6 +154,16 @@
     "medium": "https://medium.com/@Productized/girlswhoproduct-claire-vo-f0b002d27b67?source=---------27------------------",
     "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-claire-vo-svp-optimizely",
     "image": "https://drive.google.com/uc?export=view&id=1sORlFB7LS0mzi2ljjPKKTeduphW1vCVk",
+    "isDisplayed": false
+  },
+  {
+    "id": 17,
+    "name": "Catherine Louis",
+    "position": "Confidence & Strategy Consultant @ Beyond Consulting",
+    "medium": "https://medium.com/@Productized/girlswhoproduct-catherine-louis-3937b03d1f11",
+    "soundcloud": "https://soundcloud.com/productized/girlswhoproduct-with-lilly-beyond-confidce-coach-strategy-consultant-beyond-consulting",
+    "image": "https://drive.google.com/uc?export=view&id=1Qb6OBniU4eJwt0wzRwcBdiCHcsvlVam3",
+    "localImage": "catherine.jpg",
     "isDisplayed": false
   }
 ]
