@@ -70,73 +70,10 @@
     "twitter": "https://twitter.com/paulo_gaudencio",
     "email": "paulo@productized.co",
     "isDisplayed": true
-  },
-
-  {
-    "id": 9,
-    "image": "Andrea_Campagnoli.jpg",
-    "name": "Andrea Campagnoli",
-    "description": "Scrum Master",
-    "linkedin": "https://www.linkedin.com/in/andrea-campagnoli/",
-    "twitter": "",
-    "email": "andrea.campagnoli@productized.co",
-    "isDisplayed": true
-  },
-
-  {
-    "id": 10,
-    "image": "Elena_Tisato.jpg",
-    "name": "Elena Tisato",
-    "description": "Inside Sales",
-    "linkedin": "https://www.linkedin.com/in/elena-tisato/",
-    "twitter": "",
-    "email": "elena@productized.co",
-    "isDisplayed": true
-  },
-
-  {
-    "id": 11,
-    "image": "Joao_Filipe.jpg",
-    "name": "João Filipe",
-    "description": "Web Developer",
-    "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-filipe-504b5a1a7/",
-    "twitter": "",
-    "email": "joao.filipe@productized.co ",
-    "isDisplayed": true
-  },
-
-  {
-    "id": 12,
-    "image": "Angelika_Morongova.jpg",
-    "name": "Angelika Morongova",
-    "description": "Customer Manager",
-    "linkedin": "https://www.linkedin.com/in/angelika-morongov%C3%A1-aa3060174/",
-    "twitter": "",
-    "email": "angelika@productized.co ",
-    "isDisplayed": true
-  },
-
-  {
-    "id": 13,
-    "image": "Maria_Pereira.jpg",
-    "name": "Maria Pereira",
-    "description": "Administration Manager",
-    "linkedin": "https://www.linkedin.com/in/maria-pereira-647773152",
-    "twitter": "",
-    "email": "accounting@productized.co",
-    "isDisplayed": true
-  },
-
-  {
-    "id": 14,
-    "image": "Filipa_Ferreira.jpg",
-    "name": "Filipa Ferreira",
-    "description": "Designer",
-    "linkedin": "https://www.linkedin.com/in/filipaferreira-/",
-    "twitter": "",
-    "email": "filipa.ferreira@productized.co ",
-    "isDisplayed": true
   }
+
+
+
 
 
 ]

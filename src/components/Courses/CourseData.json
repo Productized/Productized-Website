@@ -18,5 +18,15 @@
     "buttonLink": "https://www.clsbe.lisboa.ucp.pt/executivos/digitalproductmanagement",
     "backgroundColor": "blue",
     "isDisplayed": true
+  },
+  {
+    "id": 3,
+    "image": "WCS_logo.png",
+    "title": "Digital Product Management Course",
+    "description": "A venture between Wild Code School",
+    "button": "LEARN MORE",
+    "buttonLink": "https://www.wildcodeschool.com/en-GB/trainings/product-management-part-time",
+    "backgroundColor": "yellow",
+    "isDisplayed": true
   }
 ]
