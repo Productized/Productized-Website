@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import ConferenceImage from '../../../assets/carousel/conference_carousel.jpg';
+import ConferenceImage from '../../../assets/carousel/ProMastersHeader_carousel.png';
 import MeetupsImage from '../../../assets/carousel/meetups_carousel.jpg';
 import CoursesImage from '../../../assets/carousel/courses_carousel.jpg';
 import ConsultancyImage from '../../../assets/carousel/consultancy_carousel.jpg';
@@ -11,7 +11,7 @@ function HomepageCarousel() {
     <Carousel interval="4000">
       <Carousel.Item>
         <a
-          href="https://conference.productized.co/"
+          href="masters.productized.co?utm_source=website&utm_medium=carousel&utm_campaign=pro_website"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -21,7 +21,7 @@ function HomepageCarousel() {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h5>Conference 2020</h5>
+            <h5>Productized Masterclasses 2021</h5>
           </Carousel.Caption>
         </a>
       </Carousel.Item>
