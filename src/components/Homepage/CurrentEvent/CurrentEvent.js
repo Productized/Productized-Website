@@ -1,6 +1,6 @@
 import React from 'react';
 import './CurrentEvent.css';
-import CurrentEventLogo from '../../../assets/current-event/CurrentEventLogo.png';
+import CurrentEventLogo from '../../../assets/current-event/MasterLogoWhite.png';
 
 function CurrentEvent() {
   return (
@@ -11,12 +11,11 @@ function CurrentEvent() {
         alt="conference logo"
       />
       <p className="current-event-p">
-        If you are looking for PRODUCTIZED <span>CONFERENCE</span> checkout our
-        conference website
+        If you are looking for PRODUCTIZED <span>MASTERCLASSES</span> checkout our website
       </p>
       <a
         className="current-event-button-link"
-        href="https://conference.productized.co/"
+        href="masters.productized.co?utm_source=website&utm_medium=banner1&utm_campaign=pro_website"
         target="_blank"
         rel="noopener noreferrer"
       >

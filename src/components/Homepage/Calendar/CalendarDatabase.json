@@ -1,123 +1,13 @@
 [
   {
-    "id": 4,
-    "year": "2020",
-    "month": "JUL",
-    "day": "23",
-    "weekday": "THU",
-    "eventName": "Live #GirlsWhoProduct with Sabrina Rzepka",
+    "id": 1,
+    "year": "2021",
+    "month": "MAY",
+    "day": "27-28",
+    "weekday": "THU-FRI",
+    "eventName": "Productized Masterclasses",
     "imageBackground": "CalendarEvent4.jpg",
-    "eventLink": "https://zoom.us/webinar/register/WN_7jazrbsiSdao6hmbWiZ1eQ",
-    "date": "2020-07-23"
-  },
-  {
-    "id": 5,
-    "year": "2020",
-    "month": "JUL",
-    "day": "23",
-    "weekday": "THU",
-    "eventName": "Techniques for Mission Critical Design Online Workshop",
-    "imageBackground": "CalendarEvent5.jpg",
-    "eventLink": "https://www.eventbrite.com/e/techniques-for-mission-critical-design-online-workshop-tickets-109948077660)",
-    "date": "2020-07-23"
-  },
-  {
-    "id": 6,
-    "year": "2020",
-    "month": "SEP",
-    "day": "10",
-    "weekday": "THU",
-    "eventName": "Go Where Your Users Are: In Field Research Methods Online Workshop",
-    "imageBackground": "CalendarEvent6.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110965260080",
-    "date": "2020-09-10"
-  },
-  {
-    "id": 14,
-    "year": "2020",
-    "month": "SEP",
-    "day": "10",
-    "weekday": "THU",
-    "eventName": "Think like a Product Manager",
-    "imageBackground": "CalendarEvent6.jpg",
-    "eventLink": "",
-    "date": "2020-09-10"
-  },
-  {
-    "id": 7,
-    "year": "2020",
-    "month": "SEP",
-    "day": "17",
-    "weekday": "THU",
-    "eventName": "Negotiations for Product Managers Online Workshop",
-    "imageBackground": "CalendarEvent7.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110965607118",
-    "date": "2020-09-17"
-  },
-  {
-    "id": 8,
-    "year": "2020",
-    "month": "SEP",
-    "day": "24",
-    "weekday": "THU",
-    "eventName": "'YEAH, BUT...' - Platform Businesses for Product Online Workshop",
-    "imageBackground": "CalendarEvent8.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110966840808",
-    "date": "2020-09-24"
-  },
-  {
-    "id": 9,
-    "year": "2020",
-    "month": "OCT",
-    "day": "01",
-    "weekday": "THU",
-    "eventName": "Remote Design Sprint in under 150 minutes Online Workshop",
-    "imageBackground": "CalendarEvent9.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110969895946",
-    "date": "2020-10-01"
-  },
-  {
-    "id": 10,
-    "year": "2020",
-    "month": "OCT",
-    "day": "15",
-    "weekday": "THU",
-    "eventName": "Jazz, Design Sprints & the Art of Making the Right Mistakes Online Workshop",
-    "imageBackground": "CalendarEvent10.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110967424554",
-    "date": "2020-10-15"
-  },
-  {
-    "id": 11,
-    "year": "2020",
-    "month": "OCT",
-    "day": "22",
-    "weekday": "THU",
-    "eventName": "Create Your Killer Product Strategy Online Workshop",
-    "imageBackground": "CalendarEvent1.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110967903988",
-    "date": "2020-10-22"
-  },
-  {
-    "id": 12,
-    "year": "2020",
-    "month": "OCT",
-    "day": "29",
-    "weekday": "THU",
-    "eventName": "Conflict Resolution for People Who Hate Conflict Online Workshop",
-    "imageBackground": "CalendarEvent2.jpg",
-    "eventLink": "https://www.eventbrite.com/e/110968483722",
-    "date": "2020-10-29"
-  },
-  {
-    "id": 13,
-    "year": "2020",
-    "month": "NOV",
-    "day": "26-27",
-    "weekday": "WED-THU",
-    "eventName": "Productized Online Conference",
-    "imageBackground": "CalendarEvent4.jpg",
-    "eventLink": "https://www.eventbrite.com/e/registo-productized-online-conference-2020-92365556867",
-    "date": "2020-11-27"
+    "eventLink": "masters.productized.co?utm_source=website&utm_medium=calendar&utm_campaign=pro_website",
+    "date": "2021-05-27"
   }
 ]
