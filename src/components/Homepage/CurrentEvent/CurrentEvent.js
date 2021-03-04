@@ -15,7 +15,7 @@ function CurrentEvent() {
       </p>
       <a
         className="current-event-button-link"
-        href="masters.productized.co?utm_source=website&utm_medium=banner1&utm_campaign=pro_website"
+        href="https://masters.productized.co?utm_source=website&utm_medium=banner1&utm_campaign=pro_website"
         target="_blank"
         rel="noopener noreferrer"
       >

@@ -11,7 +11,7 @@ function HomepageCarousel() {
     <Carousel interval="4000">
       <Carousel.Item>
         <a
-          href="masters.productized.co?utm_source=website&utm_medium=carousel&utm_campaign=pro_website"
+          href="https://masters.productized.co?utm_source=website&utm_medium=carousel&utm_campaign=pro_website"
           target="_blank"
           rel="noopener noreferrer"
         >
