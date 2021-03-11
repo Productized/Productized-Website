@@ -2,6 +2,50 @@
   {
     "id": 1,
     "year": "2021",
+    "month": "MAR",
+    "day": "18",
+    "weekday": "6pm WET",
+    "eventName": "Live Podcast with Paul Debahy",
+    "imageBackground": "CalendarEvent8.jpg",
+    "eventLink": "https://productized-co.zoom.us/webinar/register/1016153886188/WN_N7cEy-6wTfaAdh03NZHpGQ",
+    "date": "2021-03-18"
+  },
+  {
+    "id": 2,
+    "year": "2021",
+    "month": "MAR",
+    "day": "23",
+    "weekday": "6pm WET",
+    "eventName": "Live Podcast with Dan Olsen",
+    "imageBackground": "CalendarEvent8.jpg",
+    "eventLink": "https://productized-co.zoom.us/meeting/register/tJUlde-spjkjGdeUzcW0Zs2bUM32RlVSnEeW",
+    "date": "2021-03-23"
+  },
+  {
+    "id": 3,
+    "year": "2021",
+    "month": "MAR",
+    "day": "25",
+    "weekday": "4pm WET",
+    "eventName": "Live Podcast with Teresa Torres",
+    "imageBackground": "CalendarEvent8.jpg",
+    "eventLink": "https://productized-co.zoom.us/webinar/register/2616153886434/WN_mIXtEEb3QpO_Z1WKbrqtmg",
+    "date": "2021-03-25"
+  },
+  {
+    "id": 4,
+    "year": "2021",
+    "month": "APR",
+    "day": "15",
+    "weekday": "5pm WEST",
+    "eventName": "Tools for PM's with Balsamiq (Live Webinar)",
+    "imageBackground": "CalendarEvent5.jpg",
+    "eventLink": "https://productized-co.zoom.us/meeting/register/tJUucOmpqz8qGtwOC9ft4OTjSoCNMRLtU1B3",
+    "date": "2021-04-15"
+  },
+  {
+    "id": 5,
+    "year": "2021",
     "month": "MAY",
     "day": "27-28",
     "weekday": "THU-FRI",
